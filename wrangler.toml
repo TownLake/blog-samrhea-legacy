@@ -1,0 +1,14 @@
+account_id = "CF_ACCOUNT_ID"
+name = "blog-samrhea"
+type = "webpack"
+route = "blog.samrhea.com/*"
+workers_dev = false
+zone_id = "CF_ZONE_ID"
+
+[env.staging]
+name = "blog-staging"
+route = "blog-staging.samrhea.com/*"
+
+[site]
+bucket = "public"
+entry-point = "workers-site"
