@@ -7,7 +7,7 @@ theme = "hugo-cactus-theme"
 [params]
         name = "Sam Rhea"
         description = "Sam Rhea's blog"
-        bio = "A Texan in Portugal testing drafts. "
+        bio = "A Texan in Portugal. "
         # Enter optionally your twitter account
         twitter = "LakeAustinBlvd"
         enableRSS = true
