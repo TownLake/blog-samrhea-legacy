@@ -41,7 +41,7 @@ That seems silly, but even more so, I think the less presentable history of a bl
 
 The finished product, the actual blog at its hostname, is still shiny. If users only want to interact with blogs at that level, then it's available. However, using GitHub as a CMS makes this a potential new way for audiences to connect with stories and topics.
 
-So I'm goign to [open source](https://github.com/AustinCorridor/blog-samrhea) the GitHub repository that houses the blog - including its content and configuration.
+So I'm going to [open source](https://github.com/AustinCorridor/blog-samrhea) the GitHub repository that houses the blog - including its content and configuration.
 
 <div style="text-align:center">
 <img src="/static/serverless-cms/github-open.png" class="center" width="500"/>
