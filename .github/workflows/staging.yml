@@ -3,7 +3,7 @@ name: Deploy to Workers Staging
 on:
   push:
     branches:
-      - 'drafts/*'
+      - 'draft/*'
 
 jobs:
   build:
