@@ -15,7 +15,7 @@ My old stack consisted of a WordPress instance running on a prebuilt image from 
 The migration replaced GCP with Cloudflare Workers for compute. On the storage side, I traded that GCP peristent disk for Workers KV. Those changes lowered the cost of running this tiny blog and I removed some of the hassle - instead of managing a GCP deployment, I could use the [Wrangler](https://github.com/cloudflare/wrangler) command line tool to push my static site to Cloudflare.
 
 <div style="text-align:center">
-<img src="/static/serverless-cms/stack-compare.png" class="center"/>
+<img src="/static/serverless-cms/stack-compare-new.png" class="center"/>
 </div>
 
 <p>
@@ -44,7 +44,7 @@ The finished product, the actual blog at its hostname, is still shiny. If users 
 So I'm goign to [open source](https://github.com/AustinCorridor/blog-samrhea) the GitHub repository that houses the blog - including its content and configuration.
 
 <div style="text-align:center">
-<img src="/static/serverless-cms/github.png" class="center" width="500"/>
+<img src="/static/serverless-cms/github-open.png" class="center" width="500"/>
 </div>
 
 <p>
@@ -68,7 +68,7 @@ However, I'm a product manager by day and feel a compulsive need to open tickets
 I have started to use the same public GitHub repo that stores this content to create issue tickets for new post ideas.
 
 <div style="text-align:center">
-<img src="/static/serverless-cms/github-issues.png" class="center"/>
+<img src="/static/serverless-cms/github-issues-table.png" class="center"/>
 </div>
 
 <p>
