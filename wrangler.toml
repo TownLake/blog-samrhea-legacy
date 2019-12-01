@@ -1,9 +1,9 @@
-account_id = "CF_ACCOUNT_ID"
+account_id = "eca95c4515a39540cafc79d7b2561a25"
 name = "blog-samrhea"
 type = "webpack"
 route = "blog.samrhea.com/*"
 workers_dev = false
-zone_id = "CF_ZONE_ID"
+zone_id = "629e8bfaf0bb8becf800b692bb4a5443"
 
 [env.staging]
 name = "blog-staging"
