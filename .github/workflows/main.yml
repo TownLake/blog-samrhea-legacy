@@ -1,4 +1,4 @@
-name: Deploy to Workers Staging
+name: Deploy to Workers Prod
 
 on:
   push:

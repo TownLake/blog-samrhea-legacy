@@ -2,7 +2,7 @@
 baseURL = "https://blog.samrhea.com/"
 languageCode = "en-us"
 title = "Sam Rhea's blog"
-theme = "hugo-cactus-theme"
+theme = "hugo-cactus-theme-avatar-mod"
 
 [params]
         name = "Sam Rhea"

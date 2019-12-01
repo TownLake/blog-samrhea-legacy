@@ -125,3 +125,11 @@ I spent some time in this post comparing this model to the WordPress workflow. T
 ## What's next?
 
 This is the first post being deployed using a new GitHub actions workflow for my blog (including a staging workflow!). My next post will walk through how that is set up.
+
+## Update
+
+In the process of writing about the value in open sourcing my blog post, I broke my blog. The thing I feared - that people could now see my dumb mistakes, came true. Immediately.
+
+(I managed to break how the Hugo theme I modified, but kept as a submodule, was used during the Hugo build in my GitHub action...)
+
+The blog is working, again, and now that mistake is part of its history too.
