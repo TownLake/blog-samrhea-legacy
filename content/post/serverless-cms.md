@@ -1,9 +1,9 @@
 ---
 author: "Sam Rhea"
 date: 2019-12-01
-linktitle: 🌐📰 open sourcing rough drafts
-title: 🌐📰 open sourcing rough drafts
-description: "Maybe GitHub+Hugo+Workers is the ideal blogging platform?"
+linktitle: 📂📰 open sourcing rough drafts
+title: 📂📰 open sourcing rough drafts
+description: "What if a public blog was also weirdly transparent?"
 ---
 
 Earlier this winter, I published two posts documenting the [migration](https://blog.samrhea.com/post/wrangler-sites/) of my personal blog to Cloudflare Workers Sites and my initial [deployment pipeline](https://blog.samrhea.com/post/deploy-pipeline/) in that new framework.
@@ -49,7 +49,7 @@ So I'm goign to [open source](https://github.com/AustinCorridor/blog-samrhea) th
 
 <p>
 
-The audience for my blog is extraordinarily tiny, and that's fine by me, but I hope this is an experiment other blogs consider.
+The audience for my blog is extraordinarily tiny, and that's fine by me, but I hope this is an experiment other blogs consider. Feel free to take a look at the commit history for this post [here](https://github.com/AustinCorridor/blog-samrhea/commits/draft/serverless-cms).
 
 > **💭 An aside on permanence.** I spend a lot of time thinking about the idea of digital permanence. In some ways, digital records provide security against any number of risks to other methods of storage. For example, my personal photos are backed up to two different providers and not subject to wear-and-tear. This also gives things a new level of portability. When I moved to Lisbon, my entire photo library and all the documents I've ever needed traveled in my pocket with me.
 > 
@@ -96,7 +96,15 @@ You could also just have them send over a document, and the associated images, a
 
 Instead, if the blog is open-sourced, guest authors can open a PR. I recognize that might present a new hurdle for people not familiar with a system like Git or a format like markdown. I don't have a good solution for that. However, it can be a fun way for guest authors who do feel comfortable with that workflow to contribute. The blog becomes a living project.
 
+## Workers Sites for anyone to deploy
+
+Anyone who wants to use this blog template can grab it from GitHub and follow the examples in the two `.toml` files to have their own blog up-and-running with Cloudflare Workers Sites. Every config change, theme edit, or deployment pipeline setting is available for any author who wants to use it as a reference. That feels easier than trying to teach someone how to start an image in GCP and configure and maintain their own CMS and blog.
+
+I find following examples to be really helpful when learning something new. By open sourcing a blog like this, hopefully that is useful to someone else.
+
 ## What this isn't
+
+Open sourcing a blog on GitHub is probably only a good idea for personal or hobby blogs.
 
 **End-to-end serverless**
 
@@ -105,6 +113,14 @@ GitHub has servers. I just don't manage them. The entire process for me, includi
 **Useful for a company**
 
 This is a personal blog. Nothing is announced here. For teams and companies, that's not viable - announcements and releases involve coordination that, for good reason, should be done behind the scenes.
+
+**Helpful if your blog is a business**
+
+WordPress plugins make life easy for people who run their blogs as their businesses. Static site generators like Hugo just don't have the same functionality.
+
+**An everyday blogging platform**
+
+I spent some time in this post comparing this model to the WordPress workflow. That of course ignores platforms like Medium. I like the idea of open sourcing a blog with GitHub because of the potential that transparency provides. If you need to start a blog right now with no maintenance burden or development time, this is not the best workflow.
 
 ## What's next?
 
