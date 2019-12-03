@@ -1,4 +1,3 @@
-# baseURL = "https://blog-staging.samrhea.com/"
 baseURL = "https://blog.samrhea.com/"
 languageCode = "en-us"
 title = "Sam Rhea's blog"
