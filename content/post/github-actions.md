@@ -4,10 +4,12 @@ date: 2019-12-03
 linktitle: 🏭🚢 Cloudflare Workers Sites and GitHub Actions
 title: 🏭🚢 Cloudflare Workers Sites and GitHub Actions
 images: ["https://blog.samrhea.com/static/eot/eot-overlap.png"]
-description: One step closer to writing this blog on my iPad.
+description: Automating this blog's deployment.
 ---
 
+## Deploying to staging vs production
 
+I use two GitHub actions for this blog; [one](https://github.com/AustinCorridor/blog-samrhea/blob/master/.github/workflows/staging.yml) to deploy to staging and [another](https://github.com/AustinCorridor/blog-samrhea/blob/master/.github/workflows/main.yml) to deploy to production.
 
 ```
 name: Deploy to Workers Staging
@@ -31,7 +33,7 @@ jobs:
         run: sudo npm i @cloudflare/wrangler -g
 
       - name: Build
-        run: hugo
+        run: hugo --environment staging
 
       - name: config wrangler
         run: CF_API_TOKEN=${{ secrets.CF_API_TOKEN }} wrangler publish --env staging 
@@ -53,6 +55,31 @@ jobs:
 <div style="text-align:center">
 <img src="/static/github-actions/staging-run.png" class="center"/>
 </div>
+
+<p>
+
+## Handling Hugo environments
+
+In my blog post on my first deployment pipeline for Workers Sites, I wrote about using two lines in my Hugo config file. One line pointed the `baseURL` to my production site; the other packaged my static site for staging. I would manually comment out one line when building the site, depending on where I was deploying.
+
+Not only is that inconvenient, it breaks down when I'm automating forked deployment pipelines. I cannot configure GitHub actions to manually comment a line out of a config file in the repository.
+
+As Dick Ceuppens [pointed out](https://twitter.com/dirk_ceuppens/status/1201535694277140482?s=20), Hugo makes it possible to keep two distinct config files and use arguments to specify which should run. The default file applies when I run `hugo`. The staging file only needs to contain the configuration details that change for staging deployments. When I run `hugo --environment staging` the lines from my staging file are injected and overwrite their production equivalents.
+
+My staging file now looks like this:
+
+```
+title = "Sam Rhea's blog (Staging)"
+baseURL = "https://blog-staging.samrhea.com/"
+```
+
+Both files are named `config.toml` so the folder structure needs to specify which is which:
+
+<div style="text-align:center">
+<img src="/static/github-actions/config-folders.png" width="300" class="center"/>
+</div>
+
+Now, when I run my staging deployment, Hugo builds the site for my staging hostname.
 
 ## Troubleshooting
 
@@ -80,3 +107,10 @@ In my case, I make edits to the theme for some of the site-wide files (like the 
 
 ### What about my environment variables in my `wrangler.toml` config file?
 
+The `wrangler.toml` file needs both my Cloudflare account tag and the zone tag for the hostname where I am deploying the Workers script. When I built the site locally, I saved those as local environment variables.
+
+With GitHub Actions, I need that to be explicit so I have added them to the public repository. These don't present a security risk to share in this way.
+
+## What's next?
+
+This is my fourth blog post _about_ writing this blog. I'm going to try and write about some other topics next and let this category rest a bit.
