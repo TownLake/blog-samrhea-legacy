@@ -11,6 +11,10 @@ description: Automating this blog's deployment.
 
 I use two GitHub actions for this blog; [one](https://github.com/AustinCorridor/blog-samrhea/blob/master/.github/workflows/staging.yml) to deploy to staging and [another](https://github.com/AustinCorridor/blog-samrhea/blob/master/.github/workflows/main.yml) to deploy to production.
 
+These actions automate the steps required to publish drafts to my staging blog (which lives at https://blog-staging.samrhea.com/) and the "production" blog available at https://blog.samrhea.com. Shameless plug: I keep my staging blog locked down from public view with [Cloudflare Access](https://www.cloudflare.com/products/cloudflare-access/).
+
+However, I need to tell GitHub what should go to staging and what should go to production. I want to signal that without manual configuration. 
+
 ```
 name: Deploy to Workers Staging
 
@@ -39,6 +43,8 @@ jobs:
         run: CF_API_TOKEN=${{ secrets.CF_API_TOKEN }} wrangler publish --env staging 
 ```
 
+One of my favorite things to do in tutorial blog posts is to break down config files with a table. A silly idea, but I find this really helpful in walking through what each line does.
+
 | Section | Description |
 |---|---|
 | `name` | This assigns a name to the entire GitHub action. Each GitHub action can contain one sequence of events. I'm going to call this "Deploy to Workers Staging" to differentiate from the action that deploys to production. |
@@ -60,7 +66,7 @@ jobs:
 
 ## Handling Hugo environments
 
-In my blog post on my first deployment pipeline for Workers Sites, I wrote about using two lines in my Hugo config file. One line pointed the `baseURL` to my production site; the other packaged my static site for staging. I would manually comment out one line when building the site, depending on where I was deploying.
+In my blog post detailing my first deployment pipeline for Workers Sites, I wrote about using two lines in my Hugo config file. One line pointed the `baseURL` to my production site; the other packaged my static site for staging. I would manually comment out one line when building the site, depending on where I was deploying.
 
 Not only is that inconvenient, it breaks down when I'm automating forked deployment pipelines. I cannot configure GitHub actions to manually comment a line out of a config file in the repository.
 
@@ -79,7 +85,7 @@ Both files are named `config.toml` so the folder structure needs to specify whic
 <img src="/static/github-actions/config-folders.png" width="300" class="center"/>
 </div>
 
-Now, when I run my staging deployment, Hugo builds the site for my staging hostname.
+Now, when I run my staging deployment, Hugo builds the site for my staging hostname. With GitHub actions, the staging action uses this environment variable to create the static site.
 
 ## Troubleshooting
 
