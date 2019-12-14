@@ -132,7 +132,7 @@ One of my favorite things to do in tutorial blog posts is to break down config f
 In this setup, I now start the name of all working branches with `draft/` and what follows is the content of my current post.
 
 <div style="text-align:center">
-<img src="/static/github-actions/branc-name.png" width="700" class="center"/>
+<img src="/static/github-actions/branch-name.png" width="700" class="center"/>
 </div>
 
 <p>
