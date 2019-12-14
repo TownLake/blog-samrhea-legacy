@@ -129,6 +129,14 @@ One of my favorite things to do in tutorial blog posts is to break down config f
 | `config wrangler` | In the previous steps, I installed Hugo, built the site, and installed Wrangler. All things I used to do on my laptop. Now, this GitHub machine has those pieces. I can have the machine run the same command I would run to deploy to staging. |
 | `--env staging` | The command I'm telling GitHub to run includes the staging flag. Take a look at the wrangler.toml file in this repository; that defines where to publish when I give it this flag. Here, that means the staging draft hits "blog-staging.samrhea.com" |
 
+In this setup, I now start the name of all working branches with `draft/` and what follows is the content of my current post.
+
+<div style="text-align:center">
+<img src="/static/github-actions/branc-name.png" width="700" class="center"/>
+</div>
+
+<p>
+
 ## Viewing logs
 
 Creating that workflow involved making some mistakes. To review what was actually happening, I need to view logs from the machine following the instructions I gave it.
