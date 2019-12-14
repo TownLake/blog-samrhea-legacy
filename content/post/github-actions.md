@@ -3,13 +3,13 @@ author: "Sam Rhea"
 date: 2019-12-14
 linktitle: 🏭🚢 Cloudflare Workers Sites and GitHub Actions
 title: 🏭🚢 Cloudflare Workers Sites and GitHub Actions
-images: ["https://blog.samrhea.com/static/eot/eot-overlap.png"]
+images: ["https://blog.samrhea.com/static/github-actions/staging-run.png"]
 description: Automating this blog's deployment.
 ---
 
-A couple months ago, I migrated this blog from WordPress and GCP to Cloudflare Workers. The blog itself is a Hugo static site, published with Wrangler, and I store the content in a now public GitHub repository.
+A couple months ago, I [migrated](https://blog.samrhea.com/post/wrangler-sites/) this blog from WordPress and GCP to Cloudflare Workers. The blog itself is a Hugo static site, published with Wrangler, and I store the content in a [now public](https://blog.samrhea.com/post/serverless-cms/) GitHub repository.
 
-I used Cloudflare Access and Wrangler to build a deployment pipeline that could publish a staging version of the site that was only visible to me. However, that still required manual steps. I would write content, manually publish it to staging, review and edit the post, and then manually publish it to production.
+I used Cloudflare Access and Wrangler to build a [deployment pipeline](https://blog.samrhea.com/post/deploy-pipeline/) that could publish a staging version of the site that was only visible to me. However, that still required manual steps. I would write content, manually publish it to staging, review and edit the post, and then manually publish it to production.
 
 I can use GitHub Actions to automate this entirely. Once complete, I can finally return to blogging about topics that aren't blogging.
 
