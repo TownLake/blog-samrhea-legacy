@@ -1,19 +1,90 @@
 ---
 author: "Sam Rhea"
-date: 2019-12-03
+date: 2019-12-14
 linktitle: 🏭🚢 Cloudflare Workers Sites and GitHub Actions
 title: 🏭🚢 Cloudflare Workers Sites and GitHub Actions
 images: ["https://blog.samrhea.com/static/eot/eot-overlap.png"]
 description: Automating this blog's deployment.
 ---
 
+A couple months ago, I migrated this blog from WordPress and GCP to Cloudflare Workers. The blog itself is a Hugo static site, published with Wrangler, and I store the content in a now public GitHub repository.
+
+I used Cloudflare Access and Wrangler to build a deployment pipeline that could publish a staging version of the site that was only visible to me. However, that still required manual steps. I would write content, manually publish it to staging, review and edit the post, and then manually publish it to production.
+
+I can use GitHub Actions to automate this entirely. Once complete, I can finally return to blogging about topics that aren't blogging.
+
+---
+
+**I have a few goals for this project:**
+
+* Automatically build and deploy my site to staging when I'm working on a draft post
+* Automatically build and deploy my site to production when I merge my draft post
+
+---
+
+**This walkthrough covers how to:**
+
+* Configure Hugo in GitHub Actions to build a static site at both a staging and production
+* Configure GitHub Actions to follow different workflows based on branch activity and merges
+* Configure Wrangler in GitHub Actions to publish to staging and production
+
+Time to complete: ~2 hours
+
+---
+
+> **👔 I work there.** I work at Cloudflare, but not on the Workers or network team. As far as the topics covered here, I'm a customer and [pay](https://twitter.com/LakeAustinBlvd/status/1200380340382191617) my own invoice for the services to run this blog.
+
+## GitHub Actions
+
+[GitHub Actions](https://github.com/features/actions) read from a configuration file in your repository, saved in a specific path, and follow the instructions in that file.
+
+You can specify the OS and OS version; GitHub will launch a VM or container based on that spec and then execute the steps in the file.
+
+In my case, I'll have GitHub launch a machine that follows the steps I used to take on my laptop. The Action will grab my repository, install Hugo, build the site, install Wrangler, and then publish the site. The example below breaks down every step in the file.
+
+First, though, I need to automate **me**, at least my identity.
+
+### GitHub secrets and Cloudflare API tokens
+
+When I perform those steps manually, I still need to login to my Cloudflare account. Once I authenticate, Wrangler has permissions to publish to my site.
+
+Since GitHub installs Wrangler which publishes to my account, I need to give it a way to login to my personal Cloudflare account on my behalf. This repo is public, so I definitely do not want to put those credentials in the file. Even if it were private, though, that would still be a terrible idea to save those in plain text in the configuration file.
+
+Instead, GitHub Actions provides a secret store where I can save a token, give it a name, and then the Action will securely pull and use that token during the workflow.
+
+Even though I trust that the token is kept a secret, I want to limit its permissions within my Cloudflare account to just be able to deploy Workers and only for my blog's hostname. Cloudflare [supports](https://blog.cloudflare.com/api-tokens-general-availability/) the creation of scoped API tokens to solve that problem.
+
+In the Cloudflare dashboard, under "My Profile", I'll create a new API token for this action with the permissions below.
+
+<div style="text-align:center">
+<img src="/static/github-actions/cloudflare-token-creation.png" width="700" class="center"/>
+</div>
+
+Once saved, I can come back and reference it as needed in the UI.
+
+<div style="text-align:center">
+<img src="/static/github-actions/cloudflare-token-view.png" width="700" class="center"/>
+</div>
+
+Next, I need to give that scoped token to GitHub. Back in my repository's settings page, I'll create a new secret and give it a name. In the example below, the one I'm actually using, `CF_API_TOKEN` has already been created.
+
+<div style="text-align:center">
+<img src="/static/github-actions/github-secrets-creation.png" width="700" class="center"/>
+</div>
+
+<p>
+
 ## Deploying to staging vs production
+
+Now that GitHub can impersonate me (to the extent that it can publish Workers for this blog's domain), I can teach it to follow my old workflow.
 
 I use two GitHub actions for this blog; [one](https://github.com/AustinCorridor/blog-samrhea/blob/master/.github/workflows/staging.yml) to deploy to staging and [another](https://github.com/AustinCorridor/blog-samrhea/blob/master/.github/workflows/main.yml) to deploy to production.
 
-These actions automate the steps required to publish drafts to my staging blog (which lives at https://blog-staging.samrhea.com/) and the "production" blog available at https://blog.samrhea.com. Shameless plug: I keep my staging blog locked down from public view with [Cloudflare Access](https://www.cloudflare.com/products/cloudflare-access/).
+These actions automate the steps required to publish drafts to my staging blog (which lives at `https://blog-staging.samrhea.com/`) and the "production" blog available at `https://blog.samrhea.com`. Shameless plug: I keep my staging blog locked down from public view with [Cloudflare Access](https://www.cloudflare.com/products/cloudflare-access/).
 
-However, I need to tell GitHub what should go to staging and what should go to production. I want to signal that without manual configuration. 
+However, I need to tell GitHub what should go to staging and what should go to production. I want to signal that without manual configuration.
+
+To do so, I'm going to rely on how I name branches. The file below will build my staging site and deploy it whenever I push a new version to a branch that starts with `draft`.
 
 ```
 name: Deploy to Workers Staging
@@ -57,6 +128,12 @@ One of my favorite things to do in tutorial blog posts is to break down config f
 | `Build` | Now that this machine has Hugo, from the install step earlier, I cann tell it to run a command that I used to run manually. Running "hugo" creates the static site content from my branch. |
 | `config wrangler` | In the previous steps, I installed Hugo, built the site, and installed Wrangler. All things I used to do on my laptop. Now, this GitHub machine has those pieces. I can have the machine run the same command I would run to deploy to staging. |
 | `--env staging` | The command I'm telling GitHub to run includes the staging flag. Take a look at the wrangler.toml file in this repository; that defines where to publish when I give it this flag. Here, that means the staging draft hits "blog-staging.samrhea.com" |
+
+## Viewing logs
+
+Creating that workflow involved making some mistakes. To review what was actually happening, I need to view logs from the machine following the instructions I gave it.
+
+In the GitHub Actions UI, I can review the relevant details from any given job. In the screenshot below, I see the standard output from Hugo when it builds the site. If you run into trouble, I'd recommend starting here.
 
 <div style="text-align:center">
 <img src="/static/github-actions/staging-run.png" class="center"/>
