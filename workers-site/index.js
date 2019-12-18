@@ -35,11 +35,13 @@ async function handleEvent(event) {
   // options.mapRequestToAsset = handlePrefix(/^\/docs/)
 
   try {
+    options.cacheControl = {
+      browserTTL: 60,
+      edgeTTL: 60,
+    }
     if (DEBUG) {
       // customize caching
-      options.cacheControl = {
-        bypassCache: true,
-      }
+      options.cacheControl.bypassCache = true
     }
     return await getAssetFromKV(event, options)
   } catch (e) {
