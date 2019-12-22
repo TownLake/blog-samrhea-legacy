@@ -19,7 +19,7 @@ jobs:
         run: sudo npm i @cloudflare/wrangler -g
 
       - name: Install KV Asset Handler
-        run: sudo npm i @cloudflare/kv-asset-handler
+        run: sudo npm i @cloudflare/kv-asset-handler -g
 
       - name: Build
         run: hugo
