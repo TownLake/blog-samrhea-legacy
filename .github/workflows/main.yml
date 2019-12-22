@@ -16,7 +16,7 @@ jobs:
         run: sudo snap install hugo
 
       - name: Install Wrangler
-        run: sudo cargo install wranler -g
+        run: sudo cargo install wrangler
 
       - name: Build
         run: hugo
