@@ -20,9 +20,6 @@ jobs:
 
       - name: Install KV Asset Handler
         run: sudo npm i @cloudflare/kv-asset-handler -g
-      
-      - name: Create Workers Site
-        run: wrangler init --site blog-samrhea
 
       - name: Build
         run: hugo
