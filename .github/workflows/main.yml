@@ -12,6 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
+      - name: Install Rust
+        run: sudo curl https://sh.rustup.rs -sSf | sh
+
       - name: Install Hugo
         run: sudo snap install hugo
 
