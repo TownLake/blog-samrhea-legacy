@@ -13,7 +13,8 @@ jobs:
       - uses: actions/checkout@master
 
       - name: Install Hugo
-        run: sudo snap install hugo
+        run: sudo wget https://github.com/gohugoio/hugo/releases/download/v0.62.0/hugo_0.62.0_Linux-64bit.deb
+        run: sudo dpkg -i hugo_0.62.0_Linux-64bit.deb
 
       - name: Install Wrangler
         run: sudo npm i @cloudflare/wrangler -g
