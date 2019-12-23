@@ -12,8 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - name: Install Hugo
+      - name: Download Hugo
         run: sudo wget https://github.com/gohugoio/hugo/releases/download/v0.62.0/hugo_0.62.0_Linux-64bit.deb
+
+      - name: Install Hugo
         run: sudo dpkg -i hugo_0.62.0_Linux-64bit.deb
 
       - name: Install Wrangler
@@ -22,5 +24,5 @@ jobs:
       - name: Build
         run: hugo
 
-      - name: config wrangler fix
+      - name: config wrangler
         run: CF_API_TOKEN=${{ secrets.CF_API_TOKEN }} wrangler publish --env staging 
