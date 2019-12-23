@@ -12,17 +12,17 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
+      - name: Install Rust
+        run: sudo curl https://sh.rustup.rs -g -y
+
       - name: Install Hugo
         run: sudo snap install hugo
 
       - name: Install Wrangler
-        run: sudo npm i @cloudflare/wrangler -g
-
-      - name: Install KV Asset Handler
-        run: sudo npm i @cloudflare/kv-asset-handler -g
+        run: sudo cargo install wrangler
 
       - name: Build
-        run: hugo --environment staging
+        run: hugo
 
       - name: config wrangler
-        run: CF_API_TOKEN=${{ secrets.CF_API_TOKEN }} wrangler publish --env staging 
+        run: sudo CF_API_TOKEN=${{ secrets.CF_API_TOKEN }} wrangler publish

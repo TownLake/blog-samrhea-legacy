@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@master
 
       - name: Install Rust
-        run: sudo curl https://sh.rustup.rs -sSf -y | sh
+        run: sudo curl https://sh.rustup.rs -g -y
 
       - name: Install Hugo
         run: sudo snap install hugo
