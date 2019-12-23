@@ -42,6 +42,11 @@ theme = "hugo-cactus-theme-avatar-mod"
     # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
     socialIconStyle = "circle"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
 # Add additional social link entries underneath
 [social]
     twitter  = "https://www.twitter.com/LakeAustinBlvd"
