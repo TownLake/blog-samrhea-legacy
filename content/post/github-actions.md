@@ -72,8 +72,6 @@ Next, I need to give that scoped token to GitHub. Back in my repository's settin
 <img src="/static/github-actions/github-secrets-creation.png" width="700" class="center"/>
 </div>
 
-<p>
-
 ## Deploying to staging vs production
 
 Now that GitHub can impersonate me (to the extent that it can publish Workers for this blog's domain), I can teach it to follow my old workflow.
@@ -135,8 +133,6 @@ In this setup, I now start the name of all working branches with `draft/` and wh
 <img src="/static/github-actions/branch-name.png" width="700" class="center"/>
 </div>
 
-<p>
-
 ## Viewing logs
 
 Creating that workflow involved making some mistakes. To review what was actually happening, I need to view logs from the machine following the instructions I gave it.
@@ -146,8 +142,6 @@ In the GitHub Actions UI, I can review the relevant details from any given job. 
 <div style="text-align:center">
 <img src="/static/github-actions/staging-run.png" class="center"/>
 </div>
-
-<p>
 
 ## Handling Hugo environments
 

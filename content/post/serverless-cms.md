@@ -19,8 +19,6 @@ The migration replaced GCP with Cloudflare Workers for compute. On the storage s
 <img src="/static/serverless-cms/stack-compare-new.png" class="center"/>
 </div>
 
-<p>
-
 The delivery component continues to use Cloudflare's network. However, the content management system (CMS) layer changed significantly. I introduced GitHub as a repository for saving content and Hugo for static site generation. I could have stored the blog locally, backing it up to Dropbox or another service, but the GitHub component made for a simple way to warehouse the work.
 
 As I settle in, I really like this new structure. I assumed that leaving WordPress would leave me without some of its more robust CMS features. And, to be fair, it did. I no longer have access to the thousands of plugins, ecommerce integrations, or add-ons that make the WP ecosystem so rich.
@@ -48,8 +46,6 @@ So I'm going to [open source](https://github.com/AustinCorridor/blog-samrhea) th
 <img src="/static/serverless-cms/github-open.png" class="center" width="500"/>
 </div>
 
-<p>
-
 The audience for my blog is extraordinarily tiny, and that's fine by me, but I hope this is an experiment other blogs consider. Feel free to take a look at the commit history for this post [here](https://github.com/AustinCorridor/blog-samrhea/commits/draft/serverless-cms).
 
 > **💭 An aside on permanence.** I spend a lot of time thinking about the idea of digital permanence. In some ways, digital records provide security against any number of risks to other methods of storage. For example, my personal photos are backed up to two different providers and not subject to wear-and-tear. This also gives things a new level of portability. When I moved to Lisbon, my entire photo library and all the documents I've ever needed traveled in my pocket with me.
@@ -71,8 +67,6 @@ I have started to use the same public GitHub repo that stores this content to cr
 <div style="text-align:center">
 <img src="/static/serverless-cms/github-issues-table.png" class="center"/>
 </div>
-
-<p>
 
 That gives this new blog format a couple advantages beyond just the benefit of ticket tracking and comments:
 
