@@ -1,6 +1,6 @@
 ---
 author: "Sam Rhea"
-date: 2019-12-23
+date: 2019-12-28
 linktitle: ⛔💶 Ditching my wallet for MB Way
 title: ⛔💶 Ditching the wallet my wallet for MB Way
 images: ["https://blog.samrhea.com/static/github-actions/staging-run.png"]
