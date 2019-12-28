@@ -1,3 +1,5 @@
 /data
 /public
 /workers-site
+/dist
+.DS_Store

@@ -15,14 +15,14 @@ I can use GitHub Actions to automate this entirely. Once complete, I can finally
 
 ---
 
-**I have a few goals for this project:**
+**🎯 I have a few goals for this project:**
 
 * Automatically build and deploy my site to staging when I'm working on a draft post
 * Automatically build and deploy my site to production when I merge my draft post
 
 ---
 
-**This walkthrough covers how to:**
+**🗺️ This walkthrough covers how to:**
 
 * Configure Hugo in GitHub Actions to build a static site at both a staging and production
 * Configure GitHub Actions to follow different workflows based on branch activity and merges

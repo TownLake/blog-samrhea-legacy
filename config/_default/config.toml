@@ -11,14 +11,8 @@ theme = "hugo-cactus-theme-avatar-mod"
         twitter = "LakeAustinBlvd"
         enableRSS = true
         avatar = "/static/avatar/avatar.png"
-
-        # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-        # linking local files with their path relative to the static folder, e.g. "css/styles.css"
         customCSS = []
         customJS  = []
-
-        # The variables below are optionally too and can be used to
-        # translate or customize each string of the theme.
 
         # Navigation links
         home = ""
