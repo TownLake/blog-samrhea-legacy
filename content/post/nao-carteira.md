@@ -134,13 +134,21 @@ After generating the code, MB Way displays a code that is valid for [single use 
 
 Back at the ATM, I can enter that code to withdraw cash. MB Way will notify me when the cash was withdrawn (including in the event that I shared the code with someone else).
 
-MB Way provides much more than just cardless withdrawals. Users can send instant peer-to-peer payments to other bank accounts, no delay or hold required. Also, the app will read a QR code at POS terminals and function as a non-NFC contactless payment method. 
+MB Way provides much more than just cardless withdrawals. Users can send instant peer-to-peer payments to other bank accounts, no delay or hold required. Also, the app will read a QR code at POS terminals and function as a non-NFC contactless payment method.
+
+### Fees are finding MB Way transfers
+
+Seperate from withdrawals, the MB Way transfer feature is a common method for paying service providers. Uncommon for peer-to-peer transactions, the transfer is instant by default.
+
+From what I understand, at launch no participating bank charged commission on MB Way transfers. [It seems that is changing](https://www.dinheirovivo.pt/banca/mb-way-comissoes-estao-nos-precarios-mas-maioria-dos-bancos-nao-cobra/). For example, we use a local dog daycare in our neighborhood and pay them via MB Way. We paid a 0,90 € commission, which came out to about 5%, on top of the transaction, which seems extraordinarily high. Right now, that appears limited to the peer-to-peer transfers via the app.
+
+The bank sets these rates, not SIBS (the entity behind MB Way). A fee on top of instant peer-to-peer transactions puts MB Way more in line with something like Venmo Instant Transfer, where immediate transfers carry a small fee.
 
 ## What's next?
 
 I can now comfortably go without a wallet most days, something I wanted in the US but only found here in Portugal.
 
-I don't miss carrying a wallet. I do have ghost anxiety about it. I'll briefly think I forgot or lost it, but then rest in the knowledge that Multibanco is there for me.
+I don't miss carrying a wallet. I do have ghost anxiety about it. I'll briefly think I forgot or lost it, but then find comfort in the knowledge that Multibanco is there for me.
 
 Some thoughts:
 
