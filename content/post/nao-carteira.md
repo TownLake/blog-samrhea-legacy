@@ -2,8 +2,8 @@
 author: "Sam Rhea"
 date: 2019-12-28
 linktitle: ⛔💳 Ditching my wallet for MB Way
-title: ⛔💳 Ditching the wallet my wallet for MB Way
-images: ["https://blog.samrhea.com/static/github-actions/staging-run.png"]
+title: ⛔💳 Ditching my wallet for MB Way
+images: ["https://blog.samrhea.com/static/nao-carteira/confirm-pin.png"]
 description: A bizarre, Portuguese version of retail finance solved my fear of loss.
 tags: ["portugal","walkthrough"]
 ---
@@ -155,4 +155,4 @@ Some thoughts:
 * Enrolling a card into MB Way is clunkier than enrolling in Apple Pay (beyond just the requirement to visit a physical ATM. Initial setup requires the generation and/or entry of three different PIN codes.
 * That said, it does something Apple Pay skipped altogether: bridging digital retail banking to physical cash.
 * We have a strange relationship between digital and physical money.
-* NFC payments will never be as convenient as handing over a 2 € coin for a beer at a bar. Never.
+* NFC payments will never be as convenient as handing over a 2 € coin for a beer at a bar.
