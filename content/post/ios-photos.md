@@ -3,7 +3,7 @@ author: "Sam Rhea"
 date: 2020-01-18
 linktitle: 📤🖼️ The only good way to share photos in iOS
 title: 📤🖼️ The only good way to share photos in iOS
-images: ["https://blog.samrhea.com/static/nao-carteira/confirm-pin.png"]
+images: ["https://blog.samrhea.com/static/ios-photos/tile.png"]
 description: Let's all agree on a new standard
 tags: ["iOS","walkthrough"]
 ---
