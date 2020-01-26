@@ -3,7 +3,7 @@ author: "Sam Rhea"
 date: 2020-01-26
 linktitle: 📅✅ CalCheck and meeting note accountability
 title: 📅✅ CalCheck and meeting note accountability
-images: ["https://blog.samrhea.com/static/ios-photos/tile.png"]
+images: ["https://blog.samrhea.com/static/cal-todo/task-list.png"]
 description: A calendar notification approach to getting things done
 tags: ["productivity",",","walkthrough"]
 hidden: true
