@@ -6,10 +6,9 @@ title: 📅✅ CalCheck and meeting note accountability
 images: ["https://blog.samrhea.com/static/cal-todo/task-list.png"]
 description: A calendar notification approach to getting things done
 tags: ["productivity",",","walkthrough"]
-hidden: true
 ---
 
-I rely on a feature in my calendar to manage recurring chores in my email inbox. I schedule those types of tasks, like paying certain bills, in a dedicated calendar. This method, `CalCheck`, then sends me an email on the day I need to complete that item.
+I rely on a feature in my calendar to manage recurring chores in my email inbox. I schedule those types of tasks, like paying certain bills, in a dedicated calendar. This method, which I call `CalCheck`, then sends me an email on the day I need to complete that item.
 
 The email becomes an unaffiliated object, like a ticket, that I can defer/delete/complete. I find it helpful.
 
