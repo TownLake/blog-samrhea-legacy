@@ -5,7 +5,7 @@ linktitle: 🚚🔐 a deploy pipeline for Cloudflare Workers Sites
 title: 🚚🔐 a deploy pipeline for Cloudflare Workers Sites
 images: ["https://blog.samrhea.com/static/deploy-pipeline/pipeline-feature.png"]
 description: "Setting up a simple workflow with GitHub and Cloudflare Workers for this blog."
-tags: ["Workers"]
+tags: ["Workers",",","Cloudflare",",","blog",",","walkthrough"]
 categories: ["Cloudflare"]
 ---
 
@@ -23,7 +23,7 @@ I have a few goals for this project:
 * Use [Wrangler](https://github.com/cloudflare/wrangler) environments for deploying to staging
 * Use Cloudflare Access to secure staging
 
-Time to complete: ~1 hour (assuming you already completed the work in the last post).
+**⏲️Time to complete: ~1 hour (assuming you already completed the work in the last post).**
 
 ---
 

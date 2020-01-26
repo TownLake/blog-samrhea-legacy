@@ -5,6 +5,7 @@ linktitle: 🏭🚢 Cloudflare Workers Sites and GitHub Actions
 title: 🏭🚢 Cloudflare Workers Sites and GitHub Actions
 images: ["https://blog.samrhea.com/static/github-actions/staging-run.png"]
 description: Automating this blog's deployment.
+tags: ["Workers",",","Cloudflare",",","blog",",","walkthrough"]
 ---
 
 A couple months ago, I [migrated](https://blog.samrhea.com/post/wrangler-sites/) this blog from WordPress and GCP to Cloudflare Workers. The blog itself is a Hugo static site, published with Wrangler, and I store the content in a [now public](https://blog.samrhea.com/post/serverless-cms/) GitHub repository.
@@ -28,7 +29,7 @@ I can use GitHub Actions to automate this entirely. Once complete, I can finally
 * Configure GitHub Actions to follow different workflows based on branch activity and merges
 * Configure Wrangler in GitHub Actions to publish to staging and production
 
-Time to complete: ~2 hours
+**⏲️Time to complete: ~2 hours**
 
 ---
 
