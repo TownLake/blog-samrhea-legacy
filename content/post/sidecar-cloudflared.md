@@ -1,6 +1,6 @@
 ---
 author: "Sam Rhea"
-date: 2019-06-20
+date: 2019-07-20
 linktitle: 🚋🌐 a sidecar named cloudflared
 title: 🚋🌐 a sidecar named cloudflared
 description: "Running Argo Tunnel alongside Kubernetes."
