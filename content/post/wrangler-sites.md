@@ -4,7 +4,7 @@ date: 2019-10-01
 linktitle: 🤠🦀 porting my WordPress blog to Cloudflare Workers Sites
 title: 🤠🦀 porting my WordPress blog to Cloudflare Workers Sites
 description: "Getting rid of server bills."
-tags: ["workers"]
+tags: ["Workers"]
 ---
 
 When I launched this blog, I started by paying Google Cloud Platform (GCP) to run a virtual server. I used GCP's prebuilt VM image for WordPress and the WordPress admin panel to write and post content. I then had to SSH into the machine to configure some details before setting its DNS, tinkering with the firewall, and then finally using the application's admin panel to start. It was cumbersome and, once running, maintenance became an ongoing chore.
@@ -13,12 +13,13 @@ It was also surprisingly expensive. I paid GCP **$18.44** last month to run this
 
 Last week, Cloudflare Workers [announced](https://blog.cloudflare.com/workers-sites/) support for quickly deploying entire sites to the Workers platform. No server required. The feature uses Wrangler, a CLI published by the Cloudflare team that can use the output of static site generators, like Hugo. I've been looking for an excuse to use Hugo for a while, so Wrangler's native support gave me a reason to port my blog over to the Hugo framework.
 
-I have a few goals for this project:
+**🎯I have a few goals for this project:**
 
 * Reduce the cost of hosting my blog by migrating it from a legacy server to Cloudflare Workers
 * Port my previous blog posts from WordPress to Hugo
 
-Time to complete: ~1 hour; can increase depending on how you format your old blog posts
+**⏲️Time to complete: ~1 hour**
+Can increase depending on how you format your old blog posts
 
 > **📑 Read their docs.**  Hugo, Workers, and Wrangler all have fantastic documentation. Much better than anything in this post; this really just stitches parts of them together and documents my experience. I link to all three sets in this post and encourage you to read and reference those materials
 

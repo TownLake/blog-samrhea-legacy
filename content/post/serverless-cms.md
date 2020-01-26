@@ -5,6 +5,7 @@ linktitle: 📂📰 open sourcing rough drafts
 title: 📂📰 open sourcing rough drafts
 description: "What if a public blog was also weirdly transparent?"
 images: [https://blog.samrhea.com/static/serverless-cms/stack-compare-new.png]
+tags: ["Workers",",","Cloudflare",",","blog",",","walkthrough"]
 ---
 
 Earlier this winter, I published two posts documenting the [migration](https://blog.samrhea.com/post/wrangler-sites/) of my personal blog to Cloudflare Workers Sites and my initial [deployment pipeline](https://blog.samrhea.com/post/deploy-pipeline/) in that new framework.

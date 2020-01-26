@@ -5,7 +5,7 @@ linktitle: ⛔💳 Ditching my wallet for MB Way
 title: ⛔💳 Ditching my wallet for MB Way
 images: ["https://blog.samrhea.com/static/nao-carteira/confirm-pin.png"]
 description: A bizarre, Portuguese version of retail finance solved my fear of loss.
-tags: ["portugal","walkthrough"]
+tags: ["Portugal",",","walkthrough"]
 ---
 
 I do not think that I'm more prone to losing objects than the average person. It just bothers me more than it probably should. Careless mistakes, like misplacing keys or a wallet, are unforced errors - the worst kind of error. Not tragedies, but painfully unnecessary.
@@ -35,9 +35,9 @@ Meanwhile, Portugal is living in the future. Contactless payments are available 
 * Set up MB Way with a Portuguese bank account to summon cash from your phone.
 * Effectively ditch your wallet.
 
-Time to complete: ~15 minutes*
+**⏲️Time to complete: ~15 minutes**⏲️
 
-**Assuming you have a Portuguese bank account*
+*Assuming you have a Portuguese bank account*
 
 >🆔 This post mostly ignores requirements for carrying identity, which I recognize can vary widely by region and situation.
 

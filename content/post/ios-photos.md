@@ -5,7 +5,7 @@ linktitle: 📤🖼️ The only good way to share photos in iOS
 title: 📤🖼️ The only good way to share photos in iOS
 images: ["https://blog.samrhea.com/static/ios-photos/tile.png"]
 description: Let's all agree on a new standard
-tags: ["iOS","walkthrough"]
+tags: ["iOS",",","walkthrough"]
 ---
 
 The photos that we take on our phones are one of the few things that we'll probably "own" for our entire lives. I put `own` in quotes because we can keep photos indefinitely because we rely on someone else to worry about storing them.
@@ -34,7 +34,7 @@ Which is odd, because they have an option that solves this problem. It's just hi
 * Use a semi-hidden share sheet option for iOS photos to send others full-resolution, location-optional, photos.
 * Review iOS Photos' app for photos shared and revoke them if necessary.
 
-Time to complete: ~15 minutes
+**⏲️Time to complete: ~15 minutes**
 
 ---
 

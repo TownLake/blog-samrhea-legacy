@@ -4,6 +4,7 @@ date: 2019-06-20
 linktitle: 🚋🌐 a sidecar named cloudflared
 title: 🚋🌐 a sidecar named cloudflared
 description: "Running Argo Tunnel alongside Kubernetes."
+tags: ["Cloudflare",",","walkthrough"]
 ---
 
 I have a bad habit of nodding along when someone brings up a topic where I only have a rough idea of the concept. I’ve done that for a couple years whenever someone mentions Kubernetes. I understood some of the detail, but if someone asked me to teach them k8s, well, all I would have for them is a nod.
@@ -26,7 +27,7 @@ I have a few goals for this project:
 * Run a sidecar in a k8s cluster with the Cloudflare command line tool, `cloudflared`, to expose these projects to the internet via Argo Tunnel
 * Create and edit a YAML file to easily configure a `cloudflared` sidecar for any k8s project
 
-Time to complete: 2-3 hours
+**⏲️Time to complete: 2-3 hours**
 
 ## Enabling the Kubernetes API
 

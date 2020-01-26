@@ -4,6 +4,7 @@ date: 2019-04-07
 linktitle: 🔎📺 a guide to overanalyzing your media habits
 title: 🔎📺 a guide to overanalyzing your media habits
 description: "My own Soderbergh media diet."
+tags: ["Cloudflare",",","Access",",","blog",",","walkthrough"]
 ---
 
 Steven Soderbergh publishes an [annual list](http://extension765.com/soderblogh/33-seen-read-2018) of all media he watches or reads each year. I keep a list too, but I’m not brave enough to share it with the internet yet.
@@ -33,7 +34,7 @@ Also, I’m the Product Manager for Cloudflare Access and Argo Tunnel, so I’m 
 * Expose that application securely to the internet through Cloudflare Argo Tunnel.
 * Lock down who can reach that application, and its data, with Cloudflare Access.
 
-Time to complete: ~2 hours
+**⏲️Time to complete: ~2 hours**
 
 ## Setting up Redash on GCE
 
