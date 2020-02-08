@@ -11,7 +11,7 @@ Wednesday marks the six month anniversary of my move to Portugal. Unlike my wife
 
 When I meet new people, and they graciously speak English with me, they ask me where I'm from. I answer "Texas" rather than the US. Texas is one of two places in America that everyone on Earth knows. The other one is New York.
 
-When someone learns I'm from Texas, they ask me about horses or cowboys about 35% of the time, mais ou menos. I probably inflate that number because I wear western boots.
+When someone learns I'm from Texas, they ask me about horses or cowboys about 35% of the time, _mais ou menos_. I probably inflate that number because I wear western boots.
 
 Western boots have a few different forms. You an wear ropers, which are more like ankle boots and the toe is rounded. Or you can wear a pair that has a pointed toe, runs up your calf, and resembles what most people think of as "cowboy boots." I wear the cowboy boot kind.
 
