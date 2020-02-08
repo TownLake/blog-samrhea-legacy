@@ -13,7 +13,7 @@ When I meet new people, and they graciously speak English with me, they ask me w
 
 When someone learns I'm from Texas, they ask me about horses or cowboys about 35% of the time, _mais ou menos_. I probably inflate that number because I wear western boots.
 
-Western boots have a few different forms. You an wear ropers, which are more like ankle boots and the toe is rounded. Or you can wear a pair that has a pointed toe, runs up your calf, and resembles what most people think of as "cowboy boots." I wear the cowboy boot kind.
+Western boots have a few different forms. You can wear ropers, which are more like ankle boots and the toe is rounded. Or you can wear a pair that has a pointed toe, runs up your calf, and resembles what most people think of as "cowboy boots." I wear the cowboy boot kind.
 
 I currently own two pairs: Lucchese 1883s that I bought my freshman year of college and a pair of dark cherry Luccheses that were my grandfather's. I wear the 1883s most of the time. I love how unique they are and how people associate them with my home. I love how they look. I like the two inches they add to my height and the sound they make when I walk on hardwood floors.
 
@@ -27,7 +27,7 @@ Here's the deal about my boots though: I am all hat and no cattle. I have no bus
 
 When I tell Portuguese people about my association with cowboys, I tell them about the last time I rode a horse.
 
-I was 17. I had a friend from school and her family owned a spectacular ranch about three hours outside of Austin. In texas we measure distance in terms of the time it would take you to drive to the place.
+I was 17. I had a friend from school and her family owned a spectacular ranch about three hours outside of Austin. In Texas we measure distance in terms of the time it would take you to drive to the place.
 
 She invited our mock trial team to spend the weekend at her ranch. I was on the mock trial team. Not all people with ranches in Texas have horses on them, or cattle. We tend to use the term for any patch of rural land where you can ride in the truck without wearing your seatbelt.
 
