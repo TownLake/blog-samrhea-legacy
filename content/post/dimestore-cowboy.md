@@ -1,8 +1,8 @@
 ---
 author: "Sam Rhea"
 date: 2020-02-08
-linktitle: 🤠🐎 Horses can see your soul and they don't like me
-title: 🤠🐎 Horses can see your soul and they don't like me
+linktitle: 🤠🐎 horses can see your soul and they don't like me
+title: 🤠🐎 horses can see your soul and they don't like me
 images: ["https://blog.samrhea.com/static/horse/horse-crop.png"]
 description: How I answer questions about Texas in Portugal
 ---
