@@ -67,7 +67,7 @@ To begin, I'll follow the instructions [here](https://github.com/cloudflare/cfss
 
 ## Generating a Root CA and an allegory about Texas
 
-> **🥳 Shout out.** The core of the cert generation tutorial is an adaption of [new documentation](https://developers.cloudflare.com/access/service-auth/mtls/) in the Cloudflare developer portal based on a guide from James Royal on the Cloudflare Access team.
+> **🥳 Shout out.** The core of the cert generation tutorial is an adaption of [new documentation](https://developers.cloudflare.com/access/service-auth/mtls/) in the Cloudflare developer portal based on a guide from James Royal on the Cloudflare Access team. Additionally, much of the details stem from Nick Sullivan's [blog post](https://blog.cloudflare.com/how-to-build-your-own-public-key-infrastructure/) introducing `cfssl`.
 
 First, I need to create the Root CA. This root will give Access a basis for trusting client certificates. Think of the root as the Department of Motor Vehicles (DMV) in Texas. Only the State of Texas, through the DMV, can issue Texas driver licenses. Bouncers do not need to know about every driver license issued, but they do know to trust the State of Texas and how to validate Texas-issued licenses.
 
