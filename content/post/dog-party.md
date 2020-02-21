@@ -4,7 +4,7 @@ date: 2020-02-21
 linktitle: 🐶🥳 dog parties in Portugal
 title: 🐶🥳 dog parties in Portugal
 images: ["https://blog.samrhea.com/static/dog-party/dog-party.png"]
-description: finally homesick for Lisbon
+description: homesick for not Austin
 tags: ["cloudflare",",","walkthrough"]
 ---
 
