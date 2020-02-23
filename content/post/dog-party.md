@@ -26,7 +26,7 @@ The next morning, I strolled back over with the pup hoping that I'd find the sam
 
 We became regulars and the other humans at dog party became our first set of new friends in Portugal. One woman has lived in our neighborhood for four decades and raised her family there. Another attendee moved to Lisbon from Madeira. Others grew up around Portugal, some spent time living abroad, and some have children living in other countries now as part of the Portuguese diaspora.
 
-We quickly fell in love with this little morning group. We started to chat more with them. We stick out, in a lot of ways, in our neighborhood. Not many Americans live here, not as many young people, and not a lot of lanky Texans who bumble around in athleisure. And I sat down to try and tell them why we arrived. Americans in Lisbon who aren't tourists are something of a a curiosity.
+We quickly fell in love with this little morning group. We started to chat more with them. We stick out, in a lot of ways, in our neighborhood. Not many Americans live here, not as many young people, and not a lot of lanky Texans who bumble around in athleisure. And I sat down to try and tell them why we arrived.
 
 In some one-off conversations, they asked us why we moved to Lisbon. We did our best to answer, but about 4 weeks into regular attendance, I wrote a one-page letter to introduce ourselves.
 
