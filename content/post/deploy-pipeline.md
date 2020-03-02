@@ -6,7 +6,7 @@ title: 🚚🔐 a deploy pipeline for Cloudflare Workers Sites
 images: ["https://blog.samrhea.com/static/deploy-pipeline/pipeline-feature.png"]
 description: "Setting up a simple workflow with GitHub and Cloudflare Workers for this blog."
 tags: ["Workers",",","Cloudflare",",","blog",",","walkthrough"]
-categories: ["Cloudflare"]
+categories: ["Cloudflare",",","walkthrough",",","Workers"]
 ---
 
 I converted this blog to [Workers Sites](https://workers.cloudflare.com/sites/) a couple weeks ago and wrote about it [here](https://blog.samrhea.com/post/wrangler-sites/). The initial setup was pretty bare bones. I saved the repository locally without any version control and deployed directly to production. No one gets paged if I break this blog, so that was fine.
