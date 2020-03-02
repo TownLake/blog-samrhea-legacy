@@ -5,6 +5,7 @@ linktitle: 🤠🐎 horses can see your soul and they don't like me
 title: 🤠🐎 horses can see your soul and they don't like me
 images: ["https://blog.samrhea.com/static/horse/horse-crop.png"]
 description: How I answer questions about Texas in Portugal
+tags: ["Texas",",","story"]
 ---
 
 Wednesday marks the six month anniversary of my move to Portugal. Unlike my wife, my spoken Portuguese is still terrible. She basically chaperones me in a foreign country. Sometimes she translates the punchline in billboard ads for me and it makes me smile.

@@ -5,6 +5,7 @@ linktitle: 🇪🇺🕰️ EOT, European Office Time
 title: 🇪🇺🕰️ EOT, European Office Time
 images: ["https://blog.samrhea.com/static/eot/eot-overlap.png"]
 description: "Balancing work across time zones."
+tags: ["Portugal",",","productivity"]
 ---
 
 European Office Time (EOT) is a unique time zone available to people who work in the European office of an American company. It is also a superpower.

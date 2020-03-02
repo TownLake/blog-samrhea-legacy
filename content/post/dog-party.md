@@ -5,7 +5,7 @@ linktitle: 🐶🥳 dog parties in Portugal
 title: 🐶🥳 dog parties in Portugal
 images: ["https://blog.samrhea.com/static/dog-party/dog-party.png"]
 description: homesick for not Austin
-tags: ["cloudflare",",","walkthrough"]
+tags: ["Portugal",",","story"]
 ---
 
 > I spent the last week back in the US and, for the first time in my life, became homesick for a place that wasn't Austin, Texas.

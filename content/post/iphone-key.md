@@ -5,7 +5,7 @@ linktitle: 📱🔑 when an iPhone is the key to your budget
 title: 📱🔑 when an iPhone is the key to your budget
 images: ["https://blog.samrhea.com/static/iphone-key/cert-prompt.png"]
 description: Using Cloudflare Access and cfssl for seamless client auth
-tags: ["cloudflare",",","walkthrough"]
+tags: ["cloudflare",",","Access",",","walkthrough",",","iOS"]
 ---
 
 I keep a very detailed budget. I have for the last 7 years. I manually input every expense into a spreadsheet app (right now Google Sheets) and use a combination of `sumifs` functions to track spending.
