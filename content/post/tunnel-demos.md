@@ -3,7 +3,7 @@ author: "Sam Rhea"
 date: 2020-03-21
 linktitle: 🚇🖥️ share real demos in 5 minutes
 title: 🚇🖥️ share real demos in 5 minutes
-images: ["https://blog.samrhea.com/static/tunnel-demos/teams-diagram.png"]
+images: ["https://blog.samrhea.com/static/tunnel-demos/marquee-image.png"]
 description: One-click demos that your audience can use
 tags: ["cloudflare",",","Tunnel",",","Access",",","walkthrough"]
 ---
