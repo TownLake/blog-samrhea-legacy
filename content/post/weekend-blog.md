@@ -1,16 +1,18 @@
 ---
 author: "Sam Rhea"
 date: 2020-03-28
-linktitle: 🚀📰 migrate your blog to Cloudflare Workers
-title: 🚀📰 migrate your blog to Cloudflare Workers
+linktitle: 🚀📰 a complete guide to migrating your blog to Cloudflare Workers
+title: 🚀📰 a complete guide to migrating your blog to Cloudflare Workers
 images: ["https://blog.samrhea.com/static/serverless-cms/stack-compare-new.png"]
 description: a weekend project for a better, faster blog
 tags: ["cloudflare",",","Workers",",","wrangler",",","walkthrough"]
 ---
 
-Last fall, I migrated my WordPress blog to Cloudflare Workers. I wrote a series of posts documenting the entire process start-to-finish. These walk throughs cover everything from the lift-and-shift of a WP blog to a serverless platform to automated deployments with GitHub.
+Last fall, I migrated my WordPress blog to Cloudflare Workers. I wrote a series of posts documenting the process start-to-finish. These walk throughs cover everything from the lift-and-shift of a WP blog to a serverless platform to automated deployments with GitHub.
 
-There is about 6 hours-worth of projects across 5 posts here. It's a fun set of activities and a good ice breaker for serverless computing.
+Are you social distancing? Good! Me too. If you have some free time indoors now, this is a fun project that totals about 6 hours of work. Keeping a blog can also be a fun way to stay engaged with your community, to share stories and read others.
+
+By the end of this course, you'll have a lightning-fast blog, that runs you (at most) $5 per month, and you'll learn more about serverless computing and automating deployments with GitHub.
 
 ## Part One: Migrate your blog to Workers
 ### 🤠🦀 porting my WordPress blog to Cloudflare Workers Sites
@@ -80,3 +82,7 @@ Blog post [walk through](https://blog.samrhea.com/post/home-movie/).
 |**Time to complete:**| ~45 minutes|
 |**Originally published:**| March 1, 2019 |
 |**Steps covered:**| * Configure GitHub actions for automated deployments <br> * Configure staging deployments that trigger based on keywords |
+
+## What's next?
+
+Do you have any questions? Please feel free to post them in the [blog repository](https://github.com/AustinCorridor/blog-samrhea/issues).
