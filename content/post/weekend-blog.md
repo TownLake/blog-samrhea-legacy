@@ -3,7 +3,7 @@ author: "Sam Rhea"
 date: 2020-03-28
 linktitle: 🚀📰 a complete guide to migrating your blog to Cloudflare Workers
 title: 🚀📰 a complete guide to migrating your blog to Cloudflare Workers
-images: ["https://blog.samrhea.com/static/serverless-cms/stack-compare-new.png"]
+images: ["https://blog.samrhea.com/static/deploy-pipeline/pipeline-feature.png"]
 description: a weekend project for a better, faster blog
 tags: ["cloudflare",",","Workers",",","wrangler",",","walkthrough"]
 ---
@@ -19,7 +19,7 @@ By the end of this course, you'll have a lightning-fast blog, that runs you (at 
 
 Stop paying server bills and migrate a WordPress blog to a faster, more manageable, format and deploy to a global network.
 
-Blog post [walk through](https://blog.samrhea.com/post/wrangler-sites/).
+**Blog post [walk through](https://blog.samrhea.com/post/wrangler-sites/).**
 
 |Topic|Notes|
 |---|---|
@@ -31,7 +31,7 @@ Blog post [walk through](https://blog.samrhea.com/post/wrangler-sites/).
 
 Keep your blog content safe in a GitHub repository and make it easy for others to contribute posts.
 
-Blog post [walk through](https://blog.samrhea.com/post/serverless-cms/).
+**Blog post [walk through](https://blog.samrhea.com/post/serverless-cms/).**
 
 |Topic|Notes|
 |---|---|
@@ -59,7 +59,7 @@ Blog post [walk through](https://blog.samrhea.com/post/deploy-pipeline/).
 
 Save yourself even more time by automating your deployment using GitHub Actions.
 
-Blog post [walk through](https://blog.samrhea.com/post/github-actions/).
+**Blog post [walk through](https://blog.samrhea.com/post/github-actions/).**
 
 |Topic|Notes|
 |---|---|
@@ -75,7 +75,7 @@ Blog post [walk through](https://blog.samrhea.com/post/github-actions/).
 
 This post focuses mostly on publishing a site with password-protected content, but you can skip the Access piece and just use Cloudflare Stream to add ad-free videos to your blog.
 
-Blog post [walk through](https://blog.samrhea.com/post/home-movie/).
+**Blog post [walk through](https://blog.samrhea.com/post/home-movie/).**
 
 |Topic|Notes|
 |---|---|
