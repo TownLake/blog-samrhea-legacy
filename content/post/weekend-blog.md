@@ -3,7 +3,7 @@ author: "Sam Rhea"
 date: 2020-03-28
 linktitle: 🚀📰 a complete guide to migrating your blog to Cloudflare Workers
 title: 🚀📰 a complete guide to migrating your blog to Cloudflare Workers
-images: ["https://blog.samrhea.com/static/serverless-cms/stack-compare-new.png"]
+images: ["https://blog.samrhea.com/static/deploy-pipeline/pipeline-feature.png"]
 description: a weekend project for a better, faster blog
 tags: ["cloudflare",",","Workers",",","wrangler",",","walkthrough"]
 ---
