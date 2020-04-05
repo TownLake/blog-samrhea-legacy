@@ -1,27 +1,31 @@
 ---
 author: "Sam Rhea"
-date: 2020-04-04
+date: 2020-04-05
 linktitle: 🦊🔐 zero-trust CI/CD with GitLab and Cloudflare Access
 title: 🦊🔐 zero-trust CI/CD with GitLab and Cloudflare Access
 images: ["https://blog.samrhea.com/static/gitlab/install.png"]
-description: What if your self-managed apps felt like SaaS?
+description: What if our self-managed apps felt like SaaS tools?
 tags: ["cloudflare",",","Access",",","walkthrough"]
 ---
 
-SaaS applications make things easy. I am not responsible for server maintenance, scaling, or uptime. I just sign up and go.
+SaaS applications make things easy. I am not responsible for server maintenance, scaling, or uptime. I just sign-up and go.
 
-However, running a self-managed application still has advantages. I can control the version, the features, and the data. I also have more discretion over security. All of these things come with a convenience cost, and that takes two forms:
+However, running a self-managed application still has advantages. I can control the version, the features, and the data. I also have more discretion over the security model. Whether for these reasons, or requirements like compliance, some teams choose to host their own tools.
 
-|Category|Pain point|
+That decision typically comes with a convenience cost, and that cost takes two forms:
+
+|Form|Pain point|
 |---|---|
 |**Admin**| I have to maintain the application and the infrastructure on which it runs.|
 |**User**| In most cases, I have to use a VPN client to connect to the managed application.|
 
-On the Admin side, public cloud providers, image templates, and better management tools make it easier than ever to host your own application.
+On the Admin side, this is getting better. Public cloud providers, image templates, and better management tools make it easier than ever to host your own application. It's work, but it's not as bad as it was.
 
-The user-side is still painful. Users can connect to-self managed applications through a VPN client, which degrades the experience. Or, the self-managed application can be exposed to the public Internet, which can leave it vulnerable.
+The user-side, however, is still painful. Users have two options for connecting to self-managed applications: a VPN client, which degrades the experience, or the application can be exposed to the public Internet, leaving it vulernable.
 
-The subtitle of this post is "What if your self-managed apps felt like SaaS?" and I believe that's a real option. We can still have the option to control our applications and their data, while making it just as easy for team members to use them.
+The subtitle of this post is "What if our self-managed apps felt like SaaS tools?" and I think that's a real option. This post walks through using Cloudflare Access and Argo Tunnel to add a zero trust security layer to GitLab. I cover a lot of detail, including setting up GitLab, but if you want you can [skip to the video](https://blog.samrhea.com/post/gitlab-auth/#so-what-does-it-look-like-as-a-user) at the end - it captures the SaaS-like experience for an end user.
+
+Want to see all the configuration? Keep reading.
 
 ---
 
@@ -268,6 +272,6 @@ For a web user, I can visit the URL `gitlab.samrhea.com` directly, where I will 
 
 ## What's next?
 
-With this setup, I have full control over a GitLab instance, while also making it as easy as the SaaS version for users. Like that dining table, I'm not planning to have a hobby project that involves up to 500 people right now but, when that day comes, I'll need about 30 minutes to make it possible.
+With this setup, I have full control over a GitLab instance, while also making it as easy as a SaaS app for users. Like that dining table, I'm not planning to have a hobby project that involves up to 500 people right now but, when that day comes, I'll need about 30 minutes to make it possible.
 
 Want to try it out? Cloudflare for Teams, including Access and Tunnel, [is free to use through September](https://teams.cloudflare.com).
