@@ -21,7 +21,7 @@ That decision typically comes with a convenience cost, and that cost takes two f
 
 On the Admin side, this is getting better. Public cloud providers, image templates, and better management tools make it easier than ever to host your own application. It's work, but it's not as bad as it was.
 
-The user-side, however, is still painful. Users have two options for connecting to self-managed applications: a VPN client, which degrades the experience, or the application can be exposed to the public Internet, leaving it vulernable.
+The user-side, however, is still painful. Users have two options for connecting to self-managed applications: a VPN client, which degrades the experience, or the application can be exposed to the public Internet, leaving it vulnerable.
 
 The subtitle of this post is "What if our self-managed apps felt like SaaS tools?" and I think that's a real option. This post walks through using Cloudflare Access and Argo Tunnel to add a zero trust security layer to GitLab. I cover a lot of detail, including setting up GitLab, but if you want you can [skip to the video](https://blog.samrhea.com/post/gitlab-auth/#so-what-does-it-look-like-as-a-user) at the end - it captures the SaaS-like experience for an end user.
 
@@ -224,7 +224,7 @@ This command will start a connection that proxies SSH traffic, bound for that ho
 While that is starting, I need to complete a couple one-time steps on my laptop. First, I need `cloudflared` on my machine. I can install that here via HomeBrew.
 
 ```bash
-$ brew install cloudflare/cloudflare/cloduflared
+$ brew install cloudflare/cloudflare/cloudflared
 ```
 
 `cloudflared` will handle proxying SSH traffic from my laptop through Cloudflare's network. I do not need any special commands or wrappers, but I do need to add a couple lines to my SSH configuration file. `cloudflared` will print those out for me.
