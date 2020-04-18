@@ -6,7 +6,7 @@ date: 2020-03-22
 ---
 
 <div style="text-align:center">
-<img src="/static/sam-task.jpg" class="center" width="500"/>
+<img src="/static/sam-task.jpeg" class="center" width="300"/>
 </div>
 
 > _This image was created by the spectacular [Kari Linder](https://twitter.com/kkblinder?s=20)._
