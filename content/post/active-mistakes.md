@@ -3,7 +3,7 @@ author: "Sam Rhea"
 date: 2020-05-15
 linktitle: 🤦‍♂️📝 Mistakes I try to never make again
 title: 🤦‍♂️📝 Mistakes I try to never make again
-images: ["https://blog.samrhea.com/static/cal-todo/task-list.png"]
+images: ["https://blog.samrhea.com/static/active-mistakes/ugly-lessons.png"]
 description: A checklist manifesto of things to avoid
 tags: ["walkthrough"]
 ---
