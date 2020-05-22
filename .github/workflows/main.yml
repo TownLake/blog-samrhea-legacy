@@ -5,6 +5,9 @@ on:
     branches:
       - master
 
+env:
+  HUGO_VERSION: 0.71.0
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,10 +16,10 @@ jobs:
       - uses: actions/checkout@master
 
       - name: Download Hugo
-        run: sudo wget https://github.com/gohugoio/hugo/releases/download/v0.62.0/hugo_0.62.0_Linux-64bit.deb
+        run: sudo wget https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_${{ env.HUGO_VERSION }}_Linux-64bit.deb
 
       - name: Install Hugo
-        run: sudo dpkg -i hugo_0.62.0_Linux-64bit.deb
+        run: sudo dpkg -i hugo_${{ env.HUGO_VERSION }}_Linux-64bit.deb
 
       - name: Install Wrangler
         run: sudo npm i @cloudflare/wrangler -g
