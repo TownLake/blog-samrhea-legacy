@@ -6,7 +6,7 @@ theme = "hugo-cactus-theme-avatar-mod"
 [params]
         name = "Sam Rhea"
         description = "Sam Rhea's blog"
-        bio = "Texan in Portugal. "
+        bio = "Texan in Portugal."
         # Enter optionally your twitter account
         twitter = "LakeAustinBlvd"
         enableRSS = true
