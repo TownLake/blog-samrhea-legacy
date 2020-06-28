@@ -11,11 +11,11 @@ tags: ["Cloudflare",",","Access",",","blog",",","walkthrough"]
 
 Last month, GitHub [announced](https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/) Codespaces, a really slick browser-based Visual Studio IDE. Users will be able to launch a full-featured implementation of VS Code from a repository in GitHub, all without leaving the browser.
 
-I purchased an iPad Pro earlier this year and, mostly, love it. Other than a terminal (which I somewhat work around with [Blink Shell](https://blink.sh), the most common reason I open my MacBook Air is still a real text editor. I don't plan to do any real work on it, but I would like to tackle some one-off projects. When GitHub announced Codespaces, I figured that would get me one step closer to letting dust settle on my Mac.
+I purchased an iPad Pro earlier this year and, mostly, love it. Other than a terminal (which I somewhat work around with [Blink Shell](https://blink.sh), the most common reason I open my MacBook Air is still a real text editor. I don't plan to do any real work on it, but I would like to tackle some one-off projects. When GitHub announced Codespaces, I figured that would get me one step closer to letting dust settle on my personal Mac.
 
 While I'm waiting for the Codespaces invite, I wanted to find a way to test this experience a bit. I found a [blog post](https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a) from [Owen Williams](https://twitter.com/ow) highlighting the open-sourced project [code-server](https://github.com/cdr/code-server) from the team at Coder. With `code-server` users can run their own Visual Studio Code instance on a server and then connect from a browser.
 
-I'm excited to test this out. Owen alludes to adding security to the deployment in the post, so I'm going to walk through one option for that by layering Cloudflare Argo Tunnel and Access on top of my own instance. That should keep this secure without the need for a VPN on my device.
+I'm excited to test this out. Owen mentions adding security to the deployment in the post, so I'm going to walk through one option for that by layering Cloudflare Argo Tunnel and Access on top of my own instance. That will keep this secure without the need for a VPN on my device.
 
 ---
 
@@ -23,6 +23,7 @@ I'm excited to test this out. Owen alludes to adding security to the deployment 
 
 * Run my own Visual Studio Code server that I can access from a browser on any device
 * Secure that server with Cloudflare Argo Tunnel and Access
+* Test it out on an iPad
 
 ---
 
@@ -30,7 +31,7 @@ I'm excited to test this out. Owen alludes to adding security to the deployment 
 
 * Deploy `code-server` in Digital Ocean
 * Connect my `code-server` instance to Cloudflare with Argo Tunnel
-* Secure the instance with Cloudflare Access and connect from Safari on my iPad
+* Secure the instance with Cloudflare Access
 
 **⏲️Time to complete: < 30 minutes**
 
