@@ -82,7 +82,7 @@ At one point in my career, during a time of stress, I found myself responding to
 
 This wasn't deliberate. I didn't hope that the person asking me for something would forget. I just got lazy. Sometimes I got "lucky" that they did move on to something else, but often I just let them down. I had bigger priorities, but I should have communicated that. Instead, I just said "I'll take care of it" and then didn't.
 
-On a team, it is worse to disappoint someone by telling them upfront that you cannot do something than it is to have them plan around you being responsible for the task.
+On a team, it is better to disappoint someone by telling them upfront that you cannot do something than it is to have them plan around you being responsible for the task.
 
 ## What's next?
 
