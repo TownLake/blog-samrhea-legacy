@@ -175,7 +175,7 @@ cloudflared login
 
 ### Web app flow
 
-Now that I have a certificate for `samrhea.com`, I can connect the web application component of GitHub to Cloudflare. I only need a single command to do so. `cloudflared` will handle creating the DNS records for this subdomain and proxy requests back to the HTTP port specified.
+Now that I have a certificate for `samrhea.com`, I can connect the web application component of GitLab to Cloudflare. I only need a single command to do so. `cloudflared` will handle creating the DNS records for this subdomain and proxy requests back to the HTTP port specified.
 
 > This command should be run as a `systemd` service for long-term use; if it terminates, the web app will be unavailable.
 
