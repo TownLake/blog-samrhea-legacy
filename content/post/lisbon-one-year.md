@@ -18,7 +18,7 @@ I was born on 38th Street and, for the next three decades, stayed within five mi
 
 And this was fantastic and fortunate and I loved every minute. Austin is a lazy Saturday morning and I embraced it surrounded by everyone I loved. I would get disappointed when I walked into a restaurant and did not recognize, a habit that annoyed my wife so much. I lived in a year-round summer camp and I shared the best cabin award with all of my friends.
 
-I abandoned Austin in the Spring of 2019 when I surprised myself by responding with “yeah” when someone asked if I was interested in moving to Lisbon to be part of a new office. I’m pretty sure they asked as a joke and then my subconscious bluffed.
+I abandoned Austin in the Spring of 2019 when I surprised myself by responding with “yeah” when someone asked if I was interested in moving to Lisbon to be part of a new office. I’m pretty sure they assumed I would say no and then my subconscious bluffed.
 
 This decision did not make a lot of sense. I had never been to Lisbon. All of my friends and family were close to me in Austin. I loved Austin and had an unbroken streak of living in it - if I became the oldest resident someday, I could state that I had lived in Austin longer than anyone alive. I also owned a house, a large dog, an automobile. I did not speak Portuguese.
 
