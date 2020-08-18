@@ -24,7 +24,7 @@ This decision did not make a lot of sense. I had never been to Lisbon. All of my
 
 I can invent a lot of reasons as to why I stuck to that initial response, but my best guess is that I wanted to be on a mission to Mars. Sent by an organization that I knew, with teammates I loved, from a home I understood, to help build something in a place I had never seen.
 
-My wife was excited about it and found a graduate school that lined up with plans she was making pre-Lisbon. That made it possible. On August 11th, 2020, we moved to Lisbon site unseen.
+My wife was excited about it and found a graduate school that lined up with plans she was making pre-Lisbon. That made it possible. On August 11th, 2019, we moved to Lisbon site unseen.
 
 ## Lisbon in the Before Times
 
