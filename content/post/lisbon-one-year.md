@@ -22,7 +22,7 @@ I abandoned Austin in the Spring of 2019 when I surprised myself by responding w
 
 This decision did not make a lot of sense. I had never been to Lisbon. All of my friends and family were close to me in Austin. I loved Austin and had an unbroken streak of living in it - if I became the oldest resident someday, I could state that I had lived in Austin longer than anyone alive. I also owned a house, a large dog, an automobile. I did not speak Portuguese.
 
-I can invent a lot of reasons as to why I stuck to that initial response, but my best guess is that I wanted to be on a mission to Mars. Sent by an organization that I knew, from a home I understood, to help build something in a place I had never seen.
+I can invent a lot of reasons as to why I stuck to that initial response, but my best guess is that I wanted to be on a mission to Mars. Sent by an organization that I knew, with teammates I loved, from a home I understood, to help build something in a place I had never seen.
 
 My wife was excited about it and found a graduate school that lined up with plans she was making pre-Lisbon. That made it possible. On August 11th, 2020, we moved to Lisbon site unseen.
 
@@ -42,15 +42,15 @@ Things I came to cherish about this phase:
 * Celebrating the Cloudflare IPO with 6-7 of us on a beach. It felt like how astronauts must feel celebrating the 4th of July in the space station. Small group watching from a distance and still joyful.
 * Dinners that went past 2 AM.
 * Every single visit to a quiosque.
-* Seeing Start Wars at El Corte Ingles and going Christmas gift shopping.
+* Seeing Star Wars at El Corte Ingles and going Christmas gift shopping.
 * Taking a train to Porto and realizing just how much I love Lisbon.
 * Watching the end of a Benfica game at a Quiosque while it was projected on an inflatable screen.
-* A family member flying over to spend 10 days. We had a wonderful time. She was a journalist dispatched to report on our lives here and went home to tell the rest of the families that we were doing quite well.
+* A family member flying over to spend 10 days. We had a wonderful time. She visited like a journalist dispatched to report on our lives here and went home to tell the rest of the families that we were doing quite well.
 * A childhood friend in the US Navy coincidentally sailing into port in Lisbon and touring their boat and helicopter. We went out to dinner at a Portuguese restaurant and I struggled to process the mix of familiarity with novelty.
 * The first time Mopac discovered the ocean.
 * The beach at Guincho.
 
-I spent October through March joyful. A dozen of us sat in a tiny huddle in an off-brand WeWork ordering roasted chicken until we couldn't anymore. My cowboy hat crossed the Atlantic and was worn by the majority of the office. We played tabletop games from Flying Tiger and ran out of coffee. I rehearsed a company-wide presentation on a patio outside and walked home from the office with friends. Our group of astronauts bonded and we started to invite new team members and grew.
+I spent October through March joyful. A dozen of us sat in a tiny huddle in an off-brand WeWork ordering roasted chicken until we couldn't anymore. My cowboy hat crossed the Atlantic and was worn by the majority of the office. We played tabletop games from Flying Tiger and ran out of coffee. I rehearsed presentations on a balcony and walked home from the office with friends. Our group of astronauts bonded and we started to invite new team members and [the office grew](https://blog.cloudflare.com/cloudflares-first-year-in-lisbon/).
 
 ## Pandemic Lisbon
 
@@ -58,7 +58,7 @@ Some of this changed, but not all of it. I was in London for a conference when t
 
 Family started to postpone and then cancel trips to visit. My brother’s wedding was going to happen here and then I watched it over FaceTime.
 
-The city took the quarantine seriously and so did we. I’m also not sure I noticed. The teams I work on responded to the pandemic by offering the products for free. I stayed busy being part of that group. I had nothing else to do but couldn’t imagine something I would have rather been doing.
+The city took the quarantine seriously and so did we. I’m also not sure I noticed. The teams I work on were part of a response that made products and onboarding sessions free. I stayed busy being part of that group. I had nothing else to do but couldn’t imagine something I would have rather been doing.
 
 We were helping people, guiding anyone who asked through 1-1 onboarding sessions, building things faster. When I wasn’t working, I was sitting on our balcony watching the sunset with my wife and our dog. I was lucky and privileged that my quarantine looked like that.
 
@@ -94,6 +94,6 @@ I'm so glad I moved here. I'm even more thankful for the opportunity and the peo
 * Being part of a new office is thrilling and intimidating and hilarious.
 * The weather is worth talking about.
 * I broke my thumb last month and walked into a hospital and experienced a healthcare system that blew my mind. Every interaction was pleasant, every person I spoke to wanted to help, and I received the care I needed.
-* My wife is the only American in her program and the social circle we’ve been welcomed into has been delightfully international in a way we could have never experienced in Austin. We regularly spend time in groups where 5+ countries are represented. I love learning their stories.
+* My wife is the only American in her program and the social circle we’ve been welcomed into has been international in a way we could have never experienced in Austin. Combined with new coworkers and friends, we regularly spend time in groups where 5+ countries and cultures are represented. I love learning their stories.
 * The pastries are better here.
 * I finally have some distance to reflect on what home means. Probably should have done that sooner.
