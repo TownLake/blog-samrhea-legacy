@@ -3,7 +3,7 @@ author: "Sam Rhea"
 date: 2020-08-21
 linktitle: Boys State
 title: Boys State
-images: ["https://blog.samrhea.com/static/boys-state/cap.png"]
+images: ["https://blog.samrhea.com/static/boys-state/tower.JPG"]
 description: A week spent in an alternate universe run by teenage boys.
 tags: ["Texas"]
 
