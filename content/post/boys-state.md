@@ -17,7 +17,7 @@ He stepped out of line, turned to face the rest of us, and held a flip phone hig
 
 And so it began. A thousand teenage boys, all idiots, spending a week cartoonishly rebuilding the Texas government on the campus of The University of Texas at Austin. A few dozen adults supervised, desperately trying to keep boys from sneaking off campus or seceding from the federal government.
 
-I attended Boys State a long time ago. I have been trying to describe it to people ever since. No one took me seriously. People believe it exists, but they tend to be skeptical about the mash-up of *Lord of the Flies* + *Friday Night Lights* + *Veep*.
+I attended Boys State a long time ago. My school sent me and other schools sent a thousand more. I have been trying to describe it to people ever since. No one took me seriously. People believe it exists, but they tend to be skeptical about the mash-up of *Lord of the Flies* + *Friday Night Lights* + *Veep*.
 
 Until now. Thanks to the [Boys State documentary](https://www.youtube.com/watch?v=E1Kh_T5ZBIM) (available on Apple TV) we have proof. You should go watch it - the entire film is fantastic.
 
@@ -71,7 +71,7 @@ Boys are organized regionally into “cities” of about 30 kids. Your city elec
 
 Our city worked with a neighboring metro to try and pass a county-level resolution to rename the 3rd city in our area. We hated the 3rd city and the proposed name was pretty ugly. Adults vetoed this. Teenage boys will find any excuse to rally together and mock a rival.
 
-You share a dorm with another member of your city. My dorm mate and I could not figure out how to operate the trundle beds at Jester Dormitory, so we just yanked the mattresses onto the floor and crashed like that for a week. This embarrassed me because my parents met as RAs at Jester Dormitory and here I was, one generation later, sleeping on its floor because I was dumb.
+You share a dorm with another member of your city. My dorm mate and I could not figure out how to operate the trundle beds at Jester Dormitory, so we just yanked the mattresses onto the floor and crashed like that for a week. This embarrassed me because my parents met as RAs at Jester Dormitory (for college, not a mock government) and here I was, one generation later, sleeping on its floor because I was dumb.
 
 About 24 hours into the Boys State experience, I met Jack, someone who is still a dear friend of mine. Jack and I had a lot in common (we still do). Both pretty liberal, both pretty academic, and both not terribly interested in participating at a deeper level.
 
