@@ -4,6 +4,7 @@ date: 2019-06-20
 linktitle: 🕵️🚦 signal in traffic signal noise
 title: 🕵️🚦 signal in traffic signal noise
 description: "Data-backed analysis of Austin traffic signals."
+tags: ["cloudflare",",","Austin",",","Access",",","walkthrough"]
 ---
 
 Every Wednesday in the Cloudflare Austin office a team member delivers a talk on a subject they want to share with the group. These discussions range from introductions to new programming languages to deep dives into video encoding. This week, I gave a presentation about how the City of Austin plans and finances roads and general transportation.
