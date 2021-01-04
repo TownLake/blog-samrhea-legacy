@@ -6,26 +6,35 @@ on:
       - 'draft/*'
 
 env:
-  HUGO_VERSION: 0.71.0
+  NODE-VERSION: [12.x]
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
 
-      - name: Download Hugo
-        run: sudo wget https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_${{ env.HUGO_VERSION }}_Linux-64bit.deb
+      - name: Use Node.js ${{ env.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ env.node-version }}
+  
+      - name: Install NPM
+        run: npm install -g yarn
+      
+      - name: Yarn
+        run: yarn install --frozen-lockfile
 
-      - name: Install Hugo
-        run: sudo dpkg -i hugo_${{ env.HUGO_VERSION }}_Linux-64bit.deb
+      - name: Install gatsby-cli
+        run: npm install -g gatsby-cli
 
+      - name: Build site
+        run: gatsby build
+      
       - name: Install Wrangler
-        run: sudo npm i @cloudflare/wrangler -g
-
-      - name: Build
-        run: hugo --environment staging
+        run: npm i @cloudflare/wrangler -g
 
       - name: config wrangler
         run: CF_API_TOKEN=${{ secrets.CF_API_TOKEN }} wrangler publish --env staging
