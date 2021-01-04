@@ -31,7 +31,7 @@ jobs:
         run: sudo npm install -g gatsby-cli
 
       - name: Build site
-        run: gatsby build
+        run: sudo gatsby build
       
       - name: Install Wrangler
         run: sudo npm i @cloudflare/wrangler -g
