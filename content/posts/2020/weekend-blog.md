@@ -26,7 +26,7 @@ By the end of this course, you'll have a lightning-fast blog, that runs you (at 
 
 Stop paying server bills and migrate a WordPress blog to a faster, more manageable, format and deploy to a global network.
 
-**Blog post [walk through](https://blog.samrhea.com/post/wrangler-sites/).**
+**Blog post [walk through](https://blog.samrhea.com/posts/2019/porting-blog-to-workers-sites).**
 
 |Topic|Notes|
 |---|---|
@@ -38,7 +38,7 @@ Stop paying server bills and migrate a WordPress blog to a faster, more manageab
 
 Keep your blog content safe in a GitHub repository and make it easy for others to contribute posts.
 
-**Blog post [walk through](https://blog.samrhea.com/post/serverless-cms/).**
+**Blog post [walk through](https://blog.samrhea.com/posts/2019/serverless-cms).**
 
 |Topic|Notes|
 |---|---|
@@ -54,7 +54,7 @@ Keep your blog content safe in a GitHub repository and make it easy for others t
 
 Deploy staging versions of your blog with Wrangler and lock them down from the public Internet with Cloudflare Access.
 
-Blog post [walk through](https://blog.samrhea.com/post/deploy-pipeline/).
+**Blog post [walk through](https://blog.samrhea.com/posts/2019/workers-deploy-pipeline).**
 
 |Topic|Notes|
 |---|---|
@@ -66,7 +66,7 @@ Blog post [walk through](https://blog.samrhea.com/post/deploy-pipeline/).
 
 Save yourself even more time by automating your deployment using GitHub Actions.
 
-**Blog post [walk through](https://blog.samrhea.com/post/github-actions/).**
+**Blog post [walk through](https://blog.samrhea.com/posts/2019/workers-github-deploy).**
 
 |Topic|Notes|
 |---|---|
@@ -82,7 +82,7 @@ Save yourself even more time by automating your deployment using GitHub Actions.
 
 This post focuses mostly on publishing a site with password-protected content, but you can skip the Access piece and just use Cloudflare Stream to add ad-free videos to your blog.
 
-**Blog post [walk through](https://blog.samrhea.com/post/home-movie/).**
+**Blog post [walk through](https://blog.samrhea.com/posts/2020/adfree-video-archive).**
 
 |Topic|Notes|
 |---|---|

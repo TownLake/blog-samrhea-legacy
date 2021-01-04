@@ -4,13 +4,13 @@
 
 This repository contains the content and configuration for [my personal blog](https://blog.samrhea.com).
 
-## 🏗️ Hugo
+## 🏗️ Gatsby
 
-The blog is a Hugo static site. [Hugo](https://gohugo.io) is an open-source static site generator.
+The blog is a Gatsby static site. [Gatsby](https://www.gatsbyjs.com/) is a React-based open-source framework for creating websites and apps.
 
 ## ✨ Cloudflare Workers Sites
 
-[Workers Sites](https://developers.cloudflare.com/workers/sites/) serves the blog. The post [here](https://blog.samrhea.com/post/wrangler-sites/) walks through that setup in detail.
+[Workers Sites](https://developers.cloudflare.com/workers/sites/) serves the blog. The post [here](https://blog.samrhea.com/posts/2020/migrate-blog-to-workers) walks through that setup in detail.
 
 ## 🤠 wrangler
 
