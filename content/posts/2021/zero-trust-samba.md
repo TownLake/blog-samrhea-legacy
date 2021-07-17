@@ -289,7 +289,7 @@ And I'm connected! Behind the scenes, Cloudflare checked that my user identity (
 
 ## What's next?
 
-I like this. I now have a private file storage that doesn't rely on any one consumer-focused service. I can access it from any location (and even see logs).
+I like this. I now have a private file storage that doesn't rely on any one consumer-focused service. I can also keep my device safe by adding [Secure Web Gateway or DNS filtering](https://developers.cloudflare.com/cloudflare-one/policies/filtering) rules with just a few clicks. I can access it from any location (and even see logs).
 
 ![logs](../../../static/media/post-images/zero-trust-samba/logs.png)
 
