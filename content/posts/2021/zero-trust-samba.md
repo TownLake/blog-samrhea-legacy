@@ -9,11 +9,16 @@ category: "walkthrough"
 tags:
   - "Cloudflare"
   - "walkthrough"
-description: "Connecting to a Samba file server through Cloudflare"
+description: "Connecting through Cloudflare to my own Samba server from any location."
 image: "../../../static/media/post-images/zero-trust-samba/input-smb.png"
+socialImage: "../../../static/media/post-images/zero-trust-samba/input-smb.png"
 ---
 
-<>
+The Portuguese immigration process loves paperwork. I purchased a printer for the first time in years when I moved here and, now that I have been here for a while, the scanner function does a lot of work converting stamped papers back to digital copies. That's fine and sometimes my brain prefers knowing that I can physically hold the original copies of my documents.
+
+I still want a digital back-up though. I use iCloud for most things, but I'd like to have control over a redundant copy of those files. A USB drive isn't sufficient - I need to grab these (mostly PDF) files periodically from different locations, like when I'm standing in line at a SEF office, and I don't want to carry the drive with me.
+
+Instead, I'm going to set up my own Samba server, move the files there, and connect to them when I need them. However, I still want the level of identity-driven control that a SaaS equivalent like iCloud or Google Drive offers me. This tutorial walks through how to use [Cloudflare for Teams](https://www.cloudflare.com/teams/) to accomplish that - at no cost with the free plan.
 
 ---
 
@@ -48,13 +53,13 @@ I have an Ubuntu VM, running in Digital Ocean, where I'm going to run a Samba fi
 First, I'll install Samba using `apt`. I followed the directions available from Ubuntu [here](https://ubuntu.com/tutorials/install-and-configure-samba#1-overview
 ) with a couple of modifications beginning on step 3, which I'll call out here.
 
-I have poor user hygiene and am running as root, so I created the Samba file with this command.
+I have poor user hygiene and am running as root, so I created the Samba directory with this command.
 
 ```bash
 mkdir /root/sambashare/
 ```
 
-Next, I can edit the configuration of the installed Samba service.
+Next, I can edit the configuration of the Samba service.
 
 ```bash
 sudo vim /etc/samba/smb.conf
@@ -70,7 +75,7 @@ I'll add the following five lines to the end of the configuration file.
         browsable = yes
 ```
 
-I can now add a user. Again, I'm running as root and Samba requires the user also be a user on the machine, so I need to run the following command.
+I can now add a user. Again, I'm running as root and Samba requires the user to also be a user on the machine, so I need to run the following command.
 
 ```sh
 sudo smbpasswd -a root
@@ -86,13 +91,13 @@ sudo service smbd status
 
 ![Samba Service](../../../static/media/post-images/zero-trust-samba/samba-service.png)
 
-Now that my Samba server is up and running, I need to connect to it. I do not want this service exposed to the public Internet, so I want to reach it through a private network. However, most private networks trust all users inside of them. I want to only let certain users in this private network reach this service (and no other services). To do that, I'm going to use Cloudflare Tunnel.
+Now that my Samba server is up and running, I need to connect to it. I do not want this service exposed to the public Internet, so I want to reach it through a private network. However, most private networks trust all users inside of them. I want to only let certain users in this private network reach this service (and no other services). To do that, I'm going to use Cloudflare Tunnel and Zero Trust network rules in Cloudflare Gateway.
 
 ## Cloudflare Tunnel
 
 [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) connects applications, resources, and networks to Cloudflare's global network without requiring me to open up holes in my own firewall. The Cloudflare Tunnel daemon, `cloudflared`, will create outbound-only connections to Cloudflare. The daemon is [open-sourced](https://github.com/cloudflare/cloudflared) and [releases are available](https://github.com/cloudflare/cloudflared/releases) for several different operating systems.
 
-Cloudflare Tunnel can be used for public-facing applications, [interal resources](https://developers.cloudflare.com/cloudflare-one/tutorials/share-new-site) that need Zero Trust rules, or in a deployment [similar to a private network](https://developers.cloudflare.com/cloudflare-one/tutorials/warp-to-tunnel), like what I'm doing in this tutorial.
+Cloudflare Tunnel can be used for public-facing applications, [internal resources](https://developers.cloudflare.com/cloudflare-one/tutorials/share-new-site) that need Zero Trust rules, or in a deployment [similar to a private network](https://developers.cloudflare.com/cloudflare-one/tutorials/warp-to-tunnel), like what I'm doing in this tutorial.
 
 ### Install and Authenticate
 
@@ -129,9 +134,9 @@ cloudflared tunnel create smb-machine
 
 ![create tunnel](../../../static/media/post-images/zero-trust-samba/create-tunnel.png)
 
-The command above created a Tunnel in my account and issued credentials for that Tunnel to this instance of `cloduflared`. The Tunnel I created is not ephemeral or dependent on `cloudflared` to be running. For example, when `cloudflared` restarts, I do not need to recreate this Tunnel.
+The command above created a Tunnel in my account and issued credentials for that Tunnel to this instance of `cloudflared`. The Tunnel I created is not ephemeral or dependent on `cloudflared` to be running. For example, when `cloudflared` restarts, I do not need to recreate this Tunnel.
 
-Next, I am going to configure the private network functionality of Cloudflare Tunnel. The command below will tell Cloudflare to send traffic inside of my private network, bound for the IP CIDR, to the Tunnel I just created.
+Next, I am going to configure the private network functionality of Cloudflare Tunnel. The command below will tell Cloudflare to send traffic inside of my private network, bound for the specified IP CIDR, to the Tunnel I just created.
 
 ```sh
 cloudflared tunnel route ip add 10.0.0.4/32 smb-machine
@@ -139,7 +144,7 @@ cloudflared tunnel route ip add 10.0.0.4/32 smb-machine
 
 ![create route](../../../static/media/post-images/zero-trust-samba/ip-add.png)
 
-I can now configure Cloudflare Tunnel. I'm going to create a configuration file and edit it (in Vim) with the following command.
+I can now finish configuring the Tunnel itself. I'm going to create a configuration file and edit it (in Vim) with the following command.
 
 ```sh
 vim /root/.cloudflared/config.yaml
@@ -166,7 +171,7 @@ ifconfig lo:0 10.0.0.4 up
 
 ### Run
 
-Alright, I'm ready to run the Tunnel. I could run this Tunnel in a one-off way, to test the functionality, with the command below.
+Alright, I'm ready to run the Tunnel. I could run this Tunnel in a one-off way, to test the functionality, with the command below:
 
 ```sh
 cloudflared tunnel run smb-machine
@@ -201,7 +206,7 @@ Next, I'm going to create a second rule to block everyone else.
 
 ![block](../../../static/media/post-images/zero-trust-samba/block-rule.png)
 
-These rules are enforced top-to-bottom, so I need to make sure the Allow rule is listed first.
+These rules are enforced in top-to-bottom order, so I need to make sure the Allow rule is listed first.
 
 ![list](../../../static/media/post-images/zero-trust-samba/rule-list.png)
 
@@ -219,7 +224,7 @@ I'll select `Device` settings.
 
 ![device settings](../../../static/media/post-images/zero-trust-samba/device-settings.png)
 
-I can configure the enrollment rules by clicking **Manage**. I'm going to only allow myself to enroll, but I could add rules to allow my entire team, identity provider groups, or even users from multiple identity providers.
+I'll configure the enrollment rules by clicking **Manage**. I'm going to only allow myself to enroll, but I could add rules to allow my entire team, identity provider groups, or even users from multiple identity providers.
 
 ![device settings](../../../static/media/post-images/zero-trust-samba/enroll-rule.png)
 
@@ -229,19 +234,39 @@ Once saved, I can leave this page and configure my account's network settings.
 
 ### Configuring my network
 
-Second, I need to configure the settings that will be applied when users enroll. I'll stay in the `Settings` page, but navigate over to the `Network` section. In this case, I need to make sure that the `Proxy` mode is enabled.
+Second, I need to configure the settings that will be applied when users enroll. I'll stay in the `Settings` page, but navigate over to the `Network` section. In this case, I need to make sure that `TLS inspection` and the `Proxy` mode settings are both enabled.
 
 ![network settings](../../../static/media/post-images/zero-trust-samba/network-settings.png)
 
-In this case, I need to make sure that `TLS inspection` and the `Proxy` mode settings are both enabled.
+One last thing here - the WARP agent, which is going to be my on-ramp to connect to this resource, excludes a list of private IP ranges by default. I need to [delete any ranges](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/exclude-traffic) that include the IP I configured previously.
 
-One last thing here - the WARP agent, which is going to be my on-ramp to connect to this resource, excludes a list of private IP ranges by default. I need to delete any ranges that include the IP I configured previously.
-
-![split tunnel](../../../static/media/post-images/zero-trust-samba/split-tunnel.png)
+![split tunnel](../../../static/media/post-images/zero-trust-samba/enable-proxy-decrypt.png)
 
 ### Enrolling my device
 
+I'll begin the third step by adding a certificate to my device. I'll navigate to the `Certificates` card of the `Devices` page in the `Settings` section to download the certificate, then I'll follow [these instructions](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/install-cloudflare-cert) to add the certificate to my machine.
 
+> The WARP agent, and this private routing use case, can work alongside Cloudflare's Secure Web Gateway, which performs traffic inspection using the certificate installed above. We're going to make this easier and remove this requirement for purely private routing use cases.
+
+I can now download the WARP agent (links are available in the same Device settings page).
+
+![warp mode](../../../static/media/post-images/zero-trust-samba/download-warp.png)
+
+Once installed, I need to enroll the agent into my Cloudflare account.
+
+![warp mode](../../../static/media/post-images/zero-trust-samba/warp.png)
+
+To do so, I'll click the gear icon and navigate to the Account view.
+
+![account](../../../static/media/post-images/zero-trust-samba/account-view.png)
+
+I'm going to input my Cloudflare for Teams name; if you don't remember this value, you can find it in the `General` page of the `Settings` section. Once entered, I'll be prompted to authenticate with my identity provider.
+
+![org name](../../../static/media/post-images/zero-trust-samba/org-name.png)
+
+Finally, I need to make sure the agent is running in "WARP" mode - the proxy version - rather than just DNS mode.
+
+![split tunnel](../../../static/media/post-images/zero-trust-samba/warp-mode.png)
 
 > For large organizations, these steps can be completed via an MDM deployment to avoid requiring users to manually complete them.
 
@@ -261,4 +286,10 @@ And I'm connected!
 
 ## What's next?
 
-This requires too many steps to set up right now.
+I like this. I now have a private file storage that doesn't rely on any one consumer-focused service. I'll probably move the Samba server to a machine I run in my own home to remove the cloud dependency. I can access it from any location (and even see logs).
+
+![logs](../../../static/media/post-images/zero-trust-samba/logs.png)
+
+That said, a few of these steps could be consolidated and easier (or removed for this specific use case). We're going to work on that next.
+
+> **Don't forget your public IPs** The goal of this setup is that nothing is exposed to the Internet; I'm going to configure my Droplet to block inbound connections to its public IP. If I need to reach it again, I'll use the [SSH functionality](https://developers.cloudflare.com/cloudflare-one/tutorials/ssh-browser) of Cloudflare Tunnel.
