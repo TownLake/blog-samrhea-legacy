@@ -18,7 +18,7 @@ The Portuguese immigration process loves paperwork. I purchased a printer for th
 
 I still want a digital back-up though. I use iCloud for most things, but I'd like to have control over a redundant copy of those files. A USB drive isn't sufficient - I need to grab these (mostly PDF) files periodically from different locations, like when I'm standing in line at a SEF office, and I don't want to carry the drive with me.
 
-Instead, I'm going to set up my own Samba server, move the files there, and connect to them when I need them. However, I still want the level of identity-driven control that a SaaS equivalent like iCloud or Google Drive offers me. This tutorial walks through how to use [Cloudflare for Teams](https://www.cloudflare.com/teams/) to accomplish that - at no cost with the free plan.
+Instead, I'm going to set up my own Samba server, move the files there, and connect to them when I need them. I still want the level of identity-driven control that a SaaS equivalent like iCloud or Google Drive offers me. Not only that, but I want to add redundant identity options in case one has an incident. This tutorial walks through how to use [Cloudflare for Teams](https://www.cloudflare.com/teams/) to accomplish all the above - at no cost with the free plan.
 
 ---
 
@@ -26,7 +26,8 @@ Instead, I'm going to set up my own Samba server, move the files there, and conn
 
 * Deploy a Samba file server on an Ubuntu machine
 * Make that machine inaccessible to the Internet
-* Connect to that file server without adding latency or back hauls
+* Connect to that file server without adding back hauls that degrade performance
+* Control who can reach the server using my identity provider of choise, instead of relying entirely on simple password auth in Samba
 
 ---
 
@@ -75,7 +76,7 @@ I'll add the following five lines to the end of the configuration file.
         browsable = yes
 ```
 
-I can now add a user. Again, I'm running as root and Samba requires the user to also be a user on the machine, so I need to run the following command.
+I can now add a user and set a password. I'll be relying on my identity provider login, but this password gives me an additional second factor if I want to think of it that way. Again, I'm running as root and Samba requires the user to also be a user on the machine, so I need to run the following command.
 
 ```sh
 sudo smbpasswd -a root
@@ -224,7 +225,9 @@ I'll select `Device` settings.
 
 ![device settings](../../../static/media/post-images/zero-trust-samba/device-settings.png)
 
-I'll configure the enrollment rules by clicking **Manage**. I'm going to only allow myself to enroll, but I could add rules to allow my entire team, identity provider groups, or even users from multiple identity providers.
+I'll configure the enrollment rules by clicking **Manage**. I already have configured a handful of identity providers, but if you haven't yet then [this guide](https://developers.cloudflare.com/cloudflare-one/identity) will help you get started.
+
+I'm going to only allow myself to enroll, but I could add rules to allow my entire team, identity provider groups, or even users from multiple identity providers.
 
 ![device settings](../../../static/media/post-images/zero-trust-samba/enroll-rule.png)
 
@@ -280,16 +283,16 @@ I'll authenticate with the credentials created earlier.
 
 ![smb login](../../../static/media/post-images/zero-trust-samba/smb-login.png)
 
-And I'm connected!
+And I'm connected! Behind the scenes, Cloudflare checked that my user identity (stored in WARP) is allowed to reach this IP and connected me through.
 
 ![smb view](../../../static/media/post-images/zero-trust-samba/smb-view.png)
 
 ## What's next?
 
-I like this. I now have a private file storage that doesn't rely on any one consumer-focused service. I'll probably move the Samba server to a machine I run in my own home to remove the cloud dependency. I can access it from any location (and even see logs).
+I like this. I now have a private file storage that doesn't rely on any one consumer-focused service. I can access it from any location (and even see logs).
 
 ![logs](../../../static/media/post-images/zero-trust-samba/logs.png)
 
-That said, a few of these steps could be consolidated and easier (or removed for this specific use case). We're going to work on that next.
+That said, a few of these steps could be consolidated and easier (or removed for this specific use case). We're going to work on that next. I'm also going to move the Samba server to a machine I run in a safe location.
 
 > **Don't forget your public IPs** The goal of this setup is that nothing is exposed to the Internet; I'm going to configure my Droplet to block inbound connections to its public IP. If I need to reach it again, I'll use the [SSH functionality](https://developers.cloudflare.com/cloudflare-one/tutorials/ssh-browser) of Cloudflare Tunnel.
