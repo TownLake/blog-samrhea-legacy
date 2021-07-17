@@ -9,8 +9,9 @@ category: "walkthrough"
 tags:
   - "Cloudflare"
   - "walkthrough"
-description: "Connecting to a Samba file server through Cloudflare"
+description: "Connecting through Cloudflare to my own Samba server from any location."
 image: "../../../static/media/post-images/zero-trust-samba/input-smb.png"
+socialImage: "../../../static/media/post-images/zero-trust-samba/input-smb.png"
 ---
 
 <>
@@ -237,11 +238,33 @@ In this case, I need to make sure that `TLS inspection` and the `Proxy` mode set
 
 One last thing here - the WARP agent, which is going to be my on-ramp to connect to this resource, excludes a list of private IP ranges by default. I need to delete any ranges that include the IP I configured previously.
 
-![split tunnel](../../../static/media/post-images/zero-trust-samba/split-tunnel.png)
+![split tunnel](../../../static/media/post-images/zero-trust-samba/enable-proxy-decrypt.png)
 
 ### Enrolling my device
 
+I'll begin the third step by adding a certificate to my device. I'll navigate to the `Certificates` card of the `Devices` page in the `Settings` section to download the certificate, then I'll follow [these instructions](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/install-cloudflare-cert) to add the certificate to my machine.
 
+> The WARP agent, and this private routing use case, is built to work alongside Cloudflare's Secure Web Gateway, which performs traffic inspection. We're going to make this easier and remove this requirement for the purely private routing case.
+
+I can now download the WARP agent (links are available in the same Device settings page).
+
+![warp mode](../../../static/media/post-images/zero-trust-samba/download-warp.png)
+
+Once installed, I need to enroll the agent into my Cloudflare account.
+
+![warp mode](../../../static/media/post-images/zero-trust-samba/warp.png)
+
+To do so, I'll click the gear icon and navigate to the Account view.
+
+![account](../../../static/media/post-images/zero-trust-samba/account-view.png)
+
+I'm going to input my Cloudflare for Teams name; if you don't remember this value, you can find it in the `General` page of the `Settings` section. Once entered, I'll be prompted to authenticate with my identity provider.
+
+![org name](../../../static/media/post-images/zero-trust-samba/org-name.png)
+
+Finally, I need to make sure the agent is running in "WARP" mode - the proxy version - rather than just DNS mode.
+
+![split tunnel](../../../static/media/post-images/zero-trust-samba/warp-mode.png)
 
 > For large organizations, these steps can be completed via an MDM deployment to avoid requiring users to manually complete them.
 
@@ -261,4 +284,8 @@ And I'm connected!
 
 ## What's next?
 
-This requires too many steps to set up right now.
+I like this. I now have a private file storage that doesn't rely on any one consumer-focused service. I'll probably move the Samba server to a machine I run in my own home to remove the cloud dependency. I can access it from any location (and even see logs).
+
+![logs](../../../static/media/post-images/zero-trust-samba/logs.png)
+
+That said, a few of these steps could be consolidated and easier (or removed for this specific use case). We're going to work on that next.
