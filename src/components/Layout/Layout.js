@@ -19,7 +19,7 @@ const Layout = ({
   image = ''
 }: Props) => {
   const { author, url } = useSiteMetadata();
-  const metaImage = image;
+  const metaImage = image || author.photo;
   const metaImageUrl = url + metaImage;
 
   return (
