@@ -1,6 +1,6 @@
 import React from "react"
 
-import "../css/components/product-grid.css./Products.css"
+import "./product-grid.css"
 
 const $ = {}
 $["zero-trust"] = require("../../../static/media/icons/access").pathD
@@ -73,4 +73,4 @@ const ProductGrid = () => (
   </div>
 )
 
-export default ProductGrid
+export default CurrentProducts
