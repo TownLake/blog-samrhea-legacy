@@ -13,7 +13,6 @@ description: "Setting up a simple workflow with GitHub and Cloudflare Workers fo
 socialImage: ""
 ---
 
-
 I converted this blog to [Workers Sites](https://workers.cloudflare.com/sites/) a couple weeks ago and wrote about it [here](https://blog.samrhea.com/post/wrangler-sites/). The initial setup was pretty bare bones. I saved the repository locally without any version control and deployed directly to production. No one gets paged if I break this blog, so that was fine.
 
 However, I did receive some [questions](https://twitter.com/LakeAustinBlvd/status/1179057951597879298) on Twitter asking about how to integrate a deploy pipeline into this workflow. I decided to take some time this weekend and build out a staging flow and answer some of those questions. This work gave me an excuse to bring some maturity to this process, including a GitHub repo, which helps with situations like "what if I lose my laptop?"

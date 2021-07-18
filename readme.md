@@ -16,9 +16,9 @@ The blog is a Gatsby static site. [Gatsby](https://www.gatsbyjs.com/) is a React
 
 The `wrangler` CLI tool publishes the blog. You can learn more about `wrangler` [here](https://github.com/cloudflare/wrangler). The post [here](https://blog.samrhea.com/post/deploy-pipeline/) breaks down how I deploy the blog.
 
-## 🌵 Hugo Cactus Theme
+## 💡 Gatsby Lumen theme
 
-The site uses the [Cactus theme](https://github.com/digitalcraftsman/hugo-cactus-theme), a theme built by [digitalcraftsman](https://github.com/digitalcraftsman) that is based on the [port](https://github.com/nickbalestra/kactus) of Jekyll's Cactus theme by [Nick Balestra](https://github.com/nickbalestra).
+The site uses the [Lumen Gatsby starter theme](https://www.gatsbyjs.com/starters/alxshelepenok/gatsby-starter-lumen), maintained by [this team](https://github.com/alxshelepenok/gatsby-starter-lumen#contributors).
 
 ## 🐶 Banner
 
