@@ -31,21 +31,4 @@ const ProductTemplate = ({ data }: Props) => {
   );
 };
 
-export const query = graphql`
-  query PageBySlug($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
-      id
-      html
-      frontmatter {
-        title
-        date
-        description
-        socialImage {
-          publicURL
-        }
-      }
-    }
-  }
-`;
-
 export default ProductTemplate;
