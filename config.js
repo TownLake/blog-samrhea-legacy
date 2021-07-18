@@ -21,6 +21,10 @@ module.exports = {
     {
       label: 'Projects',
       path: '/pages/projects'
+    },
+    {
+      label: 'At Cloudflare',
+      path: '/pages/at-cloudflare'
     }
   ],
   author: {
