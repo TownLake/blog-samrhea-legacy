@@ -1,6 +1,6 @@
 ---
 title: "At Cloudflare"
-template: "page"
+template: "product"
 socialImage: "/sam-task.jpeg"
 ---
 
@@ -10,6 +10,3 @@ I am a Director of Product at Cloudflare, where I focus on building Zero Trust s
 
 ### Current Products
 <ProductGrid/>
-
-### Previous Products
-<PreviousProducts/>

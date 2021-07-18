@@ -1,7 +1,3 @@
-import React from "react"
-
-import "./product-grid.css"
-
 const $ = {}
 $["zero-trust"] = require("../../../static/media/icons/access").pathD
 $["cloudflare-one"] = require("../../../static/media/icons/access").pathD
@@ -73,4 +69,4 @@ const ProductGrid = () => (
   </div>
 )
 
-export default CurrentProducts
+export default ProductGrid
