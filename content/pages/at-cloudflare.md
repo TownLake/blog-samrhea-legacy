@@ -33,7 +33,7 @@ I am a Director of Product at Cloudflare, where I focus on building Zero Trust s
 </style>
 <main class="grid">
   <article>
-    <img src="/pix/samples/23m.jpg" alt="Sample photo">
+    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png" alt="Sample photo">
     <div class="text">
       <h3>Seamlessly visualize quality</h3>
       <p>Collaboratively administrate empowered markets via plug-and-play networks.</p>
@@ -41,7 +41,7 @@ I am a Director of Product at Cloudflare, where I focus on building Zero Trust s
     </div>
   </article>
   <article>
-    <img src="/pix/samples/24m.jpg" alt="Sample photo">
+    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png" alt="Sample photo">
     <div class="text">
       <h3>Completely Synergize</h3>
       <p>Dramatically engage seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
@@ -57,7 +57,7 @@ I am a Director of Product at Cloudflare, where I focus on building Zero Trust s
     </div>
   </article>
   <article>
-    <img src="/pix/samples/15l.jpg" alt="Sample photo">
+    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png" alt="Sample photo">
     <div class="text">
       <h3>Best in class</h3>
       <p>Imagine jumping into that boat, and just letting it sail wherever the wind takes you...</p>
@@ -65,7 +65,7 @@ I am a Director of Product at Cloudflare, where I focus on building Zero Trust s
     </div>
   </article>
   <article>
-    <img src="/pix/samples/25m.jpg" alt="Sample photo">
+    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png" alt="Sample photo">
     <div class="text">
       <h3>Dynamically innovate supply chains</h3>
       <p>Holisticly predominate extensible testing procedures for reliable supply chains.</p>
@@ -73,7 +73,7 @@ I am a Director of Product at Cloudflare, where I focus on building Zero Trust s
     </div>
   </article>
   <article>
-    <img src="/pix/samples/16l.jpg" alt="Sample photo">
+    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png" alt="Sample photo">
     <div class="text">
       <h3>Sanity check</h3>
       <p>Objectively innovate empowered manufactured products whereas parallel platforms.</p>
