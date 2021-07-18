@@ -2,7 +2,7 @@
 import React from 'react';
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
-import ProductGrid from '../components/Products';
+import ProductGrid from '../components/ProductsGrid';
 import { useSiteMetadata } from '../hooks';
 import type { MarkdownRemark } from '../types';
 
