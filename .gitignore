@@ -11,3 +11,4 @@ gatsby-starter-lumen.iml
 /workers-site
 /dist
 .DS_Store
+yarn.lock
