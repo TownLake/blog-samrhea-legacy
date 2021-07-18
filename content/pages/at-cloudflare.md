@@ -9,7 +9,7 @@ I am a Director of Product at Cloudflare, where I focus on building Zero Trust s
 <style>
 .grid { 
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   grid-gap: 20px;
   align-items: stretch;
   }
