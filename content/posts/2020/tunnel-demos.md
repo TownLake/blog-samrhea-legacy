@@ -11,8 +11,8 @@ tags:
   - "Cloudflare"
   - "development"
 description: "One-click demos that your audience can use."
-socialImage: /post-images/tunnel-demos/connection-start.png
-image: /post-images/tunnel-demos/connection-start.png
+socialImage: /media/post-images/tunnel-demos/connection-start.png
+image: /media/post-images/tunnel-demos/connection-start.png
 ---
 
 I had a coworker, a few jobs ago, who started his career in investment banking. He loved to tell this one story about his passion for keyboard shortcuts. On his first day at the bank, his boss stopped by his desk, pulled out scissors, and cut the cord of the computer mouse on that desk.
