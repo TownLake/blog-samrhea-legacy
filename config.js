@@ -26,7 +26,7 @@ module.exports = {
   author: {
     name: 'Sam Rhea',
     photo: '/sam-task.jpeg',
-    bio: 'Austinite in Lisbon. Director of Product at Cloudflare - Cloudflare for Teams.',
+    bio: 'Austinite in Lisbon. Director of Product at Cloudflare.',
     contacts: {
       email: '',
       facebook: '',
