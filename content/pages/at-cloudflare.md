@@ -8,4 +8,8 @@ I am a Director of Product at Cloudflare, where I focus on building Zero Trust s
 
 ## Product Launches
 
-import ProductGrid from "../../src/components/Page/Table"
+## Current Products
+import ProductGrid from "../../src/components/Page/Current-Products"
+
+## Previous Products
+import ProductGrid from "../../src/components/Page/Previous-Products"
