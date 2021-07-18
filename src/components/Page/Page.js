@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from './Page.module.scss';
-import "./product-grid.css";
 
 type Props = {
   title?: string,
