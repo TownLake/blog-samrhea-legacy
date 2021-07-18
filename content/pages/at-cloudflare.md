@@ -17,3 +17,11 @@ Back in the day, I also launched our Registrar.
   <p>Title</p>
   <p><button>Read</button></p>
 </div>
+
+<div class="card">
+  <img src="/sam-task.jpeg" alt="Sam" style="width:100%">
+  <h1>Sam Post</h1>
+  <p class="title">New Post</p>
+  <p>Title</p>
+  <p><button>Read</button></p>
+</div>
