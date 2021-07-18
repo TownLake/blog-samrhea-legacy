@@ -8,20 +8,96 @@ I am a Director of Product at Cloudflare, where I focus on building Zero Trust s
 
 Back in the day, I also launched our Registrar.
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-<div class="card">
-  <img src="/sam-task.jpeg" alt="Sam" style="width:100%">
-  <h1>Sam Post</h1>
-  <p class="title">Old Post</p>
-  <p>Title</p>
-  <p><button>Read</button></p>
+.column {
+  float: left;
+  width: 33%;
+  padding: 0 10px;
+}
+
+.row {margin: 0 -5px;}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  padding: 10px;
+}
+
+@media screen and (max-width: 400px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <div class="card onclick="location.href='https://blog.cloudflare.com/data-loss-prevention/';" style="cursor: pointer;">
+      <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png" alt="Avatar" style="width:100%">
+      <h3>Cloudflare One</h3>
+      <p>October 2020</p>
+      <p>Launch</p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card" onclick="location.href='https://blog.cloudflare.com/data-loss-prevention/';" style="cursor: pointer;">
+      <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png" alt="Avatar" style="width:100%">
+      <h3>Cloudflare Access</h3>
+      <p>October 2020</p>
+      <p>Launch</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card" onclick="location.href='https://blog.cloudflare.com/data-loss-prevention/';" style="cursor: pointer;">
+      <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png" alt="Avatar" style="width:100%">
+      <h3>Cloudflare Registrar</h3>
+      <p>October 2020</p>
+      <p>Launch</p>
+    </div>
+  </div>
+  </div>
+ </div>
+ 
+<div class="row">
+  <div class="column">
+    <div class="card" onclick="location.href='https://blog.cloudflare.com/data-loss-prevention/';" style="cursor: pointer;">
+      <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png" alt="Avatar" style="width:100%">
+      <h3>Cloudflare One</h3>
+      <p>October 2020</p>
+      <p>Launch</p>
+    </div>
+  </div>
+  </div>
 </div>
 
-<div class="card">
-  <img src="/sam-task.jpeg" alt="Sam" style="width:100%">
-  <h1>Sam Post</h1>
-  <p class="title">New Post</p>
-  <p>Title</p>
-  <p><button>Read</button></p>
-</div>
+</body>
+</html>
