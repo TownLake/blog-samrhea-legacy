@@ -1,6 +1,6 @@
 ---
 title: "At Cloudflare"
-template: "exp"
+template: "page"
 socialImage: "/sam-task.jpeg"
 ---
 
