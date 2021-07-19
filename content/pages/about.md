@@ -10,6 +10,6 @@ I’m probably busy right now using a spreadsheet for a hobby project that doesn
 
 I'm an Austinite, but I left my hometown in 2019 to move to Lisbon, Portugal.
 
-I'm also a [Director of Product](https://www.linkedin.com/in/samrhea/) at [Cloudflare](https://www.cloudflare.com/), where I work on [products](https://teams.cloudflare.com/) that help solve security problems.
+I'm also a [Director of Product](https://www.linkedin.com/in/samrhea/) at [Cloudflare](https://www.cloudflare.com/), where I work on [products](https://teams.cloudflare.com/) that help solve security problems. You can learn more about what I do [here](https://blog.samrhea.com/pages/at-cloudflare).
 
 The profile image on this site was created by the spectacular [Kari Linder](https://twitter.com/kkblinder?s=20).

@@ -4,7 +4,9 @@ template: "page"
 socialImage: "/sam-task.jpeg"
 ---
 
-I am a Director of Product at Cloudflare, where I focus on building Zero Trust security products and making data control easy. The products in my group include Access, Tunnel, Gateway, and the Cloudflare for Teams client. Back in the day, I also launched our Registrar.
+I am a Director of Product at Cloudflare, where I work with wonderful people to build Zero Trust security products and make data control easy. The products in my group include [Access](https://www.cloudflare.com/teams/access/), [Tunnel](https://www.cloudflare.com/products/tunnel/), [Gateway](https://www.cloudflare.com/teams/gateway/), [Browser Isolation](https://www.cloudflare.com/teams/browser-isolation/), and the Cloudflare for Teams client.
+
+Back in the day, I also launched our Registrar and, no, I do not know when we will support the `.horse` or `.uk.` TLDs.
 
 <style>
 .grid { 
@@ -31,34 +33,35 @@ I am a Director of Product at Cloudflare, where I focus on building Zero Trust s
   }
 </style>
 
-## Currently
+## 🌥️ Currently
 
 <main class="grid">
   <article>
-    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png">
+    <img src="../../static/media/cloudflare/cf-one.png">
     <div class="text">
       <h3>Cloudflare One</h3>
-      <p>Cloudflare One is...</p>
-      <p><a href="https://blog.cloudflare.com/cloudflare-one/">Launch blog</a>></p>
+      <p>Cloudflare One connects and secures your entire organization.</p>
+      <p><a href="https://blog.cloudflare.com/cloudflare-one/">Blog</a> ></p>
     </div>
   </article>
   <article>
-    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png">
+    <img src="../../static/media/cloudflare/cf-teams.svg">
     <div class="text">
       <h3>Cloudflare Zero Trust</h3>
-      <p>Safe data and devices.</p>
-      <p><a href="https://blog.cloudflare.com/cloudflare-one/">Launch blog</a>></p>
+      <p>Keep your applications, devices, and data safe without compromising speed or usability.</p>
+      <p><a href="https://blog.cloudflare.com/cloudflare-for-teams-products/">Blog</a> ></p>
     </div>
   </article>
 </main>
 
-## Prevoiusly
+## 🌱 Prevoiusly
 
 <main class="grid">
   <article>
     <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png">
     <div class="text">
-      <h3>Cloudflare One</h3>
+      <h3>Cloudflare Access</h3>
+      <h4>Launch -> 2020 </h4>
       <p>Collaboratively administrate empowered markets via plug-and-play networks.</p>
       <p><a href="https://blog.cloudflare.com/cloudflare-one/">Launch blog</a>></p>
     </div>
@@ -66,11 +69,30 @@ I am a Director of Product at Cloudflare, where I focus on building Zero Trust s
   <article>
     <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png">
     <div class="text">
-      <h3>Cloudflare One</h3>
+      <h3>Cloudflare Tunnel</h3>
+      <h4>2019-2021</h4>
+      <p>Collaboratively administrate empowered markets via plug-and-play networks.</p>
+      <p><a href="https://blog.cloudflare.com/cloudflare-one/">Launch blog</a>></p>
+    </div>
+  </article>
+  <article>
+    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png">
+    <div class="text">
+      <h3>Cloudflare Gateway</h3>
+      <h4>2020</h4>
+      <p>Collaboratively administrate empowered markets via plug-and-play networks.</p>
+      <p><a href="https://blog.cloudflare.com/cloudflare-one/">Launch blog</a>></p>
+    </div>
+  </article>
+  <article>
+    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png">
+    <div class="text">
+      <h3>Cloudflare Registrar</h3>
+      <h4>Launch-2019</h4>
       <p>Collaboratively administrate empowered markets via plug-and-play networks.</p>
       <p><a href="https://blog.cloudflare.com/cloudflare-one/">Launch blog</a>></p>
     </div>
   </article>
 </main>
 
-## Feature Launches
+## 🚀 Launches
