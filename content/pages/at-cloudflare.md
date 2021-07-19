@@ -31,6 +31,8 @@ Back in the day, I also launched our Registrar and, no, I do not know when we wi
   padding: 10px;
   width: 100%;
   }
+h3 {text-align: center;}
+h5 {text-align: center;}
 </style>
 
 ## 🌥️ Currently
@@ -41,7 +43,7 @@ Back in the day, I also launched our Registrar and, no, I do not know when we wi
     <div class="text">
       <h3>Cloudflare One</h3>
       <p>Cloudflare One connects and secures your entire organization.</p>
-      <p><a href="https://blog.cloudflare.com/cloudflare-one/">Blog</a> ></p>
+      <p><a href="https://blog.cloudflare.com/cloudflare-one/">Learn more</a> ></p>
     </div>
   </article>
   <article>
@@ -49,7 +51,7 @@ Back in the day, I also launched our Registrar and, no, I do not know when we wi
     <div class="text">
       <h3>Cloudflare Zero Trust</h3>
       <p>Keep your applications, devices, and data safe without compromising speed or usability.</p>
-      <p><a href="https://blog.cloudflare.com/cloudflare-for-teams-products/">Blog</a> ></p>
+      <p><a href="https://blog.cloudflare.com/cloudflare-for-teams-products/">Learn more</a> ></p>
     </div>
   </article>
 </main>
@@ -58,39 +60,48 @@ Back in the day, I also launched our Registrar and, no, I do not know when we wi
 
 <main class="grid">
   <article>
-    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png">
+    <img src="../../static/media/cloudflare/access.svg">
     <div class="text">
       <h3>Cloudflare Access</h3>
-      <h4>Launch -> 2020 </h4>
-      <p>Collaboratively administrate empowered markets via plug-and-play networks.</p>
-      <p><a href="https://blog.cloudflare.com/cloudflare-one/">Launch blog</a>></p>
+      <h5>Launch -> 2020 </h5>
+      <p>Zero Trust control over your applications and data.</p>
+      <p><a href="https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/">Learn more</a>></p>
     </div>
   </article>
   <article>
-    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png">
+    <img src="../../static/media/cloudflare/implement-secure-access-service-edgee-hero-illustration.svg">
     <div class="text">
       <h3>Cloudflare Tunnel</h3>
-      <h4>2019-2021</h4>
-      <p>Collaboratively administrate empowered markets via plug-and-play networks.</p>
-      <p><a href="https://blog.cloudflare.com/cloudflare-one/">Launch blog</a>></p>
+      <h5>2019-2021</h5>
+      <p>Connect applications and resources to Cloudflare without poking holes in your firewall.</p>
+      <p><a href="https://www.cloudflare.com/products/tunnel/">Learn more</a>></p>
     </div>
   </article>
   <article>
-    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png">
+    <img src="../../static/media/cloudflare/gateway-browser-new-diagram.svg">
     <div class="text">
       <h3>Cloudflare Gateway</h3>
-      <h4>2020</h4>
-      <p>Collaboratively administrate empowered markets via plug-and-play networks.</p>
-      <p><a href="https://blog.cloudflare.com/cloudflare-one/">Launch blog</a>></p>
+      <h5>2020</h5>
+      <p>Keep your team safe from threats on the Internet without slowing them down.</p>
+      <p><a href="https://www.cloudflare.com/teams/gateway/">Learn more</a>></p>
     </div>
   </article>
   <article>
-    <img src="https://blog.cloudflare.com/content/images/2020/10/image2-8.png">
+    <img src="../../static/media/cloudflare/iso.png">
+    <div class="text">
+      <h3>Cloudflare Browser Isolation</h3>
+      <h5>2020</h5>
+      <p>You'll forget you're using it.</p>
+      <p><a href="https://www.cloudflare.com/teams/browser-isolation/">Learn more</a>></p>
+    </div>
+  </article>
+  <article>
+    <img src="../../static/media/cloudflare/registrar.png">
     <div class="text">
       <h3>Cloudflare Registrar</h3>
-      <h4>Launch-2019</h4>
-      <p>Collaboratively administrate empowered markets via plug-and-play networks.</p>
-      <p><a href="https://blog.cloudflare.com/cloudflare-one/">Launch blog</a>></p>
+      <h5>Launch-2019</h5>
+      <p>A domain registrar you can trust.</p>
+      <p><a href="https://blog.cloudflare.com/using-cloudflare-registrar/">Learn more</a>></p>
     </div>
   </article>
 </main>
