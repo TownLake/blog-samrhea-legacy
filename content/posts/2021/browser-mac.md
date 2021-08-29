@@ -61,7 +61,7 @@ Next, I'm going to create a rule that will only allow me to reach this destinati
 
 ![Allow Rule](../../../static/media/post-images/browser-mac/allow-rule.png)
 
-I'll scroll down to the bottom of the page to define who is allowed by defining an `Includ` rule. in this case, it's a single email address. I'll come back and add a `Require` rule to [force logins to use a hardkey](https://blog.cloudflare.com/require-hard-key-auth-with-cloudflare-access/) as the multifactor method.
+I'll scroll down to the bottom of the page to define who is allowed by defining an `Include` rule. in this case, it's a single email address. I'll come back and add a `Require` rule to [force logins to use a hardkey](https://blog.cloudflare.com/require-hard-key-auth-with-cloudflare-access/) as the multifactor method.
 
 ![Include Rule](../../../static/media/post-images/browser-mac/rule-config.png)
 
