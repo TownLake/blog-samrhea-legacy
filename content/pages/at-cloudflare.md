@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/sam-task.jpeg"
 ---
 
-I am a Director of Product at Cloudflare, where I work with wonderful people to build Zero Trust security products and make data control easy. The products in my group include [Access](https://www.cloudflare.com/teams/access/), [Tunnel](https://www.cloudflare.com/products/tunnel/), [Gateway](https://www.cloudflare.com/teams/gateway/), [Browser Isolation](https://www.cloudflare.com/teams/browser-isolation/), and the Cloudflare for Teams client.
+I am a Director of Product at Cloudflare, where I work with wonderful people to build Zero Trust security products. The products in my group include [Access](https://www.cloudflare.com/teams/access/), [Tunnel](https://www.cloudflare.com/products/tunnel/), [Gateway](https://www.cloudflare.com/teams/gateway/), [Browser Isolation](https://www.cloudflare.com/teams/browser-isolation/), and the Cloudflare for Teams client.
 
 Back in the day, I also launched our Registrar and, no, I do not know when we will support the `.horse` or `.uk.` TLDs.
 
@@ -65,7 +65,7 @@ h5 {text-align: center;}
       <h3>Cloudflare Access</h3>
       <p><b><center>Launch -> 2020</center></b></p>
       <p>Zero Trust control over your applications and data.</p>
-      <p><a href="https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/">Learn more</a>></p>
+      <p><a href="https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/">Learn more</a> ></p>
     </div>
   </article>
   <article>
@@ -74,7 +74,7 @@ h5 {text-align: center;}
       <h3>Cloudflare Tunnel</h3>
       <p><b><center>2019-2021</center></b></p>
       <p>Connect applications and resources to Cloudflare without poking holes in your firewall.</p>
-      <p><a href="https://www.cloudflare.com/products/tunnel/">Learn more</a>></p>
+      <p><a href="https://www.cloudflare.com/products/tunnel/">Learn more</a> ></p>
     </div>
   </article>
   <article>
@@ -83,7 +83,7 @@ h5 {text-align: center;}
       <h3>Cloudflare Gateway</h3>
       <p><b><center>2020</center></b></p>
       <p>Keep your team safe from threats on the Internet without slowing them down.</p>
-      <p><a href="https://www.cloudflare.com/teams/gateway/">Learn more</a>></p>
+      <p><a href="https://www.cloudflare.com/teams/gateway/">Learn more</a> ></p>
     </div>
   </article>
   <article>
@@ -92,7 +92,7 @@ h5 {text-align: center;}
       <h3>Cloudflare Browser Isolation</h3>
       <p><b><center>2020</center></b></p>
       <p>You'll forget you're using it.</p>
-      <p><a href="https://www.cloudflare.com/teams/browser-isolation/">Learn more</a>></p>
+      <p><a href="https://www.cloudflare.com/teams/browser-isolation/">Learn more</a> ></p>
     </div>
   </article>
   <article>
