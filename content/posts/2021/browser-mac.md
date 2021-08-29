@@ -9,12 +9,14 @@ category: "walkthrough"
 tags:
   - "Cloudflare"
   - "walkthrough"
-description: "Launch your Mac in any browser with Zero Trust security"
+description: "Connect to your Mac in any browser with Zero Trust security"
 image: "/media/post-images/browser-mac/post-login.png"
 socialImage: "/media/post-images/browser-mac/post-login.png"
 ---
 
-<>
+I don't think I have taken my personal MacBook Air outside of my home in over two years. My iPhone handles most of what I need and I do real work on my work laptop. However, I do sometimes find a reason to need to grab my personal MacBook. Maybe I left a [file locally on it](https://blog.samrhea.com/posts/2021/zero-trust-samba) that I need, I'm using an iPad and I need the desktop version of a site, or I just want to write a longer response to an iMessage thread and prefer a keyboard.
+
+Last summer, I wrote about [running your own browser-based VS Code](https://blog.samrhea.com/posts/2020/zero-trust-vs-code). I love the idea of moving more use cases into a browser. Any device with a modern can become part of your workflow with just a couple clicks. In today's post, I'm going to go beyond just a single use case or application - instead, I'm going to walk through moving my entire Mac into a browser.
 
 ---
 
@@ -177,9 +179,13 @@ Either way, when I connect to the application I'll be prompted to input the VNC 
 
 And, once I've input my password, I can remotely access my Mac in Chrome on a different device.
 
-[Post Login](../../../static/media/post-images/browser-mac/post-login.png)
+![Post Login](../../../static/media/post-images/browser-mac/post-login.png)
 
 ## What's next?
 
 The steps described in this tutorial require that `cloudflared` is running (in addition to the Mac itself). I can go go ahead and use `launchtl` [on macOS](https://support.apple.com/guide/terminal/script-management-with-launchd-apdc6c1077b-5d5d-4d35-9c19-60f2397b2369/mac) to run `cloudflared` like [a service](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/run-as-service), but what I really want to do is instead put `cloudflared` on a Raspberry Pi in my home to serve this use case and others. I've promised that tutorial in [past posts](https://blog.samrhea.com/posts/2021/zero-trust-samba) and I'll get to it.
 
+A couple of notes on set up and usage, though:
+
+* The Cloudflare Tunnel configuration work is still more burdensome than I want it to be. We're working on that. Are there specific pain points that frustrate you as well? Tell us [here](https://github.com/cloudflare/cloudflared/issues).
+* I'm not planning on using this as a daily driver. First, any use case on my Mac that can run in a browser as a dedicated web-based application is probably going to be a better experience in that specific web app. Second, we need to keep making this faster. This set up is catch all, for now.
