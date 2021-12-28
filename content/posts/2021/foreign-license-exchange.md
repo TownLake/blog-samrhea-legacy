@@ -25,7 +25,7 @@ Under increasing pressure, I finally committed to getting my license. Obtaining 
 
 > **⚠️ Proceed with caution.** I'm not a lawyer or an expert. These steps worked for me. It might work for you. I've talked to people who started this process months before me and are still waiting.
 
-> **⏰ Watch the clock.** In theory, if you wait too long to exchange a foreign driving license in Portugal you will have to start over and apply for a new license directly from Portugal. I've heard that this cutoff is six months after you obtain residency, and [other guides seem to confirm that](https://www.angloinfo.com/how-to/portugal/transport/driving-licences/non-eu-licence-exchange). COVID appears to have extended that deadline. I was able to exchange mine about 16 months after becoming a resident.
+> **⏰ Watch the clock.** In theory, if you wait too long to exchange a foreign driving license in Portugal you will have to start over and apply for a new license directly from Portugal. I've heard that this cutoff is six months after you obtain residency, and [other guides seem to confirm that](https://www.angloinfo.com/how-to/portugal/transport/driving-licences/non-eu-licence-exchange). COVID [appears to have extended](https://www.imt-ip.pt/sites/IMTT/Portugues/Documents/ANO%202020/Docs-Covid-19/AvisoNovasRegrasNoAtendimentoPresencial.pdf) that deadline. I was able to exchange mine about 16 months after becoming a resident.
 
 Alright, let's get started. I'm writing this guide using a day counter to give you a sense for timeline. I'll also be collapsing the text I sent in emails so that the guide itself is shorter. You can expand each section to copy-and-paste. I'm also redacting personal information.
 
@@ -87,7 +87,9 @@ I received confirmation the same day with a request for a fee payment of 30 EUR.
 
 <details>
   <summary>Confirmation email from IMT</summary>
-  
+
+From: `marc.agendamentos@imt-ip.pt`
+
 ```
 Ex.mo Senhor
  
