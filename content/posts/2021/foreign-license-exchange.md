@@ -55,7 +55,7 @@ Back in Portugal, you will also need a fiscal number (a Portuguese tax identific
 
 ### Day 0
 
-From what I have heard, COVID moved much of this process online, which should make it much easier. I started by sending a request to schedule with the [IMT](https://www.imt-ip.pt/), Portugal's governing body for mobility and transport. I included a completed form, the `Pedido de Maracao Para Atendimento Presencial`, which can [be found](https://www.imt-ip.pt/sites/IMTT/Portugues/Documents/ANO%202020/Docs-Covid-19/Formulario_AGENDAMENTOS.pdf) on the IMT website.
+From what I have heard, COVID moved much of this process online, which should make it much easier. I started by sending a request to schedule with the [IMT](https://www.imt-ip.pt/), Portugal's governing body for mobility and transport. I included a completed form, the `Pedido de Marcação Para Atendimento Presencial`, which can [be found](https://www.imt-ip.pt/sites/IMTT/Portugues/Documents/ANO%202020/Docs-Covid-19/Formulario_AGENDAMENTOS.pdf) on the IMT website.
 
 <details>
   <summary>Email sent to IMT</summary>
