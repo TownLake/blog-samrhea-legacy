@@ -14,7 +14,7 @@ The blog is a Gatsby static site. [Gatsby](https://www.gatsbyjs.com/) is a React
 
 ## 🤠 wrangler
 
-The `wrangler` CLI tool publishes the blog. You can learn more about `wrangler` [here](https://github.com/cloudflare/wrangler). The post [here](https://blog.samrhea.com/post/deploy-pipeline/) breaks down how I deploy the blog.
+A [GitHub Action](https://github.com/TownLake/blog-samrhea/tree/draft/2021-end-of-year/.github/workflows) and the `wrangler` CLI tool publishes the blog. You can learn more about `wrangler` [here](https://github.com/cloudflare/wrangler). The post [here](https://blog.samrhea.com/posts/2019/workers-github-deploy) breaks down how I deploy the blog.
 
 ## 💡 Gatsby Lumen theme
 
