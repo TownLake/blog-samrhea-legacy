@@ -23,9 +23,9 @@ I moved to Lisbon in 2019 where public transport and affordable rideshare let me
 
 Under increasing pressure, I finally committed to getting my license. Obtaining a driver's license in Portugal was a bit harder than I expected. I finally did it a few months ago and wrote down the steps that worked for me.
 
-> **Proceed with caution.** I'm not a lawyer or an expert. These steps worked for me. It might work for you. I've talked to people who started this process months before me and are still waiting.
+> **⚠️ Proceed with caution.** I'm not a lawyer or an expert. These steps worked for me. It might work for you. I've talked to people who started this process months before me and are still waiting.
 
-> **Watch the clock.** In theory, if you wait too long to exchange a foreign driving license in Portugal you will have to start over and apply for a new license directly from Portugal. I've heard that this cutoff is six months after you obtain residency, and [other guides seem to confirm that](https://www.angloinfo.com/how-to/portugal/transport/driving-licences/non-eu-licence-exchange). COVID appears to have extended that deadline. I was able to exchange mine about 16 months after becoming a resident.
+> **⏰ Watch the clock.** In theory, if you wait too long to exchange a foreign driving license in Portugal you will have to start over and apply for a new license directly from Portugal. I've heard that this cutoff is six months after you obtain residency, and [other guides seem to confirm that](https://www.angloinfo.com/how-to/portugal/transport/driving-licences/non-eu-licence-exchange). COVID appears to have extended that deadline. I was able to exchange mine about 16 months after becoming a resident.
 
 Alright, let's get started. I'm writing this guide using a day counter to give you a sense for timeline. I'll also be collapsing the text I sent in emails so that the guide itself is shorter. You can expand each section to copy-and-paste. I'm also redacting personal information.
 
@@ -101,6 +101,7 @@ recolha dos dados biométricos, caso seja necessário.
  
 Com os melhores cumprimentos
 ```
+
 </details>
 
 I was able to pay the fee online.
