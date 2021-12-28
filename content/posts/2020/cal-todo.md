@@ -5,7 +5,7 @@ author: "Sam Rhea"
 template: "post"
 draft: false
 slug: "calcheck-and-meeting-note-accountability"
-category: "walkthrough"
+category: "productivity"
 tags:
   - "productivity"
   - "walkthrough"

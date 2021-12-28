@@ -37,6 +37,8 @@ h5 {text-align: center;}
 
 ## 🌥️ Currently
 
+I spend my day working with the Product Managers on my team to help customers sleep better at night by solving security problems while reducing maintenance overhead.
+
 <main class="grid">
   <article>
     <p align="center"><img src="../../static/media/cloudflare/cf-one.png" height="100"></p>
@@ -57,6 +59,8 @@ h5 {text-align: center;}
 </main>
 
 ## 🌱 Previously
+
+Back in the day they let me build stuff. I had the wonderful opportunity to work with brilliant people at Cloudflare to ship products that change how our customers keep their teams safe. These products are now led by Product Managers who are taking them to new places to help even more customers.
 
 <main class="grid">
   <article>
