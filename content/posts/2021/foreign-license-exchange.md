@@ -16,35 +16,38 @@ The automobile is the default mode of transportation in Texas. Public transport 
 
 I owned a car in Texas. I drove it everywhere. I didn't love it. Environmental concerns aside, driving is stressful. I hate finding parking. I dislike vehicle maintenance. I'm wary of accidents. I'd rather do something else.
 
-I moved to Lisbon in 2019 where public transport and affordable rideshare let me live a carfree life for nearly two years. Two events broke that model:
+I moved to Lisbon in 2019 where public transport and affordable rideshare let me live a car-free life for nearly two years. Two events broke that model:
 
-1. My wife, Rachel, began working at A-to-Be, part of the larger Brisa transportation company. We purchased a used car to shave hours off of her commute each week.
-2. We moved to Sintra (well, we moved about 15 minutes east of Sintra to a tiny village). I live further from a city center than I ever have in my life. I love it. The car we share helps make that easier, but Rachel became increasingly annoyed with being the only chaufeur/driver in the family.
+1. My wife, Rachel, began working at A-to-Be, part of the larger Brisa transportation company. We purchased a used car to save her hours each week during her commute.
+2. We moved to Sintra (well, we moved about 15 minutes east of Sintra to a tiny village). I live further from a city center than I ever have in my life. I love it, but nothing is really walking distance. The car we share helps make that easier, but Rachel became increasingly annoyed with being the only chauffeur/driver in the family.
 
 Under increasing pressure, I finally committed to getting my license. However, obtaining a driver's license in Portugal was a bit harder than I expected. Rachel speaks Portuguese pretty well so she navigated this process first. I finally did it a few months ago and wrote down the steps I took.
 
-> **Proceed with caution.** I'm not a lawyer and I speak terrible Portuguese, despite the one hour I spend with a tutor each week. This worked for me. It might work for you. I've talked to people who started this process months before me and are still waiting.
+> **Proceed with caution.** I'm not a lawyer or an expert. These steps worked for me. It might work for you. I've talked to people who started this process months before me and are still waiting.
 
-> **Watch the clock.** In theory, if you wait too long to exchange a foreign driving license in Europe you will have to start over and apply for a new license directly from Portugal. I've heard that this is six months after you obtain residency, and [other guides seem to confirm that](https://www.angloinfo.com/how-to/portugal/transport/driving-licences/non-eu-licence-exchange), but COVID appears to have extended that deadline. I was able to exhange mine about 16 months after becoming a resident.
+> **Watch the clock.** In theory, if you wait too long to exchange a foreign driving license in Portugal you will have to start over and apply for a new license directly from Portugal. I've heard that this is six months after you obtain residency, and [other guides seem to confirm that](https://www.angloinfo.com/how-to/portugal/transport/driving-licences/non-eu-licence-exchange), but COVID appears to have extended that deadline. I was able to exchange mine about 16 months after becoming a resident.
 
 **🎯 I have a few goals for this project**
 
 * Be able to drive in Portugal, legally.
-* Avoid taking a driving course and test in Portugal, because I cannot drive a manual (I know, I know) and I would struggle with the Portuguese language aspect of the exam.
+* Avoid taking a driving course and test in Portugal, because I cannot drive a manual car (I know, I know) and I would struggle with the Portuguese language aspect of the exam.
 
 **🗺️ This walkthrough covers how to:**
 
 * Apostille a driving license in Texas.
 * Schedule an appointment to trade the license in Portugal.
 * Follow up.
+* Complete the forms and obtain a license.
 
 I'm writing this guide using a day counter to give you a sense for timeline. I'll also be collapsing the text I sent in emails so that the guide itself is shorter. You can expand each section to copy-and-paste. I'm also redacting personal information.
 
 ## Get your homework ready
 
-You will need a driving license from your home country or state. You will also need to have your driving record `apostilled`. I have wanted to write a longer post about the process to apostille documents for a long time, but in short: not every government in the world knows about every other government's paperwork. The Portuguese government does not know what a driving record from Travis County in Texas should look like. Instead, they agree to an international process which validates that the particular document is authentic.
+You will need a driving license from your home country or state. You will also need to have your driving record `apostilled`.
 
-In my case, I requested my driving record from Travis County in Texas, where I lived. I received it online and printed it. I then took my driving record to the Texas Secretary of State. You can walk into their office in Austin, present a document produced by a local municipality or the State itself, and they will apostille the document - certifying that it is the real deal.
+I have wanted to write a longer post about the process to apostille documents for a long time, but in short: not every government in the world knows about every other government's paperwork. The Portuguese government does not know what a driving record from Travis County in Texas should look like. Instead, they agree to an international process which validates that the particular document is authentic.
+
+In my case, I requested my driving record from Travis County in Texas, where I lived. I received the paperwork online and printed it. I then took my driving record to the Texas Secretary of State. You can walk into their office in Austin, present a document produced by a local municipality or the State itself, and they will apostille the document - certifying that it is the real deal. This consists of paperwork they staple to the front and a physical stamp.
 
 You will also need a fiscal number (a Portuguese tax identification number) and your residency permit ID number.
 
@@ -54,7 +57,7 @@ You will also need a fiscal number (a Portuguese tax identification number) and 
 From what I have heard, COVID moved much of this process online, which should make it much easier. I started by sending a request to schedule with the IMT, Portugal's governing body for mobility and transport. I included a completed form, the `Pedido de Maracao Para Atendimento Presencial`, which can [be found](https://www.imt-ip.pt/sites/IMTT/Portugues/Documents/ANO%202020/Docs-Covid-19/Formulario_AGENDAMENTOS.pdf) on the IMT website.
 
 <details>
-  <summary>Click to expand the email text</summary>
+  <summary>Email sent to IMT</summary>
 
 To: `drmtlvt.agendamentoscondutores@imt-ip.pt`
 
@@ -65,8 +68,8 @@ Eu, Samuel Douglas Rhea, nacional dos EUA, portadora do título de
 residência n.º #########, válido
 até DD-MM-YYYY, venho, por este meio, requerer um agendamento nas
 V. instalações da Direção Regional de Mobilidade e Transportes de
-Lisboa e Vale do Tejo  (Loja do Cidadão do Saldanha), para solicitar a Troca de Carta de Condução Estrangeira (EUA) para a Carta de Condução
-Portuguesa.
+Lisboa e Vale do Tejo  (Loja do Cidadão do Saldanha), para solicitar a Troca de Carta de Condução Estrangeira (EUA)
+para a Carta de Condução Portuguesa.
 
 Para os efeitos do agendamento solicitado já reuni toda a documentação necessária.
 
@@ -80,6 +83,24 @@ Samuel Rhea
 </details>
 
 I received confirmation the same day with a request for a fee payment of 30 EUR. I paid the fee online the same day.
+
+<details>
+  <summary>Confirmation email from IMT</summary>
+  
+```
+Ex.mo Senhor
+ 
+Informamos que esta é uma caixa disponível só para marcação de Agendamentos.
+ 
+Informa-se que para o registo do pedido de troca de Título Estrangeiro que pretende agendar,
+deve aceder ao link:http://www.imtonline.pt/index.php/troca-de-titulos-conducao-estrangeiros/troca-de-titulos-de-conducao109
+e, seguir as instruçõesdevendo aguardar comunicação por parte dos serviços. O processo será analisado e será
+enviado um e-mail para efetuar o pagamento da taxa de 30 euros e com indicação sobre a forma de
+recolha dos dados biométricos, caso seja necessário. 
+ 
+Com os melhores cumprimentos
+```
+</details>
 
 ### Day 6
 
