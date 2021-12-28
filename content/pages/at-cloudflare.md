@@ -60,7 +60,7 @@ I spend my day working with the Product Managers on my team to help customers sl
 
 ## 🌱 Previously
 
-Back in the day they let me build stuff. I had the wonderful opportunity to work with brilliant people at Cloudflare to ship products that change how our customers keep their teams safe.
+Back in the day they let me build stuff. I had the wonderful opportunity to work with brilliant people at Cloudflare to ship products that change how our customers keep their teams safe. These products are now led by Product Managers who are taking them to new places to help even more customers.
 
 <main class="grid">
   <article>
