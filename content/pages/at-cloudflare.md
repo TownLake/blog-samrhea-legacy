@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/sam-task.jpeg"
 ---
 
-I am the Director of Product at Cloudflare for our Zero Trust product group, [Cloudflare for Teams](https://www.cloudflare.com/teams/). The products in my group include [Access](https://www.cloudflare.com/teams/access/), [Tunnel](https://www.cloudflare.com/products/tunnel/), [Gateway](https://www.cloudflare.com/teams/gateway/), [Browser Isolation](https://www.cloudflare.com/teams/browser-isolation/), and the Cloudflare for Teams client.
+I am the Director of Product at Cloudflare for our Zero Trust product group, [Cloudflare for Teams](https://www.cloudflare.com/teams/). The products in my group include [Access](https://www.cloudflare.com/products/zero-trust/access/), [Tunnel](https://www.cloudflare.com/products/tunnel/), [Gateway](https://www.cloudflare.com/products/zero-trust/gateway/), [Browser Isolation](https://www.cloudflare.com/zero-trust/browser-isolation/), the Cloudflare for Teams client and our [CASB](https://blog.cloudflare.com/cloudflare-zero-trust-casb/). I get to work with curious, empathetic product managers who obsess over how we can use Cloudflare's network to solve security problems for teams of any size.
 
 Back in the day, I also [launched our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/). I'm sorry -- I do not know when we will support the `.horse` TLD.
 
@@ -52,7 +52,7 @@ I spend my day working with the Product Managers on my team to help customers sl
     <p align="center"><img src="../../static/media/cloudflare/cf-teams.svg" height="100"></p>
     <div class="text">
       <h3>Cloudflare Zero Trust</h3>
-      <p>Keep your applications, devices, and data safe without compromising speed or usability.</p>
+      <p>Keep your applications, devices, and data safe without compromising speed.</p>
       <p><a href="https://blog.cloudflare.com/cloudflare-for-teams-products/">Learn more</a> ></p>
     </div>
   </article>
@@ -67,7 +67,7 @@ Back in the day they let me build stuff. I had the wonderful opportunity to work
     <p align="center"><img src="../../static/media/cloudflare/access.svg" height="100"></p>
     <div class="text">
       <h3>Cloudflare Access</h3>
-      <p><b><center>2018 -> 2020</center></b></p>
+      <p><b><center>2018-2020</center></b></p>
       <p>Zero Trust control over your applications and data.</p>
       <p><a href="https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/">Learn more</a> ></p>
     </div>
