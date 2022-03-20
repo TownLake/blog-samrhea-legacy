@@ -20,7 +20,7 @@ On one particular walk with Mopac in early 2020 we stopped for a coffee at a bak
 
 As we strolled by, the couple reached out to pet Mopac and told me, in broken Portuguese, “thank you.” I responded in Texan English. They invited me to sit down. We chatted for over an hour. Months later we spent Thanksgiving at their home in Lisbon, Mopac included.
 
-![Mopac](../../../static/media/post-images/serra/mopac.png)
+![Mopac](../../../static/media/post-images/serra/mopac.jpg)
 
 I have about half a dozen close friends I have met this way. I held a Fourth of July party last year where most of the American attendees met me through my dog. I’ve also made Portuguese friends this way, too, [but only with other dog owners](https://blog.samrhea.com/posts/2020/dog-parties-in-portugal). That filter expanded abruptly when we accidentally adopted a symbol of national pride two months ago.
 
@@ -32,7 +32,7 @@ The Serra da Estrela dog resembles a larger, scruffier German Shepherd. Squint a
 
 Her name is Nadja. The veterinarian thinks she is between two or three years old. Cantino da Milu took her in after she was found, nearly starving, on the streets somewhere in the country’s south. When we visited the shelter, Nadja spent our entire tour standing on my wife’s feet and looking up at her. I wasn’t going to leave without her.
 
-![Nadja](../../../static/media/post-images/serra/nadja.png)
+![Nadja](../../../static/media/post-images/serra/nadja.jpg)
 
 True to her roots, she tries to protect us (all of us, including Mopac - I think she considers him a kind of long-haired sheep). She acts like a Secret Service agent, following me into the bathroom to guard the door and then following me to my desk to protect me from my computer screen. Nadja does another thing that I did not anticipate: she inspires national pride.
 
@@ -46,4 +46,4 @@ Not enough to scare them off, though. Last weekend, we went to a small coffee ca
 
 We adore Nadja, not just because she helps us make new friends, but that has been fun. On Friday night, my wife and I went to dinner with a younger American couple who just moved to Lisbon. I gave them the same advice I share with any new arrivals: the only thing that matters when making a new country home is building a community. My wife accomplished that by going to graduate school, learning the language, and working in an all-Portuguese company. She put in the work. I built mine thanks to dogs.
 
-![Mopac and Nadja](../../../static/media/post-images/serra/mopac-and-nadja.png)
+![Mopac and Nadja](../../../static/media/post-images/serra/mopac-and-nadja.jpg)
