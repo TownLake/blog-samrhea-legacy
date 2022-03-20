@@ -8,7 +8,7 @@ slug: "a-serra-and-new-friends"
 category: "Portugal"
 tags:
   - "Portugal"
-description: "Homesick for not Austin."
+description: "Welcoming a Serra da Estrela and new friends."
 socialImage: ""
 ---
 
@@ -22,7 +22,7 @@ As we strolled by, the couple reached out to pet Mopac and told me, in broken Po
 
 ![Mopac](../../../static/media/post-images/serra/mopac.jpg)
 
-I have about half a dozen close friends I have met this way. I held a Fourth of July party last year where most of the American attendees met me through my dog. I’ve also made Portuguese friends this way, too, [but only with other dog owners](https://blog.samrhea.com/posts/2020/dog-parties-in-portugal). That filter expanded abruptly when we accidentally adopted a symbol of national pride two months ago.
+I have about half a dozen close friends I have met this way. I held a Fourth of July party last year where most of the American attendees met me through my dog. I’ve also made Portuguese friends this way, too, [but only with other dog owners](https://blog.samrhea.com/posts/2020/dog-parties-in-portugal). That filter expanded abruptly when we inadvertently adopted a symbol of national pride two months ago.
 
 In 2020, we bought a home with a yard in Sintra and moved about 45 minutes west of Lisbon. We did this so that we could stay in bed longer in the mornings by just opening a door to let Mopac out instead of putting on real clothes to walk him in the city. We also like Sintra.
 
@@ -36,7 +36,7 @@ Her name is Nadja. The veterinarian thinks she is between two or three years old
 
 True to her roots, she tries to protect us (all of us, including Mopac - I think she considers him a kind of long-haired sheep). She acts like a Secret Service agent, following me into the bathroom to guard the door and then following me to my desk to protect me from my computer screen. Nadja does another thing that I did not anticipate: she inspires national pride.
 
-From what I am told over bifanas at tascas in Lisbon, the Serra da Estrela’s resilience, loyalty, and calm embodies the Portuguese spirit. I respond that Nadja sleeps on my couch and steals pizza. They tell me this is my fault because I instruct her in English. Traits embodied or not, when we venture into Lisbon or any town with the dogs, Nadja becomes a minor celebrity.
+From what I am told by friends over bifanas at O Velho Eurico in Lisbon, the Serra da Estrela’s resilience, loyalty, and calm embodies the Portuguese spirit. I respond that Nadja sleeps on my couch and steals pizza. They tell me this is my fault because I instruct her in English. Traits embodied or not, when we venture into Lisbon or any town with the dogs, Nadja becomes a minor celebrity.
 
 Fathers point at us and tell their kids “look, a Serra!” Mothers bring children over to pet her. Even the retired Portuguese grandpas who play cards in the parks acknowledge me for the first time when they say hello to Nadja. From what I gather, most Portuguese have seen a Serra at some point in their lives, but only when visiting the countryside. To see one on a leash in Lisbon is apparently like growing up in Texas and seeing someone ride a horse in downtown Austin. You know that it's part of the cultural ethos, but it’s still surprising to see in the middle of town.
 
