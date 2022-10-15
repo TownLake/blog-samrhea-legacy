@@ -4,7 +4,9 @@ template: "page"
 socialImage: "/sam-task.jpeg"
 ---
 
-I am the Director of Product at Cloudflare for our Zero Trust product group, [Cloudflare for Teams](https://www.cloudflare.com/teams/). The products in my group include [Access](https://www.cloudflare.com/products/zero-trust/access/), [Tunnel](https://www.cloudflare.com/products/tunnel/), [Gateway](https://www.cloudflare.com/products/zero-trust/gateway/), [Browser Isolation](https://www.cloudflare.com/zero-trust/browser-isolation/), the Cloudflare for Teams client and our [CASB](https://blog.cloudflare.com/cloudflare-zero-trust-casb/). I get to work with curious, empathetic product managers who obsess over how we can use Cloudflare's network to solve security problems for teams of any size.
+I am the VP of Product at Cloudflare for our [Zero Trust product group](https://www.cloudflare.com/products/zero-trust/).
+
+The products in my group include [Access](https://www.cloudflare.com/products/zero-trust/access/), [Tunnel](https://www.cloudflare.com/products/tunnel/), [Gateway](https://www.cloudflare.com/products/zero-trust/gateway/), [Browser Isolation](https://www.cloudflare.com/zero-trust/browser-isolation/), the Cloudflare One client and our [CASB](https://blog.cloudflare.com/cloudflare-zero-trust-casb/). I get to work with curious, empathetic product managers who obsess over how we can use Cloudflare's network to solve security problems for teams of any size.
 
 Back in the day, I also [launched our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/). I'm sorry -- I do not know when we will support the `.horse` TLD.
 
