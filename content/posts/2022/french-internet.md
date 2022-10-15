@@ -12,7 +12,7 @@ description: "Solving minor Internet problems in a foreign land with a new frien
 socialImage: ""
 ---
 
-## Act 1: The Stranger
+## The Stranger
 Growing up in Texas I had very little contact with the French. The closest thing that Austin has to a French connection is the former French Legation to the Republic of Texas. Before we joined the Union, Texas was a modestly sovereign nation complete with a tiny limestone building in Austin that housed a delegation from the July Monarchy.
 
 Texan sovereignty did not last long and the French sponsor of the legation returned to Europe, but Texans still honor this era by celebrating “Texas Independence Day” every March. This is a holiday with a shelf life. The story of the Texas Revolution is a kind of 19th Century cautionary tale about gentrification. A bunch of middle class white people who could not afford to live in the Old Money neighborhoods of the era, like Philadelphia or Connecticut, found a cheap and trendy spot in a diverse part of the continental town. After a few years those newcomers rebranded the place.
@@ -31,7 +31,7 @@ For two hours I sat down at a bakery in West Austin with eight or nine French gr
 
 At present, I live in Europe and have way more opportunity to make new friends from new places. That was less easy when I spent the first three decades of my life within five miles of where I was born. Today, some of my favorite people are French. Better said, I have favorite people and some of them happen to be French.
 
-## Act II: The Plague
+## The Plague
 My wife and I went on holiday in the South of France last month, a sentence that Americans can’t say without throwing up in our mouths a little. This is our second trip to the region since we moved to Europe. She loves reading on lounge chairs, French food, and water that is warmer than the North Atlantic in Sintra. I prefer the people watching.
 
 On the last evening of that trip, the American football team of the University of Texas played the Alabama Crimson Tide. Alabama was the best team in the country. They were 20 point favorites over my unranked Texas Longhorns. Kickoff was scheduled for 7PM in Cannes.
@@ -56,9 +56,9 @@ He pointed to their modem, their switch, the gear that controls the patio cafe s
 
 I crept behind the racks and began experimenting with turning things off and on. I eventually isolated the outage to a surge protector that did not survive the power surge - everything connected to this off-brand extension cord combo remained off. I sacrificed another working outlet connected to the patio sound system and, moments later, their OneAccess box flickered to life. On the other side of the server rack I heard Mathieu cheer.
 
-I climbed back out. We took reached for our phones, connected, and found joy. We briefly jumped up and down. We were free.
+I climbed back out. We reached for our phones, connected, and found joy. We briefly jumped up and down. We were free.
 
-## Act III: The Myth of Sisyphus
+## The Myth of Sisyphus
 I scurried back to my room to check if the Internet was working there but mostly to regale Rachel with my ordeal. She was happy for me, but we needed to get moving towards our dinner reservations. Meanwhile, Bama had pulled ahead by just one point. Rachel begrudgingly agreed to allow me to watch the final minutes of the game on my phone at our table.
 
 The hotel is built on a cliffside. You enter the lobby, which is the top floor, from street level. About thirty rooms sit on three levels below it. The hotel’s nicer restaurant is on that top floor and you need to pass through the lobby to reach it from the guest rooms. This is where the victory parade happened.
