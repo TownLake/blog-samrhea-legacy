@@ -4,11 +4,19 @@ template: "page"
 socialImage: "/sam-task.jpeg"
 ---
 
-I am the VP of Product at Cloudflare for our [Zero Trust product group](https://www.cloudflare.com/products/zero-trust/).
+I am the VP of Product at Cloudflare for our [Zero Trust product group](https://www.cloudflare.com/products/zero-trust/) and responsible for the security side of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/).
 
-The products in my group include [Access](https://www.cloudflare.com/products/zero-trust/access/), [Tunnel](https://www.cloudflare.com/products/tunnel/), [Gateway](https://www.cloudflare.com/products/zero-trust/gateway/), [Browser Isolation](https://www.cloudflare.com/zero-trust/browser-isolation/), the Cloudflare One client and our [CASB](https://blog.cloudflare.com/cloudflare-zero-trust-casb/). I get to work with curious, empathetic product managers who obsess over how we can use Cloudflare's network to solve security problems for teams of any size.
+The products in my group include:
+* [Cloudflare Access](https://www.cloudflare.com/products/zero-trust/access/), our Zero Trust access control solution.
+* [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/), our secure networking product.
+* [Cloudflare Gateway](https://www.cloudflare.com/products/zero-trust/gateway/), our DNS filter and Secure Web Gateway.
+* [Cloudflare Browser](https://www.cloudflare.com/zero-trust/browser-isolation/), an isolated browser so seamless that you'll forget you're using it.
+* [Cloudflare Data Loss Prevention](https://www.cloudflare.com/products/zero-trust/dlp/), earth's only comprehensive DLP solution that improves user experience.
+* [Cloudflare CASB](https://blog.cloudflare.com/cloudflare-zero-trust-casb/), our Cloud Access Security Broker that keeps one eye open for SaaS security issues so you can focus on your real work.
 
-Back in the day, I also [launched our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/). I'm sorry -- I do not know when we will support the `.horse` TLD.
+I spend every day working with curious, empathetic product managers in my group who obsess over how we can use Cloudflare's network to solve security problems for teams of any size.
+
+Back in the day, I was a Product Manager for many of the products above or the Director when Product Managers much smarter than me launched them. I also [shipped our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/). I'm sorry -- I do not know when we will support the `.horse` TLD.
 
 <style>
 .grid { 
@@ -62,7 +70,7 @@ I spend my day working with the Product Managers on my team to help customers sl
 
 ## 🌱 Previously
 
-Back in the day they let me build stuff. I had the wonderful opportunity to work with brilliant people at Cloudflare to ship products that change how our customers keep their teams safe. These products are now led by Product Managers who are taking them to new places to help even more customers.
+Years ago they let me build stuff. I had the wonderful opportunity to work with brilliant people at Cloudflare to ship products that change how our customers keep their teams safe. These products are now led by Product Managers who are taking them to new places to help even more customers.
 
 <main class="grid">
   <article>

@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://blog.samrhea.com',
   pathPrefix: '/',
   title: 'Sam Rhea',
-  subtitle: 'Austinite in Lisbon. Director of Product at Cloudflare.',
-  copyright: '© Copyright 2021 Sam Rhea',
+  subtitle: 'Austinite in Lisbon. VP of Product at Cloudflare.',
+  copyright: '© Copyright 2022 Sam Rhea',
   disqusShortname: '',
   postsPerPage: 4,
   useKatex: false,
@@ -30,7 +30,7 @@ module.exports = {
   author: {
     name: 'Sam Rhea',
     photo: '/sam-task.jpeg',
-    bio: 'Austinite in Lisbon. Director of Product at Cloudflare.',
+    bio: 'Austinite in Lisbon. VP of Product at Cloudflare.',
     contacts: {
       email: '',
       facebook: '',
