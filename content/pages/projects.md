@@ -4,17 +4,19 @@ template: "page"
 socialImage: "/sam-task.jpeg"
 ---
 
-## 🗺️ Walkthrough
+This blog is home to the output of four different projects:
 
-I love writing [detailed, step-by-step, tutorials](https://blog.samrhea.com/category/walkthrough/).
+## 🗺️ Walkthroughs
+
+I enjoy learning new things and writing [detailed, step-by-step, tutorials](https://blog.samrhea.com/category/walkthrough/).
 
 ## 🇵🇹 Portugal
 
-I live in Portugal and I like to jot down stories about [life here](https://blog.samrhea.com/tag/portugal/). Sometimes I share anecdotes about where I grew up, [Texas](https://blog.samrhea.com/tag/texas/).
+I live in Portugal and I jot down stories about [life here](https://blog.samrhea.com/tag/portugal/). Sometimes I share anecdotes about growing up in [Texas](https://blog.samrhea.com/tag/texas/).
 
 ## ⚙️ Productivity
 
-I also write about [how I work](https://blog.samrhea.com/category/productivity/).
+I also write about [how I work](https://blog.samrhea.com/category/productivity/). I publish these posts for no other reason than my own sentimental reflection about decisions I made in the past.
 
 ## 🏗️ This blog
 

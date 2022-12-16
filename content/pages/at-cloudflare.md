@@ -4,19 +4,22 @@ template: "page"
 socialImage: "/sam-task.jpeg"
 ---
 
-I am the VP of Product at Cloudflare for our [Zero Trust product group](https://www.cloudflare.com/products/zero-trust/) and responsible for the security side of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/).
+I am the VP of Product at Cloudflare for our [Zero Trust group](https://www.cloudflare.com/products/zero-trust/), which is part of our Secure Access Service Edge ([SASE](https://blogs.gartner.com/andrew-lerner/2019/12/23/say-hello-sase-secure-access-service-edge/)) solution, [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/).
 
 The products in my group include:
 * [Cloudflare Access](https://www.cloudflare.com/products/zero-trust/access/), our Zero Trust access control solution.
 * [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/), our secure networking product.
 * [Cloudflare Gateway](https://www.cloudflare.com/products/zero-trust/gateway/), our DNS filter and Secure Web Gateway.
 * [Cloudflare Browser](https://www.cloudflare.com/zero-trust/browser-isolation/), an isolated browser so seamless that you'll forget you're using it.
+* [Cloudflare's Zero Trust On Ramp](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/), an agent-based on ramp built on Cloudflare [WARP](https://1.1.1.1/) to connect your device to anything through Cloudflare's network.
 * [Cloudflare Data Loss Prevention](https://www.cloudflare.com/products/zero-trust/dlp/), earth's only comprehensive DLP solution that improves user experience.
 * [Cloudflare CASB](https://blog.cloudflare.com/cloudflare-zero-trust-casb/), our Cloud Access Security Broker that keeps one eye open for SaaS security issues so you can focus on your real work.
 
-I spend every day working with curious, empathetic product managers in my group who obsess over how we can use Cloudflare's network to solve security problems for teams of any size.
+I spend every day working with curious, empathetic product managers and product directors in my group who obsess over how we can use Cloudflare's network to solve security problems for teams of any size.
 
-Back in the day, I was a Product Manager for many of the products above or the Director when Product Managers much smarter than me launched them. I also [shipped our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/). I'm sorry -- I do not know when we will support the `.horse` TLD.
+Back in the day, I was a Product Manager for most of the products above or the Director when Product Managers much smarter than me built those tools. I consider myself terribly lucky to have worked with brilliant teammates to watch these prototypes and moon shot ideas evolve into Cloudflare's next act. I could not be more excited to see what we can solve for our Cloudflare Zero Trust customers as we ship even faster.
+
+I also [launched our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/) back in the day and miss the bizarre dance of domain registration. I'm sorry -- I do not know when we will support the `.horse` TLD.
 
 <style>
 .grid { 
@@ -47,7 +50,7 @@ h5 {text-align: center;}
 
 ## 🌥️ Currently
 
-I spend my day working with the Product Managers on my team to help customers sleep better at night by solving security problems while reducing maintenance overhead.
+I spend my day working with the Product Managers and Directors on my team to help customers sleep better at night by solving security problems while reducing maintenance overhead.
 
 <main class="grid">
   <article>
@@ -70,14 +73,13 @@ I spend my day working with the Product Managers on my team to help customers sl
 
 ## 🌱 Previously
 
-Years ago they let me build stuff. I had the wonderful opportunity to work with brilliant people at Cloudflare to ship products that change how our customers keep their teams safe. These products are now led by Product Managers who are taking them to new places to help even more customers.
+Years ago they let me build stuff. I had the wonderful opportunity to work with brilliant people at Cloudflare to ship products that change how our customers keep their teams safe. These products are now led by Product Managers who are taking them to new places to help even more customers. I was the individual contributor Product Manager for the following products.
 
 <main class="grid">
   <article>
     <p align="center"><img src="../../static/media/cloudflare/access.svg" height="100"></p>
     <div class="text">
       <h3>Cloudflare Access</h3>
-      <p><b><center>2018-2020</center></b></p>
       <p>Zero Trust control over your applications and data.</p>
       <p><a href="https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/">Learn more</a> ></p>
     </div>
@@ -86,7 +88,6 @@ Years ago they let me build stuff. I had the wonderful opportunity to work with 
     <p align="center"><img src="../../static/media/cloudflare/implement-secure-access-service-edgee-hero-illustration.svg"height="100"></p>
     <div class="text">
       <h3>Cloudflare Tunnel</h3>
-      <p><b><center>2019-2021</center></b></p>
       <p>Connect applications and resources to Cloudflare without poking holes in your firewall.</p>
       <p><a href="https://www.cloudflare.com/products/tunnel/">Learn more</a> ></p>
     </div>
@@ -95,7 +96,6 @@ Years ago they let me build stuff. I had the wonderful opportunity to work with 
     <p align="center"><img src="../../static/media/cloudflare/gateway-browser-new-diagram.svg" height="100"></p>
     <div class="text">
       <h3>Cloudflare Gateway</h3>
-      <p><b><center>2020</center></b></p>
       <p>Keep your team safe from threats on the Internet without slowing them down.</p>
       <p><a href="https://www.cloudflare.com/teams/gateway/">Learn more</a> ></p>
     </div>
@@ -104,7 +104,6 @@ Years ago they let me build stuff. I had the wonderful opportunity to work with 
     <p align="center"><img src="../../static/media/cloudflare/iso.png" height="100"></p>
     <div class="text">
       <h3>Cloudflare Browser Isolation</h3>
-      <p><b><center>2020</center></b></p>
       <p>You'll forget you're using it.</p>
       <p><a href="https://www.cloudflare.com/teams/browser-isolation/">Learn more</a> ></p>
     </div>
@@ -113,7 +112,6 @@ Years ago they let me build stuff. I had the wonderful opportunity to work with 
     <p align="center"><img src="../../static/media/cloudflare/registrar.png" height="100"></p>
     <div class="text">
       <h3>Cloudflare Registrar</h3>
-      <p><b><center>2018-2019</center></b></p>
       <p>A domain registrar you can trust.</p>
       <p><a href="https://blog.cloudflare.com/using-cloudflare-registrar/">Learn more</a>></p>
     </div>
@@ -121,6 +119,8 @@ Years ago they let me build stuff. I had the wonderful opportunity to work with 
 </main>
 
 ## 🚀 Launches
+
+We ship quickly at Cloudflare. When we do, Product Managers write [painfully detailed technical posts](https://blog.cloudflare.com/author/sam/) about our new features. Here are a few that I had the opportunity to launch.
 
 <main class="grid">
   <article>
