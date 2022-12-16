@@ -73,14 +73,13 @@ I spend my day working with the Product Managers and Directors on my team to hel
 
 ## 🌱 Previously
 
-Years ago they let me build stuff. I had the wonderful opportunity to work with brilliant people at Cloudflare to ship products that change how our customers keep their teams safe. These products are now led by Product Managers who are taking them to new places to help even more customers.
+Years ago they let me build stuff. I had the wonderful opportunity to work with brilliant people at Cloudflare to ship products that change how our customers keep their teams safe. These products are now led by Product Managers who are taking them to new places to help even more customers. I was the individual contributor Product Manager for the following products.
 
 <main class="grid">
   <article>
     <p align="center"><img src="../../static/media/cloudflare/access.svg" height="100"></p>
     <div class="text">
       <h3>Cloudflare Access</h3>
-      <p><b><center>2018-2020</center></b></p>
       <p>Zero Trust control over your applications and data.</p>
       <p><a href="https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/">Learn more</a> ></p>
     </div>
@@ -89,7 +88,6 @@ Years ago they let me build stuff. I had the wonderful opportunity to work with 
     <p align="center"><img src="../../static/media/cloudflare/implement-secure-access-service-edgee-hero-illustration.svg"height="100"></p>
     <div class="text">
       <h3>Cloudflare Tunnel</h3>
-      <p><b><center>2019-2021</center></b></p>
       <p>Connect applications and resources to Cloudflare without poking holes in your firewall.</p>
       <p><a href="https://www.cloudflare.com/products/tunnel/">Learn more</a> ></p>
     </div>
@@ -98,7 +96,6 @@ Years ago they let me build stuff. I had the wonderful opportunity to work with 
     <p align="center"><img src="../../static/media/cloudflare/gateway-browser-new-diagram.svg" height="100"></p>
     <div class="text">
       <h3>Cloudflare Gateway</h3>
-      <p><b><center>2020</center></b></p>
       <p>Keep your team safe from threats on the Internet without slowing them down.</p>
       <p><a href="https://www.cloudflare.com/teams/gateway/">Learn more</a> ></p>
     </div>
@@ -107,7 +104,6 @@ Years ago they let me build stuff. I had the wonderful opportunity to work with 
     <p align="center"><img src="../../static/media/cloudflare/iso.png" height="100"></p>
     <div class="text">
       <h3>Cloudflare Browser Isolation</h3>
-      <p><b><center>2020</center></b></p>
       <p>You'll forget you're using it.</p>
       <p><a href="https://www.cloudflare.com/teams/browser-isolation/">Learn more</a> ></p>
     </div>
@@ -116,7 +112,6 @@ Years ago they let me build stuff. I had the wonderful opportunity to work with 
     <p align="center"><img src="../../static/media/cloudflare/registrar.png" height="100"></p>
     <div class="text">
       <h3>Cloudflare Registrar</h3>
-      <p><b><center>2018-2019</center></b></p>
       <p>A domain registrar you can trust.</p>
       <p><a href="https://blog.cloudflare.com/using-cloudflare-registrar/">Learn more</a>></p>
     </div>
@@ -124,6 +119,8 @@ Years ago they let me build stuff. I had the wonderful opportunity to work with 
 </main>
 
 ## 🚀 Launches
+
+We ship quickly at Cloudflare. When we do, Product Managers write [painfully detailed technical posts](https://blog.cloudflare.com/author/sam/) about our new features. Here are a few that I had the opportunity to launch.
 
 <main class="grid">
   <article>
