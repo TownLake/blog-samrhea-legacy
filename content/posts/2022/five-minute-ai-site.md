@@ -93,15 +93,15 @@ I logged into my Cloudflare account and visited the Workers section of the dashb
 
 I could pick back up on the instructions at Step 3, from which point this is pretty accurate. I named the Worker.
 
-![Create Worker](../../../static/media/post-images/five-minute-ai-site/create-worker)
+![Create Worker](../../../static/media/post-images/five-minute-ai-site/create-worker.png)
 
 Next, I pasted the code from ChatGPT (the tool has a convenient `Copy code` button). I did not edit a single line. After pasting it, I clicked `Save and deploy`.
 
-![Paste Code](../../../static/media/post-images/five-minute-ai-site/paste-code)
+![Paste Code](../../../static/media/post-images/five-minute-ai-site/paste-code.png)
 
 I visited the link created and there it was - a website on the Internet with the recommendations for tourist activities in Lisbon.
 
-![First Website](../../../static/media/post-images/five-minute-ai-site/first-website)
+![First Website](../../../static/media/post-images/five-minute-ai-site/first-website.png)
 
 At this point I’ve hit my goal. I created a [real website on the Internet](https://lisbon-chat-gpt.samrhea.workers.dev) in a couple of minutes with actual content. However, this thing is ugly as hell.
 
@@ -110,7 +110,7 @@ At this point I’ve hit my goal. I created a [real website on the Internet](htt
 
 To see if this could be less ugly, I went back to ChatGPT. I told ChatGPT that the code worked, but that I wanted something that looked more professional with more style.
 
-![Second Prompt](../../../static/media/post-images/five-minute-ai-site/second-prompt)
+![Second Prompt](../../../static/media/post-images/five-minute-ai-site/second-prompt.png)
 
 Three wild things about this:
 * ChatGPT remembered the first website it created for me and acknowledged that it could improve it.
@@ -119,7 +119,7 @@ Three wild things about this:
 
 I returned to Cloudflare and ran the updated code. The new site does look _somewhat_ better.
 
-![Second Website](../../../static/media/post-images/five-minute-ai-site/second-website)
+![Second Website](../../../static/media/post-images/five-minute-ai-site/second-website.png)
 
 ## Low-background radiation steel
 
@@ -137,7 +137,7 @@ Genuine and novel creative output will be both more fun to read and more importa
 
 The website I created is still pretty crude, but it’s real. I have seen ChatGPT create much more sophisticated output. For example, the blog you are reading uses something called “Gatsby” to maintain this layout and be, generally, better looking than that plain page that ChatGPT created. To give you a preview of what could be created, I started a new prompt.
 
-![Gatsby](../../../static/media/post-images/five-minute-ai-site/gatsby)
+![Gatsby](../../../static/media/post-images/five-minute-ai-site/gatsby.png)
 
 Creepy and exciting, right? Go tinker with it - it’s free! Ask it to do things that are more specific to your field. I’ve found that the output improves when you challenge ChatGPT with subjects that are more detailed.
 
