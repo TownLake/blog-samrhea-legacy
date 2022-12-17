@@ -1,0 +1,39 @@
+---
+title: 🇫🇷🌐 Launching a 5 minute site with Cloudflare Workers and OpenAI ChatGPT
+date: "2022-12-17"
+author: "Sam Rhea"
+template: "post"
+draft: false
+slug: "five-minute-ai-site"
+category: "walkthrough"
+tags:
+  - "walkthrough"
+description: "Building a Lisbon recommendation webpage without doing any real work."
+socialImage: ""
+---
+
+<>
+---
+
+**🎯 I have a few goals for this project:**
+
+* Build a website on the public Internet without opening a code editor **or** using a 
+* Restrict access to that Mac to just me.
+* Do not punch holes in any firewalls or expose any ports or IPs to the Internet.
+
+---
+
+**🗺️ This walkthrough covers how to:**
+
+* Build a Zero Trust access control rule that integrates with identity providers to secure access to my Mac.
+* Deploy Cloudflare Tunnel to create an outbound-only connection to Cloudflare's network to make my Mac available remotely without a private network.
+* Enable the VNC server on my Mac.
+* Connect from a browser on a different device.
+
+**⏲️Time to complete: ~45 minutes**
+
+---
+
+> **👔 I work there.** I [work](https://www.linkedin.com/in/samrhea/) at Cloudflare. Several of my posts on this blog that discuss Cloudflare [focus on building](https://blog.samrhea.com/tag/workers/) things with Cloudflare Workers. I'm a Workers customer and [pay](https://twitter.com/LakeAustinBlvd/status/1200380340382191617) my invoice to use it. However, this tutorial uses products where I'm on the team (Access and Tunnel).
+
+## Build a Zero Trust rule
