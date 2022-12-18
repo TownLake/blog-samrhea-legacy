@@ -41,7 +41,6 @@ export const query = graphql`
         date
         description
         socialImage
-        }
       }
     }
   }
