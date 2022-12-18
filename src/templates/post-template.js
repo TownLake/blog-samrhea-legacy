@@ -40,9 +40,7 @@ export const query = graphql`
         description
         tags
         title
-        twitterImage
-        socialImage {
-          publicURL
+        socialImage
         }
       }
     }
