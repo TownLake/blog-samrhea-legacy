@@ -11,7 +11,7 @@ tags:
   - "Workers"
   - "Cloudflare"
 description: "Building a Lisbon recommendation webpage without doing any real work."
-socialImage: "https://blog.samrhea.com/media/post-images/five-minute-ai-site/ai-longhorn.png"
+socialImage: "../../../static/media/post-images/five-minute-ai-site/ai-longhorn.png"
 ---
 
 I like to learn how to do things and write [painfully detailed tutorials](https://blog.samrhea.com/category/walkthrough/). Something happened about three weeks ago that made me wonder if that matters anymore.
