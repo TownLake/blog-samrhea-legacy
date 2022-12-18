@@ -2,6 +2,7 @@
 title: "About"
 template: "page"
 socialImage: "/sam-task.jpeg"
+twitterImage: "https://blog.samrhea.com/sam-task.jpeg"
 ---
 
 Hi there. My name is Sam. I’m probably busy right now using a spreadsheet for a hobby project that doesn’t need one. Or walking a dog we named after the second-worst highway in Austin, Mopac.
