@@ -9,8 +9,7 @@ category: "Texas"
 tags:
   - "Texas"
 description: "Solving minor Internet problems in a foreign land with a new friend."
-socialImage: "../../../static/media/post-images/french-internet/server-closet.jpeg"
-twitterImage: "https://blog.samrhea.com/media/post-images/french-internet/server-closet.jpeg"
+socialImage: "https://blog.samrhea.com/media/post-images/french-internet/server-closet.jpeg"
 ---
 
 ## The Stranger
