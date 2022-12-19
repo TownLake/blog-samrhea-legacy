@@ -12,12 +12,6 @@ interface Props {
 const Page: React.FC<Props> = ({ title, children }: Props) => {
   const pageRef = useRef<Nullable<HTMLDivElement>>(null);
 
-  useEffect(() => {
-    if (pageRef.current) {
-      pageRef.current.scrollIntoView();
-    }
-  }, []);
-
   return (
     <div ref={pageRef} className={styles.page}>
       <div className={styles.inner}>
