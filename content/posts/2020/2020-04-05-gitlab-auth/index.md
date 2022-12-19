@@ -124,7 +124,7 @@ I need both. Users connect to GitLab over SSH (port 22 here) and HTTP for the we
 
 Cloudflare Access is a bouncer that asks for identity at the door (each and every door). When a user makes a request to a site protected by Access, that request hits Cloudflare's network first. Access can then check if the user is allowed to reach the application. When integrated with Argo Tunnel, the zero-trust architecture looks like this:
 
-![Teams Diagram](../../../static/media/post-images/tunnel-demos/teams-diagram.png)
+![Teams Diagram](../2020-03-21-tunnel-demos/media/teams-diagram.png)
 
 To determine who can reach the application, Cloudflare Access relies on integration with identity providers like Okta or AzureAD or Google to issue the identity cards that get checked at the door. While a VPN allows me inside free range on a private network unless someone builds an active rule to stop me, Access enforces that identity check on every request (and at any granularity configured).
 

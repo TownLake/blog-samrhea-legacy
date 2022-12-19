@@ -93,7 +93,7 @@ cloudflared login
 
 `cloudflared` will print a URL that I need to visit in a browser. Once there, I'll login with my Cloudflare account and select the hostname I want to use here. In this case, I'll pick `samrhea.com`. Once I click "Authorize", Cloudflare will send a certificate to `cloudflared` on this Droplet.
 
-![Tunnel Login](/media/post-images/gitlab/tunnel-login.png)
+![Tunnel Login](../../2021/2021-08-29-browser-mac/media/tunnel-login.png)
 
 ## Connecting as a user
 
