@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "react",
+    "target": "es2019",
+    "module": "commonjs",
+    "lib": ["esnext", "dom"],
+    "moduleResolution": "node",
+    "paths": {
+      "@/utils": ["./src/utils"],
+      "@/types": ["./src/types"],
+      "@/hooks": ["./src/hooks"],
+      "@/utils/*": ["./src/utils/*"],
+      "@/internal/*": ["./internal/*"],
+      "@/constants": ["./src/constants"],
+      "@/components": ["./src/components"],
+      "@/components/*": ["./src/components/*"],
+      "@/mocks": ["./internal/testing/__mocks__"]
+    },
+    "noEmit": true,
+    "strict": true,
+    "allowJs": false,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "noUnusedLocals": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "noImplicitReturns": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["**/*.ts", "**/*.tsx"]
+}

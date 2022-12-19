@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu renders correctly 1`] = `
+<nav>
+  <ul>
+    <li>
+      <a
+        href="/"
+      >
+        Articles
+      </a>
+    </li>
+    <li>
+      <a
+        href="/pages/about"
+      >
+        About Me
+      </a>
+    </li>
+    <li>
+      <a
+        href="/pages/contacts"
+      >
+        Contact Me
+      </a>
+    </li>
+  </ul>
+</nav>
+`;

@@ -1,7 +1,5 @@
 # Sam Rhea's Blog
 
-![Banner](/banner.png)
-
 This repository contains the content and configuration for [my personal blog](https://blog.samrhea.com).
 
 ## 🏗️ Gatsby
@@ -19,7 +17,3 @@ A [GitHub Action](https://github.com/TownLake/blog-samrhea/tree/draft/2021-end-o
 ## 💡 Gatsby Lumen theme
 
 The site uses the [Lumen Gatsby starter theme](https://www.gatsbyjs.com/starters/alxshelepenok/gatsby-starter-lumen), maintained by [this team](https://github.com/alxshelepenok/gatsby-starter-lumen#contributors).
-
-## 🐶 Banner
-
-The banner above is an illustration of my dog, Mopac, by the artist [mdelpilarmoreno](https://www.fiverr.com/mdelpilarmoreno?source=order_page_user_message_inner_link).
