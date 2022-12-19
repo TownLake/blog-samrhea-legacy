@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Copyright renders correctly 1`] = `
+<div>
+  All rights reserved.
+</div>
+`;

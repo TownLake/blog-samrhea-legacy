@@ -1,25 +1,26 @@
-/** 
- * Generic
- */
+@import "../variables";
+@import "../mixins";
+
 html {
   font-size: $typographic-root-font-size;
 }
 
 body {
-  margin: 0 0 0 calc(100vw - 100%);
+  background: var(--color-page-background);
+  color: var(--color-typographic-base-font);
   font-family: $typographic-font-family;
-  color: $typographic-base-font-color;
-  line-height: $typographic-base-line-height;
   font-size: $typographic-base-font-size;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  line-height: $typographic-base-line-height;
+  margin: 0 0 0 calc(100vw - 100%);
+  text-rendering: optimizelegibility;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
 }
 
-h1,
 h2,
+h1,
 h3,
 h4,
 h5,
@@ -39,68 +40,71 @@ h2 {
   font-size: $typographic-base-font-size * 1.6875;
   @include line-height(1.5);
   @include margin-top(2);
-  @include margin-bottom(.5);
+  @include margin-bottom(0.5);
 }
 
 h3 {
   font-size: $typographic-base-font-size * 1.375;
   @include line-height(1);
   @include margin-top(2);
-  @include margin-bottom(.5);
+  @include margin-bottom(0.5);
 }
 
 h4 {
   font-size: $typographic-base-font-size * 1.2;
   @include line-height(1);
   @include margin-top(1.5);
-  @include margin-bottom(.5);
+  @include margin-bottom(0.5);
 }
 
 h5 {
   font-size: $typographic-base-font-size;
   @include line-height(1);
   @include margin-top(2.5);
-  @include margin-bottom(.5);
+  @include margin-bottom(0.5);
 }
 
 h6 {
   font-size: $typographic-base-font-size;
   @include line-height(1);
   @include margin-top(2.5);
-  @include margin-bottom(.5);
+  @include margin-bottom(0.5);
 }
 
 img {
   border: 0;
-  max-width: 100%;
   display: block;
-  margin: inherit auto;
+  max-width: 100%;
 }
 
 hr {
-  margin-top: 52px;
-  margin-bottom: 52px;
+  background-image: linear-gradient(
+    to bottom,
+    transparent 1px,
+    transparent 11px,
+    $color-dark 11px,
+    $color-dark 15px,
+    transparent 15px,
+    transparent 26px
+  );
+  background-size: 100% 26px;
   border: 0;
-  color: $color-base;
+  color: var(--color-typographic-base-font);
   display: block;
   height: 26px;
-  margin-right: auto;
-  margin-left: auto;
-  background-size: 100% 26px;
-  background-image: linear-gradient(to bottom, transparent 1px, transparent 11px, $color-base 11px, $color-base 15px, transparent 15px, transparent 26px);
+  margin: 52px auto;
   width: 100px;
 }
 
 a {
-  color: $typographic-link-p-font-color;
+  color: var(--color-typographic-link-p-font);
   text-decoration: none;
 
   &:hover,
   &:focus,
   &:active {
-    color: $typographic-link-s-font-color;
+    color: var(--color-typographic-link-s-font);
   }
-
 }
 
 b,
@@ -113,10 +117,9 @@ ul {
   @include margin-bottom(1);
 
   & li {
-    padding: 0 5px;
     margin-bottom: 10px;
+    padding: 0 5px;
   }
-
 }
 
 p {
@@ -125,59 +128,25 @@ p {
 }
 
 blockquote {
-  padding: 0;
   font-style: italic;
+  padding: 0;
   text-align: center;
 }
 
 figure {
   display: block;
-  width: 100%;
   height: auto;
+  width: 100%;
 }
 
 figcaption {
-  @include line-height(.75);
-  @include margin-top(.25);
-  color: $color-base;
+  @include line-height(0.75);
+  @include margin-top(0.25);
+  color: var(--color-typographic-base-font);
   font-size: $typographic-small-font-size;
   font-style: italic;
   margin-bottom: 0;
   text-align: center;
-}
-
-table {
-	width: 100%;
-	margin: 40px 0;
-	border-collapse: collapse;
-	font-size: 13px;
-	line-height: 1.5em;
-}
-
-th,td {
-	text-align: left;
-	padding: 10px 15px;
-	vertical-align: top;
-}
-
-table td,td {
-	border-spacing: none;
-	border-style: solid;
-	padding: 10px 15px;
-	border-width: 1px 0 0 0;
-}
-
-tr>td {
-	border-top: 1px solid #eaeaea;
-}
-
-tr:nth-child(odd)>td {
-	background: #fcfcfc;
-}
-
-.anchor {
-  margin-left: -30px !important;
-  padding-right: 14px !important;
 }
 
 @include breakpoint-sm {
@@ -194,5 +163,4 @@ tr:nth-child(odd)>td {
   .float-left {
     float: left;
   }
-
 }

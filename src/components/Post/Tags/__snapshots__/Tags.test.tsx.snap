@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tags renders correctly 1`] = `
+<div>
+  <ul>
+    <li>
+      <a
+        className=""
+        href="/handwriting"
+      >
+        Handwriting
+      </a>
+    </li>
+    <li>
+      <a
+        className=""
+        href="/helvetica"
+      >
+        Helvetica
+      </a>
+    </li>
+  </ul>
+</div>
+`;

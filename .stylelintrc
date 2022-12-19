@@ -1,0 +1,21 @@
+{
+  "defaultSeverity": "error",
+  "extends": "stylelint-config-recommended-scss",
+  "plugins": ["stylelint-order"],
+  "rules": {
+    "color-named": "never",
+    "font-family-name-quotes": "always-where-required",
+    "font-family-no-missing-generic-family-keyword": null,
+    "font-weight-notation": "named-where-possible",
+    "function-url-no-scheme-relative": true,
+    "function-url-quotes": "always",
+    "max-empty-lines": 1,
+    "no-descending-specificity": true,
+    "no-duplicate-selectors": true,
+    "order/order": ["custom-properties", "declarations"],
+    "order/properties-alphabetical-order": true,
+    "property-no-unknown": [true, { "ignoreProperties": ["/^lost-/"] }],
+    "string-quotes": "double",
+    "value-keyword-case": "lower"
+  }
+}

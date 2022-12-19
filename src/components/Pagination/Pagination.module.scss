@@ -1,54 +1,51 @@
-@import '../../assets/scss/variables';
-@import '../../assets/scss/mixins';
+@use "sass:color";
+
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixins";
 
 .pagination {
-  @include margin-top(2);
   display: flex;
+  @include margin-top(2);
 
-  &__prev {
-    width: 50%;
+  .previous {
     text-align: left;
-
-    &-link {
-      color: $color-secondary;
-      font-size: 26px;
-      font-weight: bold;
-
-      &:hover,
-      &:focus {
-        color: $color-primary;
-      }
-
-      &--disable {
-        pointer-events: none;
-        color: lighten($color-gray, 20%);
-      }
-
-    }
-
-  }
-
-  &__next {
     width: 50%;
-    text-align: right;
 
-    &-link {
-      color: $color-secondary;
+    .previousLink {
+      color: var(--color-secondary);
       font-size: 26px;
       font-weight: bold;
 
       &:hover,
       &:focus {
-        color: $color-primary;
+        color: var(--color-primary);
       }
 
-      &--disable {
+      &.disable {
+        color: $color-dark-cloud;
         pointer-events: none;
-        color: lighten($color-gray, 20%);
       }
-
     }
-
   }
 
+  .next {
+    text-align: right;
+    width: 50%;
+
+    .nextLink {
+      color: var(--color-secondary);
+      font-size: 26px;
+      font-weight: bold;
+
+      &:hover,
+      &:focus {
+        color: var(--color-primary);
+      }
+
+      &.disable {
+        color: $color-dark-cloud;
+        pointer-events: none;
+      }
+    }
+  }
 }

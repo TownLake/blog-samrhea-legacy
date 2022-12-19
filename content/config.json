@@ -1,0 +1,47 @@
+{
+  "title": "Sam Rhea",
+  "url": "https://new-blog.rhea.group",
+  "subtitle": "Austinite in Lisbon. VP of Product at Cloudflare.",
+  "copyright": "",
+  "googleAnalyticsId": "",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Posts",
+      "path": "/"
+    },
+    {
+      "label": "About",
+      "path": "/pages/about"
+    },
+    {
+      "label": "Projects",
+      "path": "/pages/projects"
+    }
+  ],
+  "author": {
+    "name": "Sam Rhea",
+    "photo": "/sam-task.jpeg",
+    "bio": "Austinite in Lisbon. VP of Product at Cloudflare.",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "TownLake",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "LakeAustinBlvd",
+      "linkedin": "samrhea",
+      "instagram": "LakeAustinBlvd",
+      "mastodon": "",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}

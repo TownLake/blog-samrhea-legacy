@@ -1,0 +1,4 @@
+*.*
+!*.css
+!*.scss
+/public/

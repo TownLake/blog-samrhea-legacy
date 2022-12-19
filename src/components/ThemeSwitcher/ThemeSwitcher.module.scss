@@ -1,0 +1,51 @@
+@use "sass:color";
+@import "src/assets/scss/mixins";
+@import "src/assets/scss/variables";
+
+.themeSwitcher {
+  --color: var(--color-theme-switcher);
+
+  .button {
+    align-items: center;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    outline: 0;
+
+    svg {
+      pointer-events: none;
+      stroke: var(--color);
+      transition: stroke 400ms;
+    }
+
+    &:hover {
+      --color: var(--color-theme-switcher-hover);
+    }
+  }
+
+  .moon {
+    opacity: 0;
+    stroke-dasharray: 0 1px;
+    transition: stroke-dasharray 200ms ease-in, opacity 400ms ease-in;
+  }
+
+  .sun {
+    opacity: 1;
+    stroke-dasharray: 1px 1px;
+    transition: stroke-dasharray 200ms ease-in, opacity 400ms ease-in;
+  }
+
+  &.dark {
+    .moon {
+      opacity: 1;
+      stroke-dasharray: 1px 1px;
+    }
+
+    .sun {
+      opacity: 0;
+      stroke-dasharray: 0 1px;
+    }
+  }
+}

@@ -1,39 +1,35 @@
-@import '../../../assets/scss/variables';
-@import '../../../assets/scss/mixins';
+@import "../../../assets/scss/variables";
+@import "../../../assets/scss/mixins";
 
 .menu {
   @include margin-bottom(1);
 
-  &__list {
+  .list {
     list-style: none;
-    padding: 0;
-    margin: 0;
+    @include margin-equal(0);
+    @include padding-equal(0);
 
-    &-item {
-      padding: 0;
-      margin: 10px 0;
+    .item {
+      @include margin(0.5, 0);
+      @include padding-equal(0);
 
-      &-link {
-        font-size: $typographic-base-font-size;
-        color: $typographic-base-font-color;
-        font-weight: normal;
+      .link {
         border: 0;
+        color: var(--color-typographic-base-font);
+        font-size: $typographic-base-font-size;
+        font-weight: normal;
 
         &:hover,
         &:focus {
-          color: $color-primary;
-          border-bottom: 1px solid $color-primary;
+          border-bottom: 1px solid $color-blue;
+          color: $color-blue;
         }
 
-        &--active {
-          color: $color-base;
-          border-bottom: 1px solid $color-base;
+        &.active {
+          border-bottom: 1px solid var(--color-typographic-base-font);
+          color: var(--color-typographic-base-font);
         }
-
       }
-
     }
-
   }
-
 }
