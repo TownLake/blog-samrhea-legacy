@@ -3,7 +3,7 @@ name = "blog-samrhea"
 type = "webpack"
 route = "new-blog.rhea.group/*"
 workers_dev = false
-zone_id = "f6df47d4a434b3cb3da375579914e6dd"
+zone_id = "629e8bfaf0bb8becf800b692bb4a5443"
 
 [site]
 bucket = "public"
