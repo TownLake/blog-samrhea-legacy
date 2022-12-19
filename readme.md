@@ -17,3 +17,10 @@ A [GitHub Action](https://github.com/TownLake/blog-samrhea/tree/draft/2021-end-o
 ## 💡 Gatsby Lumen theme
 
 The site uses the [Lumen Gatsby starter theme](https://www.gatsbyjs.com/starters/alxshelepenok/gatsby-starter-lumen), maintained by [this team](https://github.com/alxshelepenok/gatsby-starter-lumen#contributors).
+
+### Edits to Lumen
+* `gatsby-config.ts` changed to use my `sam-task.jpeg` photo
+* `src/components/Meta/Meta.tsx` edits `meta name="og:image"` to `meta property="og:image"` which LinkedIn requires.
+* Introducing of Wrangler.
+* Removes the "Read" link option in the post list page from `src/components/Feed/Feed.tsx`
+* Default behavior of this theme floats mobile views down to the posts. I removed the `useEffect` for `scrollIntoView` lines in `src/components/Feed/Feed.tsx`.
