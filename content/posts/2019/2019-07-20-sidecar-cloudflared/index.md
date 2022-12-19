@@ -54,7 +54,7 @@ The GCP tutorial provides code to run a simple hello-app web server. I can clone
 $ git clone https://github.com/GoogleCloudPlatform/kubernetes-engine-samples
 ```
 
-I can confirm the code downloaded by running `$ ls` and finding that a new directory, “kubernetes-engine-samples” has been saved. I still have `cloudflared` saved to my Cloud Shell user environment from the last walkthrough. If you don’t have it in yours, you can follow the instructions in the [link](https://blog.samrhea.com/index.php/2019/04/07/a-guide-to-overanalyzing-your-media-habits/) here or in steps later in this post.
+I can confirm the code downloaded by running `$ ls` and finding that a new directory, “kubernetes-engine-samples” has been saved. I still have `cloudflared` saved to my Cloud Shell user environment from the last walkthrough. If you don’t have it in yours, you can follow the instructions in the [link](https://blog.samrhea.com/posts/2019/analyze-media-habits) here or in steps later in this post.
 
 ![LS Output](./media/ls-output.png)
 

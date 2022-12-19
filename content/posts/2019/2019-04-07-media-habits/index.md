@@ -55,7 +55,7 @@ First, I need to find a place to run my Redash instance. Some years ago, I would
 
 To begin, I’ll [create a new project](https://cloud.google.com/resource-manager/docs/creating-managing-projects) in Google Cloud Platform (GCP), the umbrella cloud platform from Google that includes GCE. A project in GCP organizes my GCE VMs, functions, and network settings into a single management layer. GCP also provides Cloud Shell, a browser-based command-line tool, to manage my project.
 
-![New GCP](../../../static/media/post-images/media-habits/new-gcp.png)
+![New GCP](./media/new-gcp.png)
 
 Once my project is created, I need to set up Redash. Redash [provides](https://redash.io/help/open-source/setup#gce) an “image” for GCE. A VM image is just a template that selects the necessary configurations for my VM to host a given application and, in the case of Redash, loads the software to run the application. Like ready-to-bake cookie dough, they did the hard work for me and I just need to follow a couple steps.
 
@@ -67,7 +67,7 @@ $ glcoud compute images create "Redash-5-0-2" --source-uir gs://redash-images/re
 
 The screenshot below shows that command being run in the Cloud Shell.
 
-![Cloud-Shell](../../../static/media/post-images/media-habits/cloud-shell.png)
+![Cloud-Shell](./media/cloud-shell.png)
 
 With the Redash image added, I can now launch an instance with this image with a second command in the Cloud Shell.
 
@@ -79,32 +79,32 @@ That command will launch the VM and, after a few seconds, I have my own Redash i
 
 At this point, I still have GCP’s default network configuration settings in place. I can’t reach that external IP from my web browser. To open the application, and test that it’s working, I want to make it available over HTTP. GCP provides a full firewall configuration panel (which we’ll use later) but also surfaces a simple toggle in the instance details page to turn on HTTP. Toggling that button will set my firewall to accept traffic over HTTP.
 
-![Allow HTTP](../../../static/media/post-images/media-habits/allow-http.png)
+![Allow HTTP](./media/allow-http.png)
 
 I can now input my VM’s external IP into my web browser’s address bar and connect to the server over HTTP. The web page loads the Redash admin panel and I can start configuring it.
 
-![Redash Initial](../../../static/media/post-images/media-habits/redash-initial.png)
+![Redash Initial](./media/redash-initial.png)
 
 ## Configuring Redash and my data
 Once I have created my Redash admin account, I can configure the application. Redash provides a guided walkthrough in the tool for connecting and querying a dataset.
 
-![Redash Start](../../../static/media/post-images/media-habits/redash-start.png)
+![Redash Start](./media/redash-start.png)
 
 Redash supports integrations with a number of data storage tools, most of which are far more powerful than a single Google Sheet. To pull data from Google Sheets, I need to create a service account that Redash can use to read data. Redash provides in-depth instructions on how to set up a Google Service Account that I can follow. I first need to first return to GCP and create a service account key. I’ll give this key to Redash so that it can use it to reach my Google Sheet.
 
-![Service Key](../../../static/media/post-images/media-habits/service-key-create.png)
+![Service Key](./media/service-key-create.png)
 
 GCP will generate a JSON file that contains the private key for this account. I’ll download this file and then upload it to my Redash instance in the step below.
 
-![Load JSON](../../../static/media/post-images/media-habits/load-json.png)
+![Load JSON](./media/load-json.png)
 
 Once saved, I need to navigate to the Google Sheet that stores this data and grant this service account access to reach it. I’ll share it with the service account’s ID (example in the GCP screenshot above) in the same way I would with another Google account user – from the Share button in the particular sheet.
 
-![Share Sheet](../../../static/media/post-images/media-habits/share-sheet.png)
+![Share Sheet](./media/share-sheet.png)
 
 The Redash Google Sheets integration requires a couple of additional steps to load the data that are better documented in their walkthrough here. In short, I need to create a standalone query using the spreadsheet ID. That query will load all data in the sheet into Redash, creating a basic data source. I can then write additional queries, instructions [here](https://redash.io/help/data-sources/querying/google-spreadsheet), to review the data and join it with other sets.
 
-![Query](../../../static/media/post-images/media-habits/query.png)
+![Query](./media/query.png)
 
 At this point, I have Redash set up and loaded with the data I want to review. However, two problems still exist:
 
@@ -123,7 +123,7 @@ I could create a DNS record in the Cloudflare dashboard that points a subdomain 
 
 To start using Argo Tunnel, I need to download cloudflared on the VM. cloudflare is a command-line tool that will start the Argo Tunnel process. I’ll install the linux-amd64 / x86-64 Debian package by running the the wget command, a Linux command that can download files from a server. I’ll use the same Cloud Shell from earlier (I can launch the SSH connection to the machine from a browser window with the SSH button in my VM instances page).
 
-![SSH Start](../../../static/media/post-images/media-habits/ssh-start.png)
+![SSH Start](./media/ssh-start.png)
 
 ```bash
 $ wget https://bin.equinox.io/c/VdrWdbjqyF/cloudflared-stable-linux-amd64.deb
@@ -137,7 +137,7 @@ $ sudo dpkg -i ./cloudflared-stable-linux-amd64.deb
 
 The output of both commands should look like the screenshot below:
 
-![DPKG Output](../../../static/media/post-images/media-habits/dpkg-output.png)
+![DPKG Output](./media/dpkg-output.png)
 
 Next, I need to login to my Cloudflare account. The login command will provide me with a link I can visit in a browser to prove I control the domain “samrhea.com”. Once I login to my account in that window, I’ll pick the website I plan to use – “samrhea.com” in this case. cloudflared will then download a certificate for that site so that my VM can prove to Cloudflare that it can create DNS records on my behalf to proxy requests for a given hostname to an address on this VM.
 
@@ -164,7 +164,7 @@ Here’s a breakdown of that command:
 
 After running this command, `cloudflared` will create the tunnel. Since I’m using `nohup`, the output is not printed in my terminal. Without the nohup command, the output would look like this:
 
-![nohup output](../../../static/media/post-images/media-habits/nohup-output.png)
+![nohup output](./media/nohup-output.png)
 
 Creating a tunnel will automatically generate DNS records for this subdomain in my Cloudflare account – I don’t need to add the external IP of my machine as an A or AAAA record.
 
@@ -172,11 +172,11 @@ Creating a tunnel will automatically generate DNS records for this subdomain in 
 
 With my Tunnel created, I can test that it’s working by visiting “media.samrhea.com” and confirming that Redash loads. I can also see my active tunnel in the the Cloudflare dashboard. The Argo Tunnel card in the Traffic tab lists all active tunnels for this hostname.
 
-![Tunnel UI](../../../static/media/post-images/media-habits/tunnel-ui.png)
+![Tunnel UI](./media/tunnel-ui.png)
 
 Argo Tunnel creates a CNAME DNS record for the subdomain I specified in the `--hostname` flag. I can confirm that the record was created in the DNS tab of the dashboard. Note: Argo Tunnel does not delete DNS records for older tunnels, so previously tested subdomains are still listed.
 
-![DNS Records](../../../static/media/post-images/media-habits/dns-records.png)
+![DNS Records](./media/dns-records.png)
 
 ## Locking down the machine
 
@@ -190,7 +190,7 @@ GCP firewall always enforces two “implied” rules: one to allow all egress tr
 
 Since I don’t have any firewall rules that allow ingress traffic, the implied ingress rule blocks any connections made to the machine. In the other direction, the implied egress rule allows the machine to make outbound connections which enables Argo Tunnel to keep functioning. The cloudflared process initiates connections and proxies requests to the assigned internal IP. Any attempts to reach the external IP will now fail. Since the implied rules are hidden, the only rule displayed in the GCP firewall dashboard is the one allowing SSH traffic.
 
-![Only SSH](../../../static/media/post-images/media-habits/only-ssh.png)
+![Only SSH](./media/only-ssh.png)
 
 ## Controlling who can reach Redash with Cloudflare Access
 
@@ -202,19 +202,19 @@ Cloudflare Access integrates with several identity providers. Most of those opti
 
 In the GCP dashboard, I can create an OAuth client ID that can be used to verify user identity. The OAuth flow will allow me to request users give my application (in this case, Access) permission to validate their identity with Google.
 
-![Create API](../../../static/media/post-images/media-habits/create-api.png)
+![Create API](./media/create-api.png)
 
 I need to use the authentication domain from my Cloudflare Access account (in my case, I’m using widgetcorp.cloudflareaccess.com) as the “Authorized Javascript origins” address and I’ll add the Access callback path to that address in the redirect URI field. Once I hit “Create”, Google will generate a Client ID and Secret for this service.
 
-![OAuth Secret](../../../static/media/post-images/media-habits/oauth-setup.png)
+![OAuth Secret](./media/oauth-setup.png)
 
 I can now take my Client ID and Secret and use those to integrate Google as an identity provider with Cloudflare Access. On the Access tab of the Cloudflare dashboard, I can begin by selecting Google as a login method.
 
-![IdP Add](../../../static/media/post-images/media-habits/idp-add.png)
+![IdP Add](./media/idp-add.png)
 
 I can then input the Client ID and Secret from GCP. Hitting “Save and test” allows me to check that the integration is configured correctly.
 
-![Save IdP](../../../static/media/post-images/media-habits/save-idp.png)
+![Save IdP](./media/save-idp.png)
 
 Once saved, any visitor to my site can prove who they are by authenticating with their Google account. Now I need some rules to determine if that user, once authenticated, has permission to reach my site.
 
@@ -222,7 +222,7 @@ Once saved, any visitor to my site can prove who they are by authenticating with
 
 In the Access tab, I can create a policy to define who can reach my site or, in this case, a subdomain of the site. Access will only check for identity on requests made to “media.samrhea.com” which makes it possible for you to read this on “blog.samrhea.com”.
 
-![Create Policy](../../../static/media/post-images/media-habits/create-policy.png)
+![Create Policy](./media/create-policy.png)
 
 With the rule above, I can add the email address of visitors who should be allowed to reach this subdomain. When they first attempt to reach the site, they’ll be redirected to a login page with the option to authenticate with Google. After authenticating, Cloudflare Access will use the integration with my Google service to create a token that validates their identity and store that in the visitor’s browser. Access will then look for that cookie on all subsequent requests; if the cookie represents a user who is allowed access, they’ll be redirected to the application and be able to scrutinize how much I love the show 30 Rock.
 

@@ -43,7 +43,7 @@ I have even connected bluetooth keyboards to my iPhone before, but that somehow 
 
 iOS ships with an alternate, always-onboard, input system: Siri. More specifically, the dictation feature in Siri. I'm not going to spend any time here talking about the value of Siri as a personal assistant, but instead focus on a single UI button that changes how I interact with my phone to solve the typing problem.
 
-![Mic Pic](../../../static/media/post-images/siri-type/mic-pic.jpeg)
+![Mic Pic](./media/mic-pic.jpeg)
 
 In the keyboard drawer, bottom right, is a microphone icon. Without having to announce to the world "Hey Siri," I can instead just tap it and it will begin converting what I'm saying into text.
 

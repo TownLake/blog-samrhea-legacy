@@ -93,10 +93,10 @@ I'm so glad I moved here. I'm even more thankful for the opportunity and the peo
 
 ## Things I’ve loved
 
-* Being [invited into community](https://blog.samrhea.com/post/dog-party/) by our Portuguese neighbors.
+* Being [invited into community](https://blog.samrhea.com/posts/2020/dog-parties-in-portugal) by our Portuguese neighbors.
 * I can walk outside and visit 7 bakeries within 1 block. If I walk just a few more minutes, there’s 2 dog parks and 3 for humans.
-* Portugal operates a [steam punk alternative universe](https://blog.samrhea.com/post/nao-carteira/) form of retail banking called Multibanco and I will never not be fascinated by it.
-* [European Office Time](https://blog.samrhea.com/post/euro-time/) (EOT) has changed how I spend my day and the result is a much healthier work-life balance.
+* Portugal operates a [steam punk alternative universe](https://blog.samrhea.com/posts/2019/multibanco-setup) form of retail banking called Multibanco and I will never not be fascinated by it.
+* [European Office Time](https://blog.samrhea.com/posts/2019/euro-office-time) (EOT) has changed how I spend my day and the result is a much healthier work-life balance.
 * Being part of a new office is thrilling and intimidating and hilarious.
 * The weather is worth talking about.
 * I broke my thumb last month and walked into a hospital and experienced a healthcare system that blew my mind. Every interaction was pleasant, every person I spoke to wanted to help, and I received the care I needed.

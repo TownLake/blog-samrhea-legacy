@@ -12,7 +12,7 @@ description: "Setting up a simple workflow with GitHub and Cloudflare Workers fo
 socialImage: "./media/pipeline-diagram-feature.png"
 ---
 
-I converted this blog to [Workers Sites](https://workers.cloudflare.com/sites/) a couple weeks ago and wrote about it [here](https://blog.samrhea.com/post/wrangler-sites/). The initial setup was pretty bare bones. I saved the repository locally without any version control and deployed directly to production. No one gets paged if I break this blog, so that was fine.
+I converted this blog to [Workers Sites](https://workers.cloudflare.com/sites/) a couple weeks ago and wrote about it [here](https://blog.samrhea.com/posts/2019/porting-blog-to-workers-sites). The initial setup was pretty bare bones. I saved the repository locally without any version control and deployed directly to production. No one gets paged if I break this blog, so that was fine.
 
 However, I did receive some [questions](https://twitter.com/LakeAustinBlvd/status/1179057951597879298) on Twitter asking about how to integrate a deploy pipeline into this workflow. I decided to take some time this weekend and build out a staging flow and answer some of those questions. This work gave me an excuse to bring some maturity to this process, including a GitHub repo, which helps with situations like "what if I lose my laptop?"
 
@@ -140,7 +140,7 @@ When I visit "blog-staging.samrhea.com" I can see the output of my current work 
 
 Nothing I publish on this blog is confidential, but I do want to limit audience visibility into work-in-progress. Fortunately, Cloudflare offers a product that can protect subdomains or paths and only allow approved team members to reach them: Access.
 
-Like I mentioned earlier, I'm the Product Manager for Access. I have written about Access on this blog [before](https://blog.samrhea.com/post/media-habits/), as well as on the Cloudflare [blog](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/). I'll try to be succinct here. With Access, I can force any visitor to the staging URL of my blog to first authenticate. In this case, I'll just allow myself to view it, but I could add editors down the road.
+Like I mentioned earlier, I'm the Product Manager for Access. I have written about Access on this blog [before](https://blog.samrhea.com/posts/2019/analyze-media-habits), as well as on the Cloudflare [blog](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/). I'll try to be succinct here. With Access, I can force any visitor to the staging URL of my blog to first authenticate. In this case, I'll just allow myself to view it, but I could add editors down the road.
 
 [Access Policy](./media/access-policy.png)
 

@@ -77,7 +77,7 @@ Now that I have videos available, I need to house them in a UI that my family ca
 
 I want to put the videos on a simple site. That way, I can send a single URL without instructions to my family and they can navigate between Mopac videos. I just want to use a gallery, nothing fancy.
 
-I'm going to use Hugo and a lightweight template, [Hugo Paper](https://themes.gohugo.io/hugo-paper/), to build this out. And I'm going to deploy it to Cloudflare Workers, the same platform that runs this blog. I'll move fast during this part of the tutorial because I've written in a lot more detail about [using Hugo with Workers Sites](https://blog.samrhea.com/post/wrangler-sites/) and [automating their deployment](https://blog.samrhea.com/post/github-actions/).
+I'm going to use Hugo and a lightweight template, [Hugo Paper](https://themes.gohugo.io/hugo-paper/), to build this out. And I'm going to deploy it to Cloudflare Workers, the same platform that runs this blog. I'll move fast during this part of the tutorial because I've written in a lot more detail about [using Hugo with Workers Sites](https://blog.samrhea.com/post/wrangler-sites/) and [automating their deployment](https://blog.samrhea.com/posts/2019/workers-github-deploy).
 
 Within this new site, I'll build a simple page to begin curating videos of Mopac. Right now, the entire content is just an index page and one markdown post that will house Mopac videos.
 
