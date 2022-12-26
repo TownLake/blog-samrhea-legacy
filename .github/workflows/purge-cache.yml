@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  ENDPOINT: '-X DELETE "https://api.cloudflare.com/client/v4/zones/629e8bfaf0bb8becf800b692bb4a5443/purge_cache"'
+  ENDPOINT: '-X POST "https://api.cloudflare.com/client/v4/zones/629e8bfaf0bb8becf800b692bb4a5443/purge_cache"'
   EMAIL: '-H "X-Auth-Email: ${{ SECRETS.EMAIL }}"'
   CURL_AUTH: '-H "Authorization: Bearer ${{ SECRETS.PURGE_CACHE }}"'
   CURL_CONTENT: '-H "Content-Type: application/json"'
