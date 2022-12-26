@@ -9,7 +9,7 @@ env:
   EMAIL: '-H "X-Auth-Email: ${{ SECRETS.EMAIL }}"'
   CURL_AUTH: '-H "Authorization: Bearer ${{ SECRETS.PURGE_CACHE }}"'
   CURL_CONTENT: '-H "Content-Type: application/json"'
-  
+  CURL_DATA: '--data "purge_everything":true'
   
 jobs:
   purge:
