@@ -13,7 +13,7 @@ env:
 jobs:
   purge:
     name: purge cache
-    runs-on ubuntu-latest
+    runs-on: ubuntu-latest
     
     steps:
     
