@@ -20,5 +20,5 @@ jobs:
     
     - name: purge cache
       run: |
-        curl ${{ env.ENDPOINT }} ${{ env.email }} ${{ env.CURL_AUTH }} ${{ env.CURL_CONTENT }}
+        curl ${{ env.ENDPOINT }} ${{ env.email }} ${{ env.CURL_AUTH }} ${{ env.CURL_CONTENT }} ${{ env.CURL_DATA }}
     
