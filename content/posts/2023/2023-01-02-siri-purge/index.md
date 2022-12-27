@@ -69,7 +69,7 @@ I'll go ahead and save that file and merge it to my repository.
 
 ### Confirm outcome
 
-The GitHub workflow file is part of this repository and when I merge these changes that qualifies as a push to `main` and I conveniently trigger the workflow. I can see that the GitHub Action run was succesful.
+The GitHub workflow file is part of this repository and when I merge these changes that qualifies as a push to `main` and I conveniently trigger the workflow. I can see that the GitHub Action run was successful.
 
 ![Run Workflow](./media/run-workflow.png)
 
@@ -140,7 +140,7 @@ I can now test running the Shortcut by pushing the icon in the Shortcut homepage
 
 ![Shortcut](./media/shortcut-tiles.PNG)
 
-The Shortcut ran without error and I can go ahead and confirm that works in Cloudflare. Everything looks good once again. Now, for the final test - asking Siri politely. By speaking into my phone, "Hey Siri, purge cache" I can now purge the Cloudflare cache for `samrhea.com`.
+The Shortcut ran without error and I can go ahead and confirm that Cloudflare also agrees that it worked. Everything looks good once again. Now, for the final test - asking Siri politely. By speaking into my phone, "Hey Siri, purge cache" I can now purge the Cloudflare cache for `samrhea.com`.
 
 ## Can ChatGPT do it?
 
