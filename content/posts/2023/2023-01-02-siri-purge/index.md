@@ -1,5 +1,5 @@
 ---
-title: <>
+title: "🎙️🗄️ Hey Siri, Purge the Cloudflare Cache"
 date: "2023-01-02"
 template: "post"
 draft: true
@@ -14,7 +14,9 @@ description: "Purge the Cloudflare cache of your site with iOS Shortcuts"
 socialImage: "./media/ai-longhorn.png"
 ---
 
-<>
+I published a blog post about LinkedIn and Twitter metrics recently and went to check the result on `blog.samrhea.com`. I noticed that the content on the page was missing the new post - the older version was cached.
+
+I said out loud "oops, need to purge the cache." I logged into the Cloudflare dashboard on my phone and punched the `Purge Everything` button. And then I thought "what if my phone could hear that and do it for me?" So today I'm building an iOS Shortcut to allow me to do exactly that.
 
 ---
 
