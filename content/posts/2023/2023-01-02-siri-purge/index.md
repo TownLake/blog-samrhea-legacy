@@ -150,7 +150,7 @@ I asked ChatGPT to first create a workflow file for a GitHub Action that would p
 
 ![First ChatGPT Question](./media/chat-gpt-one.png)
 
-* Instead of creating the workflow file, OpenAI just documented how to use `curl` to solve this. ChatGPT seems to have gotten a little lost between steps 3 and 4.
+* Instead of creating the workflow file, OpenAI just documented how to use `curl` to solve this. ChatGPT seems to have gotten a little lost between steps 3 and 4. The `curl` also excludes the inclusion of an email, which still works, but odd.
 * Interesting to see it use `DELETE`. Cloudflare recommends `POST`. I tried to search the Internet to see examples where tutorials recommend `DELETE`, curious where OpenAI learned this approach, and did find several.
 
 I nudged it to get back on track creating the file.
@@ -167,4 +167,8 @@ I asked it to update the file to be able to trigger on a manual dispatch event.
 
 * Again, accurate. Also it's creepy how natural the conversation feels when it remembers the last output I requested and quickly edits it.
 
-Overall, pretty close today.
+I tried once more and, in a creepy sign of (maybe random) progress, the output skipped the `curl` step and also defined all of the environment variables - including the email. Still missing the dispatch configuration, though.
+
+![Fourth ChatGPT Question](./media/chat-gpt-four.png)
+
+Overall, pretty close.
