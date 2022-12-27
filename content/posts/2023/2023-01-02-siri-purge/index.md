@@ -124,21 +124,21 @@ I now have a GitHub Action that I know will purge the cache for my website serve
 
 I have the GitHub app installed on my iPhone and have logged into my account. The GitHub app makes certain actions available to iOS Shortcuts by default, including the GitHub Action feature itself.
 
-![GitHub Shortcut Options](./media/github-shortcut-options.png)
+![GitHub Shortcut Options](./media/github-shortcut-options.PNG)
 
 I'll select `Dispatch Workflow` which maps up with the trigger configuration above.
 
-![GitHub Shortcut](./media/github-dispatch-shortcut.png)
+![GitHub Shortcut](./media/github-dispatch-shortcut.PNG)
 
 Next, I'll configure the Shortcut with the details of this particular repository and workflow file. I'll also name the Shortcut.
 
-![Configure Shortcut](./media/configure-shortcut.png)
+![Configure Shortcut](./media/configure-shortcut.PNG)
 
 ### Confirm outcome
 
 I can now test running the Shortcut by pushing the icon in the Shortcut homepage.
 
-![Shortcut](./media/shortcut-tiles.png)
+![Shortcut](./media/shortcut-tiles.PNG)
 
 The Shortcut ran without error and I can go ahead and confirm that works in Cloudflare. Everything looks good once again. Now, for the final test - asking Siri politely. By speaking into my phone, "Hey Siri, purge cache" I can now purge the Cloudflare cache for `samrhea.com`.
 
