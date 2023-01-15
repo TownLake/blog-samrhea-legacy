@@ -1,10 +1,10 @@
 
-name: Release
+name: Prod Release
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   release:
