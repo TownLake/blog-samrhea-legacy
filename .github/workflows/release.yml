@@ -21,22 +21,13 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        
-      - name: NPM run clean
-        run: npm run clean
-
-      - name: Install yarn
-        run: npm install -g yarn
-      
-      - name: Yarn
-        run: yarn install --frozen-lockfile
 
       - name: Install gatsby
         run: npm install -g gatsby-cli
 
       - name: Build Gatsby
         run: gatsby build
-      
+    
       - name: Install Wrangler
         run: npm i @cloudflare/wrangler -g
 
