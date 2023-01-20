@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
   
       - name: upgrade node
-        run: nvm install 18
+        run: brew install node@18
           
       - name: Log Details
         run: npm version
