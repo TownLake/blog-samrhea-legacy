@@ -2,7 +2,7 @@
 title: "🎙️🗄️ Hey Siri, Purge the Cloudflare Cache"
 date: "2023-01-02"
 template: "post"
-draft: true
+draft: false
 slug: "/posts/2022/hey-siri-purge"
 category: "walkthrough"
 tags:
@@ -11,7 +11,7 @@ tags:
   - "productivity"
   - "Cloudflare"
 description: "Purge the Cloudflare cache of your site with iOS Shortcuts"
-socialImage: "./media/ai-longhorn.png"
+socialImage: "./media/github-shortcut-options.PNG"
 ---
 
 I published a blog post about LinkedIn and Twitter metrics recently and went to check the result on `blog.samrhea.com`. I noticed that the content on the page was missing the new post - the older version was cached.
