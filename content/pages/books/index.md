@@ -1,6 +1,6 @@
 ---
 title: "Books"
-template: "page"
+template: "feed"
 socialImage: "/sam-task.jpeg"
 ---
 
