@@ -21,8 +21,8 @@
       "path": "/pages/projects"
     },
     {
-      "label": "Books",
-      "path": "/pages/books"
+      "label": "Reading",
+      "path": "/pages/reading"
     },
     {
       "label": "At Cloudflare",
