@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: "Reading"
 template: "feed"
 socialImage: "/sam-task.jpeg"
 ---
