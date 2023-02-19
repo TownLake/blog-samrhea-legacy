@@ -135,11 +135,11 @@ Once saved, I can go ahead and test that it works by pressing the shortcut butto
 
 I can confirm that the rule has been enabled.
 
-![Enabled Rule](./media/enabled-rule.jpg)
+![Enabled Rule](./media/enabled-rule.png)
 
 And I'll test a few DNS queries and see them blocked on my device and in the logs.
 
-![Rules Test](./media/rules-test.jpg)
+![Rules Test](./media/rules-test.png)
 
 Now that I have confirmed that this works I'll go ahead and disable the rule and save it for a time when I might need it.
 
