@@ -3,7 +3,7 @@ title: "🎙️🗄️ Hey Siri, Purge the Cloudflare Cache"
 date: "2023-01-02"
 template: "post"
 draft: false
-slug: "/posts/2022/hey-siri-purge"
+slug: "/posts/2023/hey-siri-purge"
 category: "walkthrough"
 tags:
   - "walkthrough"
