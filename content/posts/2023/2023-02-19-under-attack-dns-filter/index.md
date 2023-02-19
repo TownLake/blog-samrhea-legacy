@@ -9,10 +9,10 @@ tags:
   - "Zero Trust"
   - "Cloudflare"
 description: "Rapidly deploy a positive security DNS filtering model in an emergency"
-socialImage: "./media/github-shortcut-options.PNG"
+socialImage: "./media/rank-and-disable-rule.png"
 ---
 
-I went to see *Ant-Man and the Wasp: Quantumania* this weekend. I have seen every Marvel Cinematic Universe (MCU) movie in theaters for the last nearly 15 years. I sat alone (my significant other was on a weekend trip with friends in London to see a West End show). I ate a whole package of Haribo. I was so happy.
+I went to see *Ant-Man and the Wasp: Quantumania* this weekend. I have seen every Marvel Cinematic Universe (MCU) movie in theaters for the last nearly 15 years, excluding *Black Widow* which arrived on Disney Plus during the pandemic. I sat alone (my significant other was on a weekend trip with friends in London to see a West End show). I ate a whole package of Haribo Favorites. I was so happy.
 
 > I spent time with friends this weekend. I promise. I just love seeing movies by myself. If you haven't tried it, you should.
 
@@ -20,9 +20,9 @@ To prepare for the movie (I know, I know, I'm sorry), I rewatched a few MCU film
 
 > Look, this tutorial is only going to get nerdier so abandon hope or buckle up.
 
-I decided I would find joy creating a fun project that somewhat copies that scene. In this case, I am going to use Siri, GitHub, and [Cloudflare One](https://www.cloudflare.com/cloudflare-one/) to talk to a voice assistant and upgrade my defenses in the event of a persistent, advanced attack.
+I decided I would find joy working on a project that somewhat copies that scene. In this case, I am going to use Siri, GitHub, and [Cloudflare One](https://www.cloudflare.com/cloudflare-one/) to talk to a voice assistant and upgrade my defenses in the event of a persistent, advanced attack.
 
-Less exciting than a superhero fight but much more terrifying, some teams and enterprises find themselves the target of bad actors determined to phish credentials or steal data. These coordinated attacks try a handful of different methods to lure users into inadvertantly handing over access or passwords to sensitive materials. If an organization suspects they are under attack, they might want to deploy a more rigorous security model until they can determine the nature of the incident.
+Less exciting than a superhero fight but much more terrifying, some teams and enterprises find themselves the target of bad actors determined to phish credentials or steal data. These coordinated attacks try a handful of different methods to lure users into inadvertantly handing over passwords or access to sensitive materials. If an organization suspects they are under attack, they might want to deploy a more rigorous security model until they can determine the nature of the incident.
 
 In today's tutorial, I am going to create a "break glass" rule for an organization that has already deployed security filtering for their team. An enterprise could enable this particular rule to lock down all outbound traffic to a set of approved destinations while their security team determines the nature of an attack. A **very cool** enterprise could use this tutorial to talk to Siri to enable this rule as if they were on the bridge of a Rebel Alliance cruiser or in Iron Man's suit.
 
@@ -53,7 +53,7 @@ Security teams can and do use this step in how your device talks to the Internet
 
 This type of DNS filtering provides a lightweight method to block attacks on the Internet. Individual devices, home routers, corporate networks, and entire Internet Service Providers (ISPs) can be configured to send DNS queries to a protective resolver in just a few minutes. You don't need additional certificates or hardware. Instead, security teams or individual administrators can begin logging and filtering all DNS queries by changing their DNS resolver settings.
 
-In the case of Cloudflare, they also benefit from the performance boost from using the world's fastest DNS resolver. I'm going to skip over how to configure devices or networks to use Cloudflare Gateway in this tutotorial - check out the [Cloudflare documentation](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/) to walk through how to set this up.
+In the case of Cloudflare, end users also benefit from the performance boost from using the world's fastest DNS resolver. I'm going to skip over how to configure devices or networks to use Cloudflare Gateway in this tutotorial - check out the [Cloudflare documentation](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/) to walk through how to set this up.
 
 Instead, I am going to focus on creating a particular type of rule. Most outbound filtering deployments follow a "negative security model" concept. They allow all traffic, in this case DNS queries, unless the query matches something configured to be blocked. This kind of setup can be helpful for filtering dangerous traffic with lower risk of false positives.
 
@@ -125,7 +125,7 @@ jobs:
 
 ## Configure iOS Shortcuts
 
-[Just like last month](https://blog.samrhea.com/posts/2022/hey-siri-purge#create-siri-shortcut), I'm going to use the iOS Shortcuts app to take Siri input and trigger this workflow file in GitHub.
+[Just like last month](https://blog.samrhea.com/posts/2022/hey-siri-purge#create-siri-shortcut), I'm going to use the iOS Shortcuts app to take Siri input and trigger this workflow file in GitHub. Please feel free to follow the steps in that post if you need a reminder on how to create an API key or more detail on setting up the Siri Shortcut. The steps are mostly identical.
 
 ![Shortcut Configuration](./media/shortcut-config.PNG)
 
@@ -141,8 +141,10 @@ And I'll test a few DNS queries and see them blocked on my device and in the log
 
 ![Rules Test](./media/rules-test.jpg)
 
+Now that I have confirmed that this works I'll go ahead and disable the rule and save it for a time when I might need it.
+
 ## What's next?
 
 The most fun part about working on Cloudflare One is that every customer we have works towards a different, unique mission but shares one thing in common - no one wanted to get phished today. No team woke up hoping for a ransomware attack. Each organization and enterprise would rather spend their time focused on their goals. We give them the tools to do that.
 
-Adopting a security model like this one means something unnerving has happened and I hope that is not the case for anyone. However, this can be a pretty powerful tool during those chaotic early innings while a team figures out what is going on.
+Adopting a security model like this one means something unnerving has happened and I hope that is not the case for anyone. However, this can be a pretty powerful tool during those chaotic early innings while a team figures out the nature of the attack.
