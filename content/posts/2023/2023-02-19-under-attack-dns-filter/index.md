@@ -106,7 +106,7 @@ on:
 env:
   ENDPOINT: '-X PATCH "https://api.cloudflare.com/client/v4/accounts/eca95c4515a39540cafc79d7b2561a25/gateway/rules/cf42f887-53e2-4720-b16a-ecd89c924df0"'
   EMAIL: '-H "X-Auth-Email: ${{ SECRETS.EMAIL }}"'
-  CURL_AUTH: '-H "Authorization: Bearer ${{ SECRETS.ATTACK_TOKEN }}"'
+  CURL_AUTH: '-H "X-Auth-Key: ${{ SECRETS.ATTACK_TOKEN }}"'
   CURL_CONTENT: '-H "Content-Type: application/json"'
   CURL_DATA: --data '{"name":"Only Trusted Destinations","action":"block","enabled":true,"filters":["dns"]}'
 
@@ -120,7 +120,7 @@ jobs:
          
     - name: Filter DNS
       run: |
-        curl ${{ env.ENDPOINT }} ${{ env.email }} ${{ env.CURL_AUTH }} ${{ env.CURL_CONTENT }} ${{ env.CURL_DATA }}
+        curl ${{ env.ENDPOINT }} ${{ env.EMAIL }} ${{ env.CURL_AUTH }} ${{ env.CURL_CONTENT }} ${{ env.CURL_DATA }}
 ```
 
 ## Configure iOS Shortcuts
