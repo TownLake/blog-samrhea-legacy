@@ -125,16 +125,16 @@ We ship quickly at Cloudflare. When we do, Product Managers write [painfully det
 
 <main class="grid">
    <article>
-    <p align="center"><img src="./media/Helping-Keep-Governments-Safe-and-Secure-HEADER.png" height="100"></p>
+    <p align="center"><img src="./media/cio.png" height="100"></p>
     <div class="text">
       <h3>Why do CIOs choose Cloudflare One?</h3>
       <p><b><center>2023</center></b></p>
-      <p>Helping protect the Department of Homeland Security keep the Government secure.</p>
+      <p>Breaking out the reasons they select Cloudflare.</p>
       <p><a href="https://blog.cloudflare.com/why-cios-select-cloudflare-one/">Learn more</a> ></p>
     </div>
   </article>
   <article>
-    <p align="center"><img src="./media/Helping-Keep-Governments-Safe-and-Secure-HEADER.png" height="100"></p>
+    <p align="center"><img src="./media/athenian-galileo.png" height="100"></p>
     <div class="text">
       <h3>Cloudflare Zero Trust for Project Galileo and the Athenian Project</h3>
       <p><b><center>2022</center></b></p>
