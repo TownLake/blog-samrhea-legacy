@@ -1,9 +1,6 @@
 name: DNS Filter Under Attack
 
 on:
-  push:
-    branches:
-     - main
   workflow_dispatch:
      
 env:
