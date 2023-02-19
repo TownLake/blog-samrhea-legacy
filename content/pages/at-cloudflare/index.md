@@ -1,7 +1,7 @@
 ---
 title: "At Cloudflare"
 template: "page"
-socialImage: "/sam-task.jpeg"
+socialImage: "../../sam-task.jpeg"
 ---
 
 I am the VP of Product at Cloudflare for our [Zero Trust group](https://www.cloudflare.com/products/zero-trust/), which is part of our Secure Access Service Edge ([SASE](https://blogs.gartner.com/andrew-lerner/2019/12/23/say-hello-sase-secure-access-service-edge/)) solution, [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/).
@@ -10,16 +10,17 @@ The products in my group include:
 * [Cloudflare Access](https://www.cloudflare.com/products/zero-trust/access/), our Zero Trust access control solution.
 * [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/), our secure networking product.
 * [Cloudflare Gateway](https://www.cloudflare.com/products/zero-trust/gateway/), our DNS filter and Secure Web Gateway.
-* [Cloudflare Browser](https://www.cloudflare.com/zero-trust/browser-isolation/), an isolated browser so seamless that you'll forget you're using it.
-* [Cloudflare's Zero Trust On Ramp](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/), an agent-based on ramp built on Cloudflare [WARP](https://1.1.1.1/) to connect your device to anything through Cloudflare's network.
+* The [Cloudflare Browser](https://www.cloudflare.com/zero-trust/browser-isolation/), an isolated browser so seamless that you'll forget you're using it.
+* The [Cloudflare One Agent](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/), an agent-based on ramp built on Cloudflare [WARP](https://1.1.1.1/) to connect your device to anything through Cloudflare's network.
 * [Cloudflare Data Loss Prevention](https://www.cloudflare.com/products/zero-trust/dlp/), earth's only comprehensive DLP solution that improves user experience.
 * [Cloudflare CASB](https://blog.cloudflare.com/cloudflare-zero-trust-casb/), our Cloud Access Security Broker that keeps one eye open for SaaS security issues so you can focus on your real work.
+* [Cloudflare Digital Experience](https://blog.cloudflare.com/introducing-digital-experience-monitoring/), the analytics and triage tool that gives administrators visibility into Cloudflare's network and the wider Internet.
 
 I spend every day working with curious, empathetic product managers and product directors in my group who obsess over how we can use Cloudflare's network to solve security problems for teams of any size.
 
 Back in the day, I was a Product Manager for most of the products above or the Director when Product Managers much smarter than me built those tools. I consider myself terribly lucky to have worked with brilliant teammates to watch these prototypes and moon shot ideas evolve into Cloudflare's next act. I could not be more excited to see what we can solve for our Cloudflare Zero Trust customers as we ship even faster.
 
-I also [launched our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/) back in the day and miss the bizarre dance of domain registration. I'm sorry -- I do not know when we will support the `.horse` TLD.
+I also [launched our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/) years ago and miss the bizarre dance of domain registration. I'm sorry -- I do not know when we will support the `.horse` TLD.
 
 <style>
 .grid { 
@@ -123,6 +124,24 @@ Years ago they let me build stuff. I had the wonderful opportunity to work with 
 We ship quickly at Cloudflare. When we do, Product Managers write [painfully detailed technical posts](https://blog.cloudflare.com/author/sam/) about our new features. Here are a few that I had the opportunity to launch.
 
 <main class="grid">
+   <article>
+    <p align="center"><img src="./media/Helping-Keep-Governments-Safe-and-Secure-HEADER.png" height="100"></p>
+    <div class="text">
+      <h3>Why do CIOs choose Cloudflare One?</h3>
+      <p><b><center>2023</center></b></p>
+      <p>Helping protect the Department of Homeland Security keep the Government secure.</p>
+      <p><a href="https://blog.cloudflare.com/why-cios-select-cloudflare-one/">Learn more</a> ></p>
+    </div>
+  </article>
+  <article>
+    <p align="center"><img src="./media/Helping-Keep-Governments-Safe-and-Secure-HEADER.png" height="100"></p>
+    <div class="text">
+      <h3>Cloudflare Zero Trust for Project Galileo and the Athenian Project</h3>
+      <p><b><center>2022</center></b></p>
+      <p>Helping protect democracies and sensitive organizations.</p>
+      <p><a href="https://blog.cloudflare.com/cloudflare-zero-trust-for-galileo-and-athenian/">Learn more</a> ></p>
+    </div>
+  </article>
   <article>
     <p align="center"><img src="./media/Helping-Keep-Governments-Safe-and-Secure-HEADER.png" height="100"></p>
     <div class="text">
