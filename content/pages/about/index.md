@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "about"
 template: "page"
 socialImage: "../../sam-task.jpeg"
 ---
