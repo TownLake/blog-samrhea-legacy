@@ -10,7 +10,7 @@
     flex-grow: 0;
     flex-shrink: 0;
     list-style: none;
-    max-width: 165px;
+    max-width: 207px;
     @include padding-equal(0);
     @include margin(0.5, 0);
 
@@ -28,7 +28,7 @@
       @include padding-equal(0);
       @include margin-equal(0.25);
 
-      &:nth-child(3n + 1) {
+      &:nth-child(4n + 1) {
         @include margin-left(0);
       }
 
