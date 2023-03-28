@@ -10,6 +10,14 @@ tags:
   - "books"
 description: "A return to falling in love in book stores."
 socialImage: "./media/book-lovers.png"
+book: Book Lovers
+Author: Emily Henry
+Year Published: 2022
+Format: Paperback
+Pages: 373
+ISBN: 978-0-241-99534-1
+DateStart: March 14, 2023
+DateFinish: March 27, 2023
 ---
 
 > ## Not a Book Report
