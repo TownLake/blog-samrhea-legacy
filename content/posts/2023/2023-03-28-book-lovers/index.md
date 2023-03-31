@@ -21,12 +21,12 @@ DateFinish: March 27, 2023
 ---
 
 > ## Not a Book Report
-> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list - mostly so I can page through what I read, where I was, and when.
+> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when. t
 
 ## Why did I read it?
 My wife has been speed-reading Emily Henry books in the last few weeks and she let me steal this one. I get it - these books are a blast and they play with some tropes of the genre while still being flirty. Helps that our first date was in a book store and that I adore rom-coms.
 
-## Book Details
+## What is it?
 |Category|Value|
 |---|---|
 |Title|*Book Lovers*|
@@ -38,7 +38,7 @@ My wife has been speed-reading Emily Henry books in the last few weeks and she l
 
 ![Book Lovers](./media/book-lovers.png)
 
-## Reading Details
+## How did I read it?
 |Category|Value|
 |---|---|
 |Date Started|March 14, 2023|
