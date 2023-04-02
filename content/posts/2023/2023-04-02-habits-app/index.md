@@ -1,6 +1,6 @@
 ---
 title: "📱🪥 Habits and the App in 2023 Q1"
-date: "2023-0302"
+date: "2023-04-02"
 template: "post"
 draft: false
 slug: "/posts/2023/habits-q1"
@@ -8,13 +8,13 @@ category: "habits"
 tags:
   - "productivity"
   - "habits"
-description: "Rapidly deploy a positive security DNS filtering model in an emergency"
+description: "Travel is the habit killer."
 socialImage: "./media/water.png"
 ---
 
 I am consistent and organized - not always good things. I can sometimes back myself into a rigid corner or miss opportunities to be spontaneous. Those issues aside, once I decide I want to keep doing something, I am pretty good at doing it.
 
-I seem to have stalled out, though. I'm not sure what solidifies a habit, at least for me, but I have gotten worse at adding new ones since the pandemic. This is not an *Atomic Habits* blog post, but I did set out this year to find some artificial help in getting back on track adding good habits.
+I seem to have stalled out, though. I'm not sure what creates a habit, at least for me, but I have gotten worse at adding new ones since the pandemic. This is not an *Atomic Habits* blog post, but I did set out this year to find some artificial help in getting back on track adding good habits.
 
 I found the **Streaks** [app](https://streaksapp.com), which I like a lot so far, and sketched out a few areas where I, an increasingly old dog, want to learn new tricks.
 
@@ -59,7 +59,7 @@ She also knows that every older, male member of my family has a chunk of his nos
 
 I started this later in the quarter and hit a 71.4% completion rate with a top streak of 4.
 
-![Sunscreen](./media/sunscreen.png)
+![Sunscreen](./media/sunscreen.PNG)
 
 #### What stopped me from hitting 100%?
 
@@ -80,7 +80,7 @@ I also sometimes did that pandemic meme thing of hitting a point in the evening 
 
 Pretty solid 91.4% with a best streak of 17.
 
-![Water](./media/water.png)
+![Water](./media/water.PNG)
 
 #### What stopped me from hitting 100%?
 
@@ -98,7 +98,7 @@ I really enjoy writing for personal reasons and think about it like a muscle tha
 
 Well, I need more exercise because I clocked in at 12.9%.
 
-![Writing](./media/writing.png)
+![Writing](./media/writing.PNG)
 
 #### What stopped me from hitting 100%?
 
@@ -116,7 +116,7 @@ I live in Portugal. I have lived in Portugal for nearly four years. My wife spea
 
 34.1% but this was driven by religious adherence early in the quarter. I got very lazy as the quarter went on and fell into a bad habit of only practicing during my weekly lessons with my tutor, who is disappointed in me.
 
-![Portuguese](./media/portuguese.png)
+![Portuguese](./media/portuguese.PNG)
 
 #### What stopped me from hitting 100%?
 
@@ -135,7 +135,7 @@ I waste at least 30 minutes each evening when I should be sleeping and instead s
 
 I also started this later in the quarter and since then I've been pretty consistent on weekdays at 84.6%.
 
-![Phone](./media/phone.png)
+![Phone](./media/phone.PNG)
 
 #### What stopped me from hitting 100%?
 
@@ -153,7 +153,7 @@ Mostly to just see if I can. I already work out pretty conistently; I run 4 mile
 
 100% with a current streak of 77.
 
-![push-up](./media/push-up.png)
+![push-up](./media/push-up.PNG)
 
 #### What stopped me from hitting 100%?
 
