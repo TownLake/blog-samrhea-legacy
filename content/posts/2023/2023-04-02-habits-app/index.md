@@ -12,7 +12,7 @@ description: "Travel is the habit killer."
 socialImage: "./media/water.png"
 ---
 
-I am consistent and organized - not always good things. I can sometimes back myself into a rigid corner or miss opportunities to be spontaneous. Those issues aside, once I decide I want to keep doing something, I am pretty good at doing it.
+I am [consistent](https://blog.samrhea.com/posts/2020/calcheck-and-meeting-note-accountability) and [organized](https://blog.samrhea.com/posts/2019/euro-office-time) - not always good things. I can sometimes back myself into a rigid corner or miss opportunities to be spontaneous. Those issues aside, once I decide I want to keep doing something, I am pretty good at doing it.
 
 I seem to have stalled out, though. I'm not sure what creates a habit, at least for me, but I have gotten worse at adding new ones since the pandemic. This is not an *Atomic Habits* blog post, but I did set out this year to find some artificial help in getting back on track adding good habits.
 
@@ -20,12 +20,12 @@ I found the **Streaks** [app](https://streaksapp.com), which I like a lot so far
 
 |Habit|Q1|Q2|Q3|Q4|2023|
 |---|---|---|---|---|---|
-|🌱 Sunscreen|71%||||71%|
-|🌱 Water|91%||||91%|
-|🌱 Writing|13%||||13%|
-|🌱 Portuguese|34%||||34%|
-|🌱 No Phone in Bed|85%||||85%|
-|🌱 Push Ups|100%||||100%|
+|🌱 🧴 Sunscreen|71%||||71%|
+|🌱 🚰 Water|91%||||91%|
+|🌱 ✍️ Writing|13%||||13%|
+|🌱 🇵🇹 Portuguese|34%||||34%|
+|🌱 📵 No Phone in Bed|85%||||85%|
+|🌱 💪 Push Ups|100%||||100%|
 
 🌱 denotes a new habit.
 
@@ -43,7 +43,7 @@ One important note - these are habits that I want to develop, not ones that alre
 
 ## New Habits
 
-### Sunscreen
+### 🧴 Sunscreen
 
 Apply sunscreen to my face and neck each day.
 
@@ -59,14 +59,19 @@ She also knows that every older, male member of my family has a chunk of his nos
 
 I started this later in the quarter and hit a 71.4% completion rate with a top streak of 4.
 
+<details>
+  <summary>See chart</summary>
+
 ![Sunscreen](./media/sunscreen.PNG)
+
+</details>
 
 #### What stopped me from hitting 100%?
 
 * Oversleeping - I'll be late starting my day and rush out the door without this step.
 * Poor calendar planning - I'll work out in the morning and not bother to apply sunscreen and then skip this if I figure that I'll just be inside working for most of the rest of the day.
 
-### Drinking Water
+### 🚰 Drinking Water
 
 Drink 2.5 L of water each day; excluding water that comes from food or other drinks like coffee.
 
@@ -80,13 +85,18 @@ I also sometimes did that pandemic meme thing of hitting a point in the evening 
 
 Pretty solid 91.4% with a best streak of 17.
 
+<details>
+  <summary>See chart</summary>
+  
 ![Water](./media/water.PNG)
+
+</details>
 
 #### What stopped me from hitting 100%?
 
 * Travel - I spent three weeks on different continents in Q1 and would not catch up.
 
-### Writing
+### ✍️ Writing
 
 Write for 20 minutes each day excluding writing I do for work.
 
@@ -98,13 +108,18 @@ I really enjoy writing for personal reasons and think about it like a muscle tha
 
 Well, I need more exercise because I clocked in at 12.9%.
 
+<details>
+  <summary>See chart</summary>
+
 ![Writing](./media/writing.PNG)
+
+</details>
 
 #### What stopped me from hitting 100%?
 
 * Laziness - this is the easiest thing to cut because I'll start to get busy with work or chores or physical exercise.
 
-## Practice Portuguese
+### 🇵🇹 Practice Portuguese
 
 Spend 30 minutes each day practicing Portuguese.
 
@@ -116,14 +131,19 @@ I live in Portugal. I have lived in Portugal for nearly four years. My wife spea
 
 34.1% but this was driven by religious adherence early in the quarter. I got very lazy as the quarter went on and fell into a bad habit of only practicing during my weekly lessons with my tutor, who is disappointed in me.
 
+<details>
+  <summary>See chart</summary>
+  
 ![Portuguese](./media/portuguese.PNG)
+
+</details>
 
 #### What stopped me from hitting 100%?
 
 * Travel - again, being in the US, Singapore, and Australia in Q1 really destroyed my motivation to keep this up.
 * Laziness - similar to writing, this would be one of the first things that I'd chuck overboard when days would get busy.
 
-### No Phone in Bed
+### 📵 No Phone in Bed
 
 Go to bed without a device that contains the sum total of human knowledge in my hand as I fall asleep on it.
 
@@ -135,13 +155,18 @@ I waste at least 30 minutes each evening when I should be sleeping and instead s
 
 I also started this later in the quarter and since then I've been pretty consistent on weekdays at 84.6%.
 
+<details>
+  <summary>See chart</summary>
+
 ![Phone](./media/phone.PNG)
+
+</details>
 
 #### What stopped me from hitting 100%?
 
 * Weekends - I tend to really drop off (and you can see this in the chart) on the weekend when I am less concerned about waking up early in the morning.
 
-### 100 Push Ups
+### 💪 100 Push Ups
 
 Knock out 100 push ups each day.
 
@@ -153,7 +178,12 @@ Mostly to just see if I can. I already work out pretty conistently; I run 4 mile
 
 100% with a current streak of 77.
 
+<details>
+  <summary>See chart</summary>
+
 ![push-up](./media/push-up.PNG)
+
+</details>
 
 #### What stopped me from hitting 100%?
 
