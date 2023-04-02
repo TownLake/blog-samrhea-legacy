@@ -53,7 +53,7 @@ Do you remember glow-in-the-dark toys? I am whiter than those. The new brightnes
 
 I do my best to avoid the sun at all cost, but that robs me of many of the joys of [living in Portugal](https://blog.samrhea.com/tag/portugal). My wife, who has southern Mediterranean roots, bronzes and wants me to join her at the beach or on an *esplanade* from time-to-time.
 
-She also knows that every older, male member of my family has a chunk of his nose removed at some point in time due to skin cancer risk and I am likely doomed to that fate if I do not take better care of myself. This is my compromise habit.
+She also knows that every older, male member of my family has a chunk of his nose removed at some point due to skin cancer and I am likely doomed to that fate if I do not take better care of myself. This is my compromise habit.
 
 #### How did I do?
 
