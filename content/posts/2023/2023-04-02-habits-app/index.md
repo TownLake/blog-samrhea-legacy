@@ -20,14 +20,14 @@ I found the **Streaks** [app](https://streaksapp.com), which I like a lot so far
 
 |Habit|Q1|Q2|Q3|Q4|2023|
 |---|---|---|---|---|---|
-|🌱 🧴 Sunscreen|71%||||71%|
-|🌱 🚰 Water|91%||||91%|
-|🌱 ✍️ Writing|13%||||13%|
-|🌱 🇵🇹 Portuguese|34%||||34%|
-|🌱 📵 No Phone in Bed|85%||||85%|
-|🌱 💪 Push Ups|100%||||100%|
+|🌱 🧴 Sunscreen|71%|⚪|⚪|⚪|71%|
+|🌱 🚰 Water|91%|⚪|⚪|⚪|91%|
+|🌱 ✍️ Writing|13%|⚪|⚪|⚪|13%|
+|🌱 🇵🇹 Portuguese|34%|⚪|⚪|⚪|34%|
+|🌱 📵 No Phone in Bed|85%|⚪|⚪|⚪|85%|
+|🌱 💪 Push Ups|100%|⚪|⚪|⚪|100%|
 
-🌱 denotes a new habit.
+*🌱 denotes a new habit.*
 
 ## Why do this?
 
