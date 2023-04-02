@@ -1,5 +1,5 @@
 ---
-title: "📱🪥 Habits and the App in 2023 Q1"
+title: "📱🪥 Habits in 2023 Q1"
 date: "2023-04-02"
 template: "post"
 draft: false
