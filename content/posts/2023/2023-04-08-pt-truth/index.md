@@ -29,6 +29,8 @@ My wife and I are spending the Easter long weekend in Alentejo, the Texas of Por
 
 We decided to rent a house on one of these farms about one mile outside of a town called Arcos. Arcos has a population of 1,016. I met many of them this morning.
 
+![Portugal Chat](./media/dogs.PNG)
+
 Arcos sits outside of Estremoz, which sits outside of Évora, the largest city in the region. Villages in Portugal differ from small towns in Texas - they are as densely populated as downtown Austin. You drive across rural fields and suddenly a micro urban core appears.
 
 Nearly all of the 1,000 citizens of Arcos live in a space a bit smaller than the University of Texas intramural fields. The village radiates from a central square with a church. About two hundred homes cluster together across four or five mostly square blocks. The town even built their own version of the High Line! They converted an alley between two blocks into a narrow pedestrian park complete with a playground and sitting areas. The residents of Arcos live in one of the smallest towns in Europe and enjoy more walkability than any American outside of New York.
@@ -43,7 +45,7 @@ However, I know the script. I ordered in European Portuguese and every person in
 
 The taller of the two Alentejan customers, a man who was over six-feet and probably weighed 140 pounds and would look at home in West Texas, could not stop gawking. After ordering, I went to sit outside.
 
-![Sitting Outside](./media/seat.png)
+![Sitting Outside](./media/seat.PNG)
 
 They followed me. All of them. The owner stood at the door, the shorter Alentejan sat at my table, and the tall fella took a chair at a table across from mine and angled it towards me. They had so many questions. All variations of “how the hell do you speak our language and what brings you here?” Feeling vaguely accosted, I told them the truth. The whole truth.
 
