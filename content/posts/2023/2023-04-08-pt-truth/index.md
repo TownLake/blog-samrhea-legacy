@@ -8,7 +8,7 @@ category: "Portugal"
 tags:
   - "Portugal"
 description: "Briefly becoming the main attraction in the Alentejan village of Arcos."
-socialImage: "./media/github-shortcut-options.PNG"
+socialImage: "./media/seat.png"
 ---
 
 I lie about my Portuguese proficiency depending on my audience. Whenever I visit the United States, I demure. Friends or family or strangers will ask me “how is your Portuguese?” and I will feign incompetence. I sheepishly tell them that my grasp of the language is terrible. I do this because I want to shock them when they visit. I do this because the only thing better than sex is surprising someone else with your ability to speak a foreign language.
@@ -29,7 +29,7 @@ My wife and I are spending the Easter long weekend in Alentejo, the Texas of Por
 
 We decided to rent a house on one of these farms about one mile outside of a town called Arcos. Arcos has a population of 1,016. I met many of them this morning.
 
-![Portugal Chat](./media/dogs.PNG)
+![Portugal Chat](./media/dogs.png)
 
 Arcos sits outside of Estremoz, which sits outside of Évora, the largest city in the region. Villages in Portugal differ from small towns in Texas - they are as densely populated as downtown Austin. You drive across rural fields and suddenly a micro urban core appears.
 
@@ -45,7 +45,7 @@ However, I know the script. I ordered in European Portuguese and every person in
 
 The taller of the two Alentejan customers, a man who was over six-feet and probably weighed 140 pounds and would look at home in West Texas, could not stop gawking. After ordering, I went to sit outside.
 
-![Sitting Outside](./media/seat.PNG)
+![Sitting Outside](./media/seat.png)
 
 They followed me. All of them. The owner stood at the door, the shorter Alentejan sat at my table, and the tall fella took a chair at a table across from mine and angled it towards me. They had so many questions. All variations of “how the hell do you speak our language and what brings you here?” Feeling vaguely accosted, I told them the truth. The whole truth.
 
