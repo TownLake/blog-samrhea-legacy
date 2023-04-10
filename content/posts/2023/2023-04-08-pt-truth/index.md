@@ -21,7 +21,9 @@ I lie in a different direction to Portuguese strangers. I have almost lived here
 
 When I go to the rest of Portugal, I mostly do so because I am an immigrant and the immigration authorities have shorter wait times outside of major cities. When I applied for permanent residency, I did so in Portalegre. When I renewed my residency, they sent me to Aveiro.
 
-During the Aveiro trip I went to get a coffee while we waited for my summons. I ordered in Portuguese and chatted with the shop owner a bit who, impressed, asked me how long I have lived here. The true answer was two years. I said six months. My mental math decided that I spoke enough Portuguese to be impressive after six months but embarrassing after two years.
+During the Aveiro trip I went to get a coffee while we waited for my summons. This is when I tend to get in trouble - when I am alone. My wife is also an American who has lived here for exactly 3 days fewer than me. Unlike me, she speaks works in a Portuguese office and speaks Portuguese in a professional context for a good chunk of her day. When I am with her, I hide behind her. In Aveiro, I had wondered off.
+
+I ordered in Portuguese and chatted with the shop owner a bit who, impressed, asked me how long I have lived here. The true answer was two years. I said six months. My mental math decided that I spoke enough Portuguese to be impressive after six months but embarrassing after two years.
 
 This is dumb and today I told the truth to a small crowd of strangers in the interior of Portugal for the first time.
 
