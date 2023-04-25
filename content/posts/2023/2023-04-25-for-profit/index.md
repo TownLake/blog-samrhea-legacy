@@ -8,7 +8,7 @@ category: "reading"
 tags:
   - "reading"
   - "books"
-description: "Goods as advertised.
+description: "Goods as advertised."
 socialImage: "./media/for-profit.png"
 book: "For Profit"
 Author: "William Magnuson"
