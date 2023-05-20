@@ -41,7 +41,7 @@ I have also been walking my dogs a lot more lately while we replant our grass an
 |Category|Value|
 |---|---|
 |**Title**|*Thrawn*|
-|**Author**|William Magnuson|
+|**Author**|Timothy Zahn|
 |**Narrator**|Marc Thompson|
 |**Year Published**|2017|
 |**Format**|Audiobook (Apple Books)|
