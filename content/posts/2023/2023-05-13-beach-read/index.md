@@ -36,7 +36,7 @@ At my wife's suggestion, I read the Emily Henry novel *Book Lovers* [last month]
 |**Pages**|368|
 |**ISBN**|978-0-241-98952-4|
 
-![Beach Read](./media/beach-read.PNG)
+![Beach Read](./media/beach-read.png)
 
 ## How did I read it?
 |Category|Value|
