@@ -125,6 +125,14 @@ We ship quickly at Cloudflare. When we do, Product Managers write [painfully det
 
 <main class="grid">
    <article>
+     <p align="center"><img src="./media/ai-security.png" height="100"></p>
+       <h3>Zero Trust security for AI tools</h3>
+       <p><b><center>2023</center></b></p>
+       <p>Let your team use AI safely.</p>
+       <p><a href="https://blog.cloudflare.com/zero-trust-ai-security/">Learn more</a> ></p>
+     </div>
+   </article>
+   <article>
     <p align="center"><img src="./media/cio.png" height="100"></p>
     <div class="text">
       <h3>Why do CIOs choose Cloudflare One?</h3>
