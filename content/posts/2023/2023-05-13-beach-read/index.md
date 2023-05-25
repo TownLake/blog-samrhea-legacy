@@ -14,7 +14,7 @@ book: "Beach Read"
 Author: "Emily Henry"
 Year Published: "2017"
 Format: "Paperback"
-Pages:
+Pages: 368
 ISBN: "978-0-241-98952-4"
 DateStart: "April 24, 2023"
 DateFinish: "May 13, 2023"
@@ -33,7 +33,7 @@ At my wife's suggestion, I read the Emily Henry novel *Book Lovers* [last month]
 |**Author**|Emily Henry|
 |**Year Published**|2017|
 |**Format**|Paperback|
-|**Pages**||
+|**Pages**|368|
 |**ISBN**|978-0-241-98952-4|
 
 ![Beach Read](./media/beach-read.PNG)
