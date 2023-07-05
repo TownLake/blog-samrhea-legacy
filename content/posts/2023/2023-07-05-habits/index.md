@@ -23,25 +23,20 @@ I found the **Streaks** [app](https://streaksapp.com), which I like a lot so far
 |Habit|J|F|M|A|M|J|J|A|S|O|N|D|2023|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |💪 Push Ups|🥇|🥇|🥇|🥇|🥇|🟩|⬜|⬜|⬜|⬜|⬜|⬜|97%|
+|🚰 Water|⬜|🥇|🟩|🟩|🥇|🥇|⬜|⬜|⬜|⬜|⬜|⬜|96%|
+|☀️ Sunscreen|⬜|⬜|🟥|🟨|🟧|🟥|⬜|⬜|⬜|⬜|⬜|⬜|10%|
+|📵 No Phone in Bed|⬜|⬜|🟩|🟥|🟥|🟥|⬜|⬜|⬜|⬜|⬜|⬜|43%|
 |🇵🇹 Portuguese|🟨|🟥|🟥|🟥|🟧|🟥|⬜|⬜|⬜|⬜|⬜|⬜|39%|
-
+|✍️ Writing|⬜|🟥|🟥|🟥|🟥|🟥|⬜|⬜|⬜|⬜|⬜|⬜|10%|
 
 |Symbol|Range|
 |---|---|
-|🟥|Less than 70%|
-|🟧|>= 70%, < 80%|
-|🟨|>= 80%, < 90%|
-|🟩|>= 90%|
 |🥇|100%|
-
-|Habit|Q1|Q2|Q3|Q4|2023|
-|---|---|---|---|---|---|
-|🌱 ☀️ Sunscreen|71%|⬜|⬜|⬜|71%|
-|🌱 🚰 Water|91%|⬜|⬜|⬜|91%|
-|🌱 ✍️ Writing|13%|⬜|⬜|⬜|13%|
-|🌱 🇵🇹 Portuguese|34%|⬜|⬜|⬜|34%|
-|🌱 📵 No Phone in Bed|85%|⬜|⬜|⬜|85%|
-|🌱 💪 Push Ups|100%|⬜|⬜|⬜|100%|
+|🟩|>= 90%|
+|🟨|>= 80%, < 90%|
+|🟧|>= 70%, < 80%|
+|🟥|Less than 70%|
+|⬜|Future or was not a goal at the time|
 
 *🌱 denotes a new habit.*
 
@@ -55,9 +50,15 @@ One important note - these are habits that I want to develop, not ones that alre
 
 ## What did I learn this round?
 
-* Travel is the habit killer. Like nutrition or sleep, habits are so easy to ignore and break when you are jet lagged or busy in a new environment.
+* Travel is still the habit killer. Like nutrition or sleep, habits are so easy to ignore and break when you are jet lagged or busy in a new environment.
+* The habits where I need to create something (writing) or learn something (Portuguese) are the most difficult to keep consistent.
+* That maxim is true - if you miss two days in a road, you're toast. That happened to me with push ups after I skipped a day due to procrastination and then forgetting to do it. Once I missed one day, it became way easier to miss another day when I was at something like a 12 day streak.
 
 ## New Habits
+
+Nothing added since the last post.
+
+## Existing Habits
 
 ### ☀️ Sunscreen
 
@@ -71,21 +72,11 @@ I do my best to avoid the sun at all cost, but that robs me of many of the joys 
 
 She also knows that every older, male member of my family has a chunk of his nose removed at some point due to skin cancer and I am likely doomed to that fate if I do not take better care of myself. This is my compromise habit.
 
-#### How did I do?
-
-I started this later in the quarter and hit a 71.4% completion rate with a top streak of 4.
-
-<details>
-  <summary>See chart</summary>
-
-![Sunscreen](./media/sunscreen.PNG)
-
-</details>
-
 #### What stopped me from hitting 100%?
 
 * Oversleeping - I'll be late starting my day and rush out the door without this step.
 * Poor calendar planning - I'll work out in the morning and not bother to apply sunscreen and then skip this if I figure that I'll just be inside working for most of the rest of the day.
+* Carcinogens? - I promise I am not a conspiracy theorist, I have all my vaccines etc, but the goofy bubble of tech-bro-podcasts that I live in started to caution against sunscreens that do not use zinc oxide and so I paused for a few days while I found one.
 
 ### 🚰 Drinking Water
 
@@ -97,20 +88,9 @@ Portugal is warm! And we're outside a lot! Not only that, but water in restauran
 
 I also sometimes did that pandemic meme thing of hitting a point in the evening where wine met coffee in my stomach and asked "hey, have you seen water?"
 
-#### How did I do?
-
-Pretty solid 91.4% with a best streak of 17.
-
-<details>
-  <summary>See chart</summary>
-  
-![Water](./media/water.PNG)
-
-</details>
-
 #### What stopped me from hitting 100%?
 
-* Travel - I spent three weeks on different continents in Q1 and would not catch up.
+* I made this a priority and it worked out.
 
 ### ✍️ Writing
 
@@ -119,17 +99,6 @@ Write for 20 minutes each day excluding writing I do for work.
 #### Why?
 
 I really enjoy writing for personal reasons and think about it like a muscle that needs exercise.
-
-#### How did I do?
-
-Well, I need more exercise because I clocked in at 12.9%.
-
-<details>
-  <summary>See chart</summary>
-
-![Writing](./media/writing.PNG)
-
-</details>
 
 #### What stopped me from hitting 100%?
 
@@ -143,20 +112,9 @@ Spend 30 minutes each day practicing Portuguese.
 
 I live in Portugal. I have lived in Portugal for nearly four years. My wife speaks Portuguese, works at a Portuguese company, and frequently works in Portuguese. Mine is dismal.
 
-#### How did I do?
-
-34.1% but this was driven by religious adherence early in the quarter. I got very lazy as the quarter went on and fell into a bad habit of only practicing during my weekly lessons with my tutor, who is disappointed in me.
-
-<details>
-  <summary>See chart</summary>
-  
-![Portuguese](./media/portuguese.PNG)
-
-</details>
-
 #### What stopped me from hitting 100%?
 
-* Travel - again, being in the US, Singapore, and Australia in Q1 really destroyed my motivation to keep this up.
+* Travel - like Q1, I spent a lot of time on the road and that always means I feel less motivated to keep pursuing Portuguese.
 * Laziness - similar to writing, this would be one of the first things that I'd chuck overboard when days would get busy.
 
 ### 📵 No Phone in Bed
@@ -166,17 +124,6 @@ Go to bed without a device that contains the sum total of human knowledge in my 
 #### Why?
 
 I waste at least 30 minutes each evening when I should be sleeping and instead scroll Marvel and Austin subreddits or the Twitter "For You" section.
-
-#### How did I do?
-
-I also started this later in the quarter and since then I've been pretty consistent on weekdays at 84.6%.
-
-<details>
-  <summary>See chart</summary>
-
-![Phone](./media/phone.PNG)
-
-</details>
 
 #### What stopped me from hitting 100%?
 
@@ -190,24 +137,9 @@ Knock out 100 push ups each day.
 
 Mostly to just see if I can. I already work out pretty conistently; I run 4 miles 3 times per week and lift weights another 3 days. I just like that this one forces me to start my day being active.
 
-#### How did I do?
-
-100% with a current streak of 77.
-
-<details>
-  <summary>See chart</summary>
-
-![push-up](./media/push-up.PNG)
-
-</details>
-
 #### What stopped me from hitting 100%?
 
-* Nothing - this seems to be the power of a streak; I go to great lengths to avoid breaking it like doing push ups in airport lounges on days when I'm traveling 20 hours to get to the US.
-
-## Existing Habits
-
-I'll move new habits from the section above to this section each round.
+* Later - this was my absolute best streak until I decided to postpone getting it done one day, forgot, and went to bed only to wake up realizing I had broken my streak. And then the act of breaking it once made it easier to skip a couple more times and suddenly it starts to fade. I need to make this a priority as soon as I wake up.
 
 ## Retired or Graduated Habits
 
