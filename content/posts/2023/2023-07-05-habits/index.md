@@ -29,6 +29,8 @@ I found the **Streaks** [app](https://streaksapp.com), which I like a lot so far
 |🇵🇹 Portuguese|🟨|🟥|🟥|🟥|🟧|🟥|⬜|⬜|⬜|⬜|⬜|⬜|39%|
 |✍️ Writing|⬜|🟥|🟥|🟥|🟥|🟥|⬜|⬜|⬜|⬜|⬜|⬜|10%|
 
+### Key
+
 |Symbol|Range|
 |---|---|
 |🥇|100%|
