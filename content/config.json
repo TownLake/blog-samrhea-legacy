@@ -17,10 +17,6 @@
       "path": "/pages/about"
     },
     {
-      "label": "Projects",
-      "path": "/pages/projects"
-    },
-    {
       "label": "Reading",
       "path": "https://blog.samrhea.com/category/reading"
     },
