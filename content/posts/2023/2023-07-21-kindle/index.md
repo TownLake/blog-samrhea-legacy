@@ -4,9 +4,9 @@ date: "2023-07-21"
 template: "post"
 draft: false
 slug: "/posts/2023/kindle"
-category: ""
+category: "Portugal"
 tags:
-  - ""
+  - "Portugal"
 description: "Or how I gave in and bought a Kindle."
 socialImage: ""
 ---
