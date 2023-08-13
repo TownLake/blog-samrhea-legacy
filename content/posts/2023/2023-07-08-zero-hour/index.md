@@ -11,7 +11,7 @@ tags:
 description: "The Tom Clancy Literary Universe."
 socialImage: "./media/zero-hour.png"
 book: "Tom Clancy Zero Hour"
-Author: "<>"
+Author: "Don Bentley"
 Year Published: "2022"
 Format: "Paperback"
 Pages: 481
