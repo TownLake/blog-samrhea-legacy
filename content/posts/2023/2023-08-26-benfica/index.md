@@ -1,5 +1,5 @@
 ---
-title: "🇵🇹🤝 Rúben Neves, I am Sorry"
+title: "🇵🇹⚽️ Rúben Neves, I am Sorry"
 date: "2023-08-26"
 template: "post"
 draft: false
