@@ -2,7 +2,7 @@
 title: "🇵🇹🤝 Rúben Neves, I am Sorry"
 date: "2023-08-26"
 template: "post"
-draft: true
+draft: false
 slug: "/posts/2023/benfica"
 category: "Portugal"
 tags:
