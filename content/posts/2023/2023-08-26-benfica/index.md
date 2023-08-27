@@ -32,7 +32,7 @@ I support the wrong football team, Sporting, by association. When I first moved 
 
 I first adopted Sporting by proximity, but I still don’t fully grasp why someone chooses Sporting or Benfica. Unlike New York baseball’s rivalry between the Bronx and Queens, the Lisbon stadiums are about 7 minutes apart. What makes someone pick one team or the other? The most consistent answer I can get centers around socioeconomic class. I am going to try to break it out as I understand it - I am sure I am getting part of, or even all, of this theory wrong.
 
-According to legend, Sporting collected more of Lisbon’s bourgeois in the 20th century - the “yuppie” class (the Portuguese word for a yuppie, more or less, is a beto). Benfica represented the working class in Lisbon and nearly everyone else outside of Lisbon or Porto. With most of the country’s wealth concentrated in Lisbon, Sporting’s fandom became a green dot in a red sea.
+According to legend, Sporting collected more of Lisbon’s bourgeois in the 20th century - the “yuppie” class (the Portuguese word for a yuppie, more or less, is a beto). Benfica represented the working class in Lisbon and nearly everyone else outside of Lisbon or Porto. Sporting’s fandom became a green dot in a red sea.
 
 If you live in a major European city, or a select few in the US, you can find some evidence of this theory if you search for a *Casa do Benfica* on a map. For much of the second half of the 20th Century, hundreds of thousands of Portuguese left Portugal to work as lower cost labor in richer countries like Switzerland and France. As members of the working class in the 20th century, these economic migrants predominantly supported Benfica.
 
