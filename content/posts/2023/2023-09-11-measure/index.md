@@ -8,11 +8,11 @@ category: "reading"
 tags:
   - "reading"
   - "books"
-description: "<>."
+description: "Revisiting objectives and key results."
 socialImage:
 book: "Measure What Matters"
 Author: "John Doerr"
-Year Published: "2018"
+Year Published: "2017"
 Format: "Kindle"
 Pages: 320
 ISBN: "0525536221"
@@ -24,18 +24,18 @@ DateFinish: "September 11, 2023"
 > I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
 
 ## Why did I read it?
-Years ago, I spent about five years working for various groups within Joe Liemandt's ESW Capital and Trilogy Software organization - a kind of private equity firm [obsessed](https://www.forbes.com/sites/nathanvardi/2021/04/27/inside-a-remote-work-billionaires-new-plan-to-turn-his-white-collar-workers-into-algorithms/) with making software companies more efficient. We sought inspiration from manufacturing and assembly lines for managing traditionally "services" work - something Andy Grove at Intel did as well. John Doerr, who was both inspired by and employed by Andry Grove, wrote *Measure What Matters*, to capture some of those ideas. Doerr's treatise on "objectives and key results" became required reading inside of the Trilogy-verse.
+Years ago, I spent about five years working for various groups within Joe Liemandt's ESW Capital and Trilogy Software organization - a kind of private equity firm [obsessed](https://www.forbes.com/sites/nathanvardi/2021/04/27/inside-a-remote-work-billionaires-new-plan-to-turn-his-white-collar-workers-into-algorithms/) with making software companies more efficient. We sought inspiration from manufacturing and assembly lines for managing traditionally "services" work - something Andy Grove at Intel thrived doing.
 
-We adopted it - down to the SaaS applications we tested that would manage OKRs (until we eventually built some of the functionality into our own productivity software). Like most things, Joe was right and ahead of his time to encourage us to read it.
+I first picked up Doerr's book, *Measure What Matters*, back then. His treatise on "objectives and key results" captured a focus we had at the time around measuring ourselves. We adopted the principles - down to the SaaS applications we deployed that would manage OKRs (until we eventually built some of the functionality into our own productivity software).
 
-I'm headed back to Austin this week for 2024 Cloudflare planning. A new SVP suggested the crew read it prior to the meeting and I used it as a chance to revisit the book. What started as an 18 hour LIS->EWR->AUS agenda became a 24 hour nightmare of LIS->EWR->DEN->AUS, giving me a lot of time to somewhat leisurely reread the thing.
+I'm headed back to Austin this week for 2024 planning in my current role. An SVP suggested the crew read it prior to the meeting and I used it as a chance to revisit the book. What started as an 18 hour LIS->EWR->AUS agenda became a 24 hour nightmare of LIS->EWR->DEN->AUS, giving me a lot of time to somewhat leisurely reread the thing.
 
 ## What is it?
 |Category|Value|
 |---|---|
 |**Title**|*Measure What Matters*|
 |**Author**|John Doerr|
-|**Year Published**|2018|
+|**Year Published**|2017|
 |**Format**|Kindle|
 |**Pages**|320|
 |**ISBN**|0525536221|
