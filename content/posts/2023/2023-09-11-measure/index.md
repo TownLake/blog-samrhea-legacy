@@ -1,5 +1,5 @@
 ---
-title: "📚📊 *Measure What Matters" by John Doerr
+title: "📚📊 *Measure What Matters* by John Doerr"
 date: "2023-09-11"
 template: "post"
 draft: false
