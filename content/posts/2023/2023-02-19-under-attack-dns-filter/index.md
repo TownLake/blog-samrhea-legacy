@@ -91,7 +91,7 @@ Once saved, I'm going to disable the rule and rank it at the top of my list. Gat
 
 Like [last month's post](https://blog.samrhea.com/posts/2023/hey-siri-purge), I am going to use a GitHub workflow file to serve as the connector between Siri and the Cloudflare control plane.
 
-First, I'll create a new API token using [the same steps](https://blog.samrhea.com/posts/2022/hey-siri-purge#create-workflow-file) documented in the previous tutorial. I'll also generate a new workflow file that updates this specific Cloudflare Gateway rule to be enabled.
+First, I'll create a new API token using [the same steps](https://blog.samrhea.com/posts/2023/hey-siri-purge#create-workflow-file) documented in the previous tutorial. I'll also generate a new workflow file that updates this specific Cloudflare Gateway rule to be enabled.
 
 ![Workflow File](./media/workflow-file.png)
 
