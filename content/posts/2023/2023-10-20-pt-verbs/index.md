@@ -51,7 +51,7 @@ Even the five year olds! After a Sporting player missed a fairly open goal kick 
 
 Desperate to keep my wife entertained and to avoid having to talk to fellow Americans, I reached for the one verb I learned from attending football matches with my friends. I looked her dead in the eyes and proudly inquired:
 
-*Queres fuder agora?*
+*Queres foder agora?*
 
 “Do you want to fuck right now?”
 

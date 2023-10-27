@@ -41,7 +41,7 @@ If you ever hear me say “could you repeat that?” then I did not hear the que
 
 I understand the proposition. We are about to do something and we need to confirm that everyone is on the same page. I just think we’re solving the wrong problem. Our need to talk through a future event stems from either the lack of written materials about that event or, if those exist, the failure of others to read through them.
 
-## 40% - I am presenting something
+## 40% - I am presenting something routine
 
 This feels counterintuitive. I’m presenting! However, I run into a trap of knowing my script too well and instead my mind wanders as I yammer. This only happens when I’m asked to be the slideware emcee and to stick to a script. When I can share a real demo or have a conversation, I am 100% engaged.
 
