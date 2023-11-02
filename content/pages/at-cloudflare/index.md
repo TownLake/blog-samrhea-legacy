@@ -4,9 +4,9 @@ template: "page"
 socialImage: "../../sam-task.jpeg"
 ---
 
-I am the VP of Product at Cloudflare for our [Zero Trust group](https://www.cloudflare.com/products/zero-trust/), which is one half of our Secure Access Service Edge ([SASE](https://blogs.gartner.com/andrew-lerner/2019/12/23/say-hello-sase-secure-access-service-edge/)) solution, something that we call [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/).
+I am the VP of Product at Cloudflare for our [Zero Trust group](https://www.cloudflare.com/products/zero-trust/), which represents the security use cases of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/).
 
-I have spent the last 5+ years at Cloudflare helping solve the security problems that plague organizations large and small. I launched the first piece of this puzzle in 2018 with our [access control product](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) and I have shipped alongside some of the most wonderful people in the industry as the solution evolved into the [only new vendor named](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/) in the Gartner® Magic Quadrant™ for Security Service Edge in 2023. And we're only going to build faster from here because there are still so many problems to solve.
+I have spent the last 5+ years at Cloudflare helping solve the security problems that plague organizations [large](https://blog.cloudflare.com/helping-keep-governments-safe-and-secure/) and [small](https://www.cloudflare.com/plans/zero-trust-services/). I [launched](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) the first piece of this puzzle in 2018 with our access control product and I have shipped alongside some of the most wonderful people in the industry as the solution evolved into the [only new vendor named](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/) in the Gartner® Magic Quadrant™ for Security Service Edge in 2023. We're only going to build faster from here because there are still so many problems to solve.
 
 The products in my group include:
 * [Cloudflare Access](https://www.cloudflare.com/products/zero-trust/access/), our Zero Trust access control solution.
@@ -21,7 +21,7 @@ The products in my group include:
 
 I spend every day working with curious, empathetic product managers and product directors in my group who obsess over how we can use Cloudflare's network to solve security problems for teams of any size.
 
-Back in the day, I was a Product Manager for most of the products above or the Director of Product when Product Managers much smarter than me built those tools. I consider myself terribly lucky to have worked with brilliant teammates to watch these prototypes and moon shot ideas evolve into Cloudflare's next act. I could not be more excited to see what we can solve for our Cloudflare Zero Trust customers as we ship even faster.
+Back in the day, I was a Product Manager for most of the products above or the Director of Product when Product Managers  smarter than me built those tools. I consider myself terribly lucky to have worked with brilliant teammates to watch these prototypes and moon shot ideas evolve into Cloudflare's next act. I could not be more excited to see what we can solve next for our customers.
 
 I also [launched our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/) years ago and miss the bizarre dance of domain registration. I'm sorry -- I do not know when we will support the `.horse` TLD.
 
