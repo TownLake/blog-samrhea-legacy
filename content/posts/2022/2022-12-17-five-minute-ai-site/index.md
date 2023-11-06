@@ -9,6 +9,7 @@ tags:
   - "walkthrough"
   - "Workers"
   - "Cloudflare"
+  - "AI"
 description: "Building a Lisbon recommendation webpage without doing any real work."
 socialImage: "./media/ai-longhorn.png"
 ---

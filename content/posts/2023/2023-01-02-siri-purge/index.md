@@ -10,6 +10,7 @@ tags:
   - "Workers"
   - "productivity"
   - "Cloudflare"
+  - "AI"
 description: "Purge the Cloudflare cache of your site with iOS Shortcuts"
 socialImage: "./media/github-shortcut-options.PNG"
 ---

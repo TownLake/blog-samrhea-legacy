@@ -10,7 +10,7 @@ tags:
   - "books"
 description: "John Ryan Book 12 - cybersecurity is real security."
 socialImage:
-book: "Tom Clancy Threat Vectory"
+book: "Tom Clancy Threat Vector"
 Author: "Tom Clancy and Mark Greaney"
 Year Published: "2012"
 Format: "Kindle"
@@ -29,7 +29,7 @@ I picked up a Tom Clancy book in the Stockholm Central train station a couple mo
 ## What is it?
 |Category|Value|
 |---|---|
-|**Title**|*Tom Clancy Threat Vectory*|
+|**Title**|*Tom Clancy Threat Vector*|
 |**Author**|Tom Clancy and Mark Greaney|
 |**Year Published**|2012|
 |**Format**|Kindle|

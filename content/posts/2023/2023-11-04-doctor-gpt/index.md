@@ -7,6 +7,7 @@ slug: "/posts/2023/doctor-gpt"
 category: "walkthrough"
 tags:
   - "walkthrough"
+  - "AI"
 description: "So, should I skip my annual check up?"
 socialImage: ""
 ---
