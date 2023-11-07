@@ -14,17 +14,17 @@ socialImage: ""
 
 You aren't supposed to do this. My wife does not want me to do this and insists that I still visit my doctor. My wife's father is a physician and has opinions about this (see below). ChatGPT repeatedly warned me not to do this. This blog walks through how I did it.
 
-A few weeks ago I visited my hospital here in Portugal for my annual physical. In my case, that consists of a blood work panel, a chest x-ray, and a cardio stress test. I received my results last week while walking to a meeting in Lisbon. The genuinely great app from the hospital system shared five pages of exam observations and data in medical European Portuguese. I speak conversational Portuguese but most dinner parties do not discuss gamma-glutamyl transferase.
+A few weeks ago I visited my hospital here in Portugal for my annual physical. In my case, that consists of a blood work panel, a chest x-ray, and a cardio stress test. I received my results last week while walking to a meeting in Lisbon. The genuinely great iOS app from the hospital system shared five pages of exam observations and data in medical European Portuguese. I speak conversational Portuguese but most dinner parties do not discuss gamma-glutamyl transferase.
 
 I also only had my phone on me - translating this word-by-word would be tough. So I took five screenshots of the results and shared them with OpenAI's ChatGPT and asked for a translation.
 
-First, this amazes me. I'm not just translating medical terms on my phone - I'm doing so by sharing a screenshot in a format that ChatGPT likely has never sen before. A piece of software is taking these images as inputs, reading them, thinking through what they mean, and printing out a near perfect translation.
+This amazes me. I'm not just translating medical terms on my phone - I'm doing so by sharing a screenshot in a format that ChatGPT likely has never seen before. A piece of software is taking these images as inputs, reading them, thinking through what they mean, and printing out a near perfect translation while attempting to keep some of the formatting intact.
 
-Second, I wanted to know a little more while I had more time on this walk. I typically schedule a follow up with my general practitioner to review the results each year. The meeting tends to be boring - I'm fortunate to be relatively healthy. However, I started by asking ChatGPT some questions that I would ask my doctor.
+I wanted to know a little more while I had more time on this walk. I typically schedule a follow up with my general practitioner to review the results each year. The meeting tends to be boring - I'm fortunate to be relatively healthy. However, I started by asking ChatGPT some questions that I would otherwise ask my doctor.
 
 ## A quick primer on my health
 
-I'm lucky - I'm pretty healthy. I am in my mid-thirties, I don't smoke, and I am able to maintain a healthy weight. I eat a relatively strict and balanced diet. I walk my dogs and my self all over Portugal most days. I work out six days a week. A few Sundays ago I rolled out of bed and ran the Lisbon Half Marathon in less than two hours after preparing for just a couple weeks.
+I'm lucky - I'm pretty healthy. I am in my mid-thirties, I don't smoke, and I am able to maintain a healthy weight. I eat a relatively strict and balanced diet. I walk my dogs all over Portugal most days. I work out six days a week. A few Sundays ago I rolled out of bed and ran the Lisbon Half Marathon in less than two hours after preparing for just a couple weeks.
 
 The foundation of this is a combination of chance and privilege. I was born without any serious health complications. I grew up in an environment where clean air, food, and water were abundant. I was rarely in physical danger. I combine those advantages with a commitment to diet and exercise. For now, I am fortunate.
 

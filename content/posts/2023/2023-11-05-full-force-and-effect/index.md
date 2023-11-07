@@ -51,5 +51,6 @@ I picked up a Tom Clancy book in the Stockholm Central train station a couple mo
 * More of John Clark's slow transition to grizzled source of wisdom and less of the action.
 * I'm fairly convinced that Jack Ryan Jr has no character development ever in the series. He exists as a pure audience cut-out.
 * This is also the point at which the divergence of Jack Ryan novels and Jack Ryan Jr. novels begins in earnest. This is Jack Ryan Book 14, but the next novel in the chronology is Jack Ryan Jr. Book 2, and at that point we begin a kind of tik-tok that alternates.
-* Also the first Tom Clancy Jack Ryan novel without Tom Clancy as a coauthor. He had passed away at this point and Mark Greaney, who previously cowrote many of the Jack Ryan novels with him, took over.
+* Also the first Tom Clancy Jack Ryan novel without Tom Clancy as a coauthor. He had passed away at this point and Mark Greaney, who previously co-wrote many of the Jack Ryan novels with him, took over.
 * I skipped Book 13, *Command Authority*, because I had read it in the last couple of years.
+* RIP Sam Driscoll. They had slowly washed away most of his unique personality after his first appearance when he joined the Campus a few books ago. I'll miss him though.
