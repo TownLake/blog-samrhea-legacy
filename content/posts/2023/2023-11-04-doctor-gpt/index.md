@@ -26,7 +26,7 @@ I wanted to know a little more while I had more time on this walk. I typically s
 
 I'm lucky - I'm pretty healthy. I am in my mid-thirties, I don't smoke, and I am able to maintain a healthy weight. I eat a relatively strict and balanced diet. I walk my dogs all over Portugal most days. I work out six days a week. A few Sundays ago I rolled out of bed and ran the Lisbon Half Marathon in less than two hours after preparing for just a couple weeks.
 
-The foundation of this is a combination of chance and privilege. I was born without any serious health complications. I grew up in an environment where clean air, food, and water were abundant. I was rarely in physical danger. I combine those advantages with a commitment to diet and exercise. For now, I am fortunate.
+The foundation of this is a combination of chance and privilege. I was born without any serious health complications. I grew up in an environment where clean air, food, and water were abundant. I was rarely in physical danger. I combine those advantages with a commitment to diet and exercise. I also have good health insurance. I am fortunate.
 
 _Of course this is part of what terrifies me about being alive. Someone can have that healthcare history and a blood clot could find them one morning. Or a neurological disease. Or they just fall backwards funny. Being a human is terrifying in its unpredictability. That's a discussion for another time._
 
@@ -48,7 +48,11 @@ So far, no surprises. ChatGPT has confirmed what I suspected when I scanned the 
 
 I am also interested in progress, or at least change. If all the values are normal, did some get more or less normal? My lifestyle in 2023 looks very similar to my lifestyle in 2022, but I have paid more attention to my diet. Most of my healthcare sins consist of traveling way too much. I have crossed the Atlantic about 30 times in 2022 and 2023. When I do so, I blow away [my routines](https://blog.samrhea.com/posts/2023/habits-q2). I sleep less, I eat poorly, I drink more, I even miss the gym on rare days.
 
+Turns out, that had minor impact.
+
 ## What did ChatGPT miss?
+
+* I was using ChatGPT 4 prior to their November 2023 updates from OpenAI Dev Day. The service, at that time, still struggled with some deterministic math. For example, they were cases where the chat would highlight that my values increased from 21 to 18.
 
 ## What would I really want?
 
@@ -58,3 +62,8 @@ Hospital Plugin
 
 ## What does a real doctor think?
 
+## So, what does this mean?
+
+We could make preventative healthcare even more efficient. I could give back one hour of physician time if a (trusted) LLM chat reads my results in the future and says, to some extent, "you are basically fine right now and do not need to have a conversation with a physician but you can if you want to."
+
+You can also imagine a world where companies like Apple become the gateway to our healthcare. The Apple Watch knows more about my health than anything I regularly use - if tools like continuous glucose monitoring are added.

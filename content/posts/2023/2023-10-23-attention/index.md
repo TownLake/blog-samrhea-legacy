@@ -11,19 +11,19 @@ description: "I am trying."
 socialImage:
 ---
 
-My professional goal [at work](https://blog.samrhea.com/pages/at-cloudflare) is to ship software that solves customer problems. My personal goal is to avoid meetings. I believe the two are related.
+My professional goal [at work](https://blog.samrhea.com/pages/at-cloudflare) is to ship software that solves customer problems. My personal goal is to avoid internal meetings. I believe the two are related.
 
 That’s not to say we should give up on teamwork! We can instead evolve to rely more on written communication that helps with time zones, learning styles, and retention of information. Give me a written summary of a problem statement any day over a meeting to talk about it.
 
-However, some meetings do create real value. I like these. This list is illustrative but not comprehensive:
-* Customer meetings and conversations with prospects
+However, some meetings do create real value. I like these meetings. This list is illustrative but not comprehensive:
+* Customer meetings and conversations with prospective customers
 * 1-1 check ins with team members
 * Live demos of a product or new feature where the goal is to gather feedback
 * A conversation to review a topic after everyone read and contributed to the materials distributed prior to the discussion
 
-Despite my best efforts, though, I still wind up finding myself in meetings that fail to pass the bullet-point test above. This happens because I am too polite. I struggle to say no to people.
+Despite my best efforts, though, I still wind up finding myself in meetings that fail to qualify in the bullet-point list above. This happens because I am too polite. I struggle to say no to people.
 
-I wish I had the courage to say “I understand why you want me in this fourteen-person meeting to prepare for the prep meeting ahead of that event. Writing down the context and decision options would be better but it is easier for you to set up this meeting. Still, even though I am virtually present, I will struggle to stay focused in this conversation and I am sorry about that.”
+I wish I had the courage to say “I understand that you want me in this fourteen-person meeting to prepare for the prep meeting ahead of that event. Writing down the context and decision options would be better but it is easier for you to set up this meeting. Still, even though I am virtually present, I will struggle to stay focused in this conversation and I am sorry about that.”
 
 I know this sounds rude. I am sorry. I lack the willpower to stay focused in meetings in that second category. I am writing down this guide so that you can gauge how focused I am for yourself. You are welcome to use it to call me out.
 
@@ -64,9 +64,9 @@ The downside to this format? I get real chatty. This is a great meeting setup if
 
 If I ever tell you this, then you are Jonathan Spies, the VP of Engineering for Cloudflare One and my single, continuous engineering partner for over five years. Jonathan is the only person with whom I have a level of trust and camaraderie enough to say “hey, let me call you right back - I have to go to the bathroom immediately because I have been trying to introduce more fiber into my diet and that has consequences at exactly 2:30PM each day.”
 
-When I return, I do not feel any shame - I only do this to Jonathan - but I do generally find myself to be more alert and focused.
+When I return, I do not feel any shame - I only do this to Jonathan - but I do generally find myself to be more alert and focused. And when I talk to Jonathan I am almost always completely engaged.
 
-This is also the highest compliment I can give someone because it means you have worked together with me daily for half of a decade and I trust you enough to be slightly vulnerable. I find being vulnerable so difficult that the most transparent I can be is to tell my closest colleague that I, a mortal, poop.
+This is also the highest compliment I can give someone because it means you have worked together with me daily for the better part of a decade and I trust you enough to be slightly vulnerable. I find being vulnerable so difficult that the most transparent I can be is to tell my closest colleague that I, a mortal, poop.
 
 ## 90% - Someone said something shocking
 
