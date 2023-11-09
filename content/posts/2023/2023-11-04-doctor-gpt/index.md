@@ -42,28 +42,36 @@ I also have not invested much time in learning medical terms in Portuguese. I kn
 
 ## Start with a summary
 
+The original report provides both normal reference ranges and values from my tests last year. Even if I didn't understand a single word of medical Portuguese I could scan through the results and find that almost nothing sits outside of the reference ranges; the one or two values that do measure higher or lower only do so by insignificant margins.
+
+With that foundation, I could ask ChatGPT to go ahead and summarize the results.
+
+![]()
+
 So far, no surprises. ChatGPT has confirmed what I suspected when I scanned the reference values - I am healthy and within a normal range.
 
 ## What changed?
 
 I am also interested in progress, or at least change. If all the values are normal, did some get more or less normal? My lifestyle in 2023 looks very similar to my lifestyle in 2022, but I have paid more attention to my diet. Most of my healthcare sins consist of traveling way too much. I have crossed the Atlantic about 30 times in 2022 and 2023. When I do so, I blow away [my routines](https://blog.samrhea.com/posts/2023/habits-q2). I sleep less, I eat poorly, I drink more, I even miss the gym on rare days.
 
-Turns out, that had minor impact.
+Turns out, paying more attention to my diet and running more had minor impact. I'm not sure if this is because most of my values last year were already solid for someone my age and there isn't much I could do to improve them. None of these are purely directional - you don't want to pursue infinitely higher LDL values. You probably want to sit in the middle of a bell curve on most of these.
 
 ## What did ChatGPT miss?
 
 * I was using ChatGPT 4 prior to their November 2023 updates from OpenAI Dev Day. The service, at that time, still struggled with some deterministic math. For example, they were cases where the chat would highlight that my values increased from 21 to 18.
 
+## What does a real doctor think?
+
+"These answers are both overly detailed and lacking all context" is the summary from my father-in-law who is a retired nephrologist (a physician that specializes in kidney diseases).
+
 ## What would I really want?
 
-Chart
-
-Hospital Plugin
-
-## What does a real doctor think?
+Where should this, and really all AI experiences, live? Should hospital applications rely on LLM APIs to bake this kind of functionality into their application?
 
 ## So, what does this mean?
 
-We could make preventative healthcare even more efficient. I could give back one hour of physician time if a (trusted) LLM chat reads my results in the future and says, to some extent, "you are basically fine right now and do not need to have a conversation with a physician but you can if you want to."
+We could probably make preventative healthcare more efficient. I could give back one hour of physician time if a (trusted) LLM service could read my results in the future and says, to some extent, "you are basically fine right now and do not need to have a conversation with a physician but you can if you want to." I feel somewhat comfortable using the off-the-shelf GPT4 here to confirm that but only because my values sit neatly within normal ranges and my results last year were fine.
+
+I'm not sure how eager I would be to trust this, yet, if something looked off.
 
 You can also imagine a world where companies like Apple become the gateway to our healthcare. The Apple Watch knows more about my health than anything I regularly use - if tools like continuous glucose monitoring are added.
