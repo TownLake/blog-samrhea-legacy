@@ -38,7 +38,7 @@ All that to say, a stupid experiment like this is relatively without consequence
 
 I have found the Portuguese healthcare system to be phenomenal. I am fortunate enough to have private insurance through my employer, but the experience in the private system exceeds what I found in the United States and the cost is lower. I also have not had any serious healthcare scares in my four years in Portugal. A few annual check ups, a broken hand, and some dry eyes represent the bulk of my visits. I have never needed to see the kind of specialist where the best in the world could only be found in a place like Houston.
 
-I also have not invested much time in learning medical terms in Portuguese. I know enough to describe or triage an emergency, but the pericardium is not high on my flash card list.
+I also have not invested much time in learning medical terms in Portuguese. I know enough to describe or triage an emergency, but the `pericardium` is not high on my flash card list.
 
 ## Start with a summary
 
@@ -56,22 +56,28 @@ I am also interested in progress, or at least change. If all the values are norm
 
 Turns out, paying more attention to my diet and running more had minor impact. I'm not sure if this is because most of my values last year were already solid for someone my age and there isn't much I could do to improve them. None of these are purely directional - you don't want to pursue infinitely higher LDL values. You probably want to sit in the middle of a bell curve on most of these.
 
+![]()
+
+I do think this is where the kind of ChatGPT interpretation can thrive - here are two data sets, nuanced in a particular subject area and written in a foreign language - go ahead and summarize the differences.
+
 ## What did ChatGPT miss?
 
 * I was using ChatGPT 4 prior to their November 2023 updates from OpenAI Dev Day. The service, at that time, still struggled with some deterministic math. For example, they were cases where the chat would highlight that my values increased from 21 to 18.
 
 ## What does a real doctor think?
 
-"These answers are both overly detailed and lacking all context" is the summary from my father-in-law who is a retired nephrologist (a physician that specializes in kidney diseases).
+"These answers are both overly detailed and lacking all context" is the summary from my father-in-law, a retired nephrologist (a physician that specializes in kidney diseases). He called out how it bogs down in minutiae while making recommendations "straight of of a Whole Foods ad" when asked for ideas about how to improve next year.
+
+He also hit me with a prompt that we give to junior Product Managers and I should have known better. He chided me by asking "what do you want form a doctor?" AI can read and interpret the labs, but a physician benefits from a lot more context and observation of you. That is true, but assumes that the physician has the time and energy to invest in that level of diagnosis and that I even have a physician.
 
 ## What would I really want?
 
-Where should this, and really all AI experiences, live? Should hospital applications rely on LLM APIs to bake this kind of functionality into their application?
+Where should this, and really all AI experiences, live? Should hospital applications rely on LLM APIs to bake this kind of functionality into their application? Or should tools like ChatGPT exist as a kind of "super app" that sits on top of data sources. Their move to launch "Create a GPT" seems to suggest that is a more and more viable option. I could see a hospital system wanting to avoid investing in building their own front-end experience on top of an LLM API and instead just letting it live in ChatGPT (like businesses that use WhatsApp for customer support). Alternatively, the data privacy and ownership of the customer relationship suggests they won't and that some vendor will emerge who provides you with a generic "storefront" for your application built on top of those APIs - like what Shopify does for merchants.
+
+You can also imagine a world where companies like Apple become the gateway to our healthcare. The Apple Watch knows more about my health than anything I regularly use - if tools like continuous glucose monitoring are added. If the other rumors are true about Apple, that they're going to introduce their own LLM functionality into iOS and macOS next year, this gets even easier. Bonus points that they are a company with a privacy-first perception.
 
 ## So, what does this mean?
 
 We could probably make preventative healthcare more efficient. I could give back one hour of physician time if a (trusted) LLM service could read my results in the future and says, to some extent, "you are basically fine right now and do not need to have a conversation with a physician but you can if you want to." I feel somewhat comfortable using the off-the-shelf GPT4 here to confirm that but only because my values sit neatly within normal ranges and my results last year were fine.
 
-I'm not sure how eager I would be to trust this, yet, if something looked off.
-
-You can also imagine a world where companies like Apple become the gateway to our healthcare. The Apple Watch knows more about my health than anything I regularly use - if tools like continuous glucose monitoring are added.
+I'm not sure how eager I would be to trust this, yet, if something looked off. If any of these values skewed far outside of the normal ranges I'd still go to a doctor. For now.

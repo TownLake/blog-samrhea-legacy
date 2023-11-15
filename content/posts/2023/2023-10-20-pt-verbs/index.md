@@ -49,7 +49,7 @@ An essential list but not one that makes for companionship. I do, however, atten
 
 Even the five year olds! After a Sporting player missed a fairly open goal kick I watched a small boy next to me stand in his chair and call the player, in Portuguese, a “dickhead son of a bitch” at full shouting volume. The adult fans around us nodded.
 
-Desperate to keep my wife entertained and to avoid having to talk to fellow Americans, I reached for the one verb I learned from attending football matches with my friends. I looked her dead in the eyes and proudly inquired:
+Desperate to keep my wife entertained and more desperate to avoid having to talk to fellow Americans, I reached for the one verb I learned from attending football matches with my friends. I looked her dead in the eyes and proudly inquired:
 
 *Queres foder agora?*
 
