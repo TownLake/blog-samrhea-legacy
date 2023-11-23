@@ -1,5 +1,5 @@
 ---
-title: "📚💵 *For Profit* by William Magnuson"
+title: "📚💵 _For Profit_ by William Magnuson"
 date: "2023-04-23"
 template: "post"
 draft: false

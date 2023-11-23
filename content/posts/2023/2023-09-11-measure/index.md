@@ -1,5 +1,5 @@
 ---
-title: "📚📊 *Measure What Matters* by John Doerr"
+title: "📚📊 _Measure What Matters_ by John Doerr"
 date: "2023-09-11"
 template: "post"
 draft: false
@@ -48,8 +48,8 @@ I'm headed back to Austin this week for 2024 planning in my current role. An SVP
 |**Places Read**|Lisbon, United 65|
 
 ## Notes - No Spoilers
-* Doerr calls out Grove's interst in Henry Ford's manufacturing, something we shared at my old firm to the point that I once visited the original Ford plant in Michigan on a personal trip in Detroit.
-* I always love how their Motorolo competition campaign also meant "Not one Intel product was modified for Crush. But Grove and his executive team altered the terms of engagement."
+* Doerr calls out Grove's interest in Henry Ford's manufacturing, something we shared at my old firm to the point that I once visited the original Ford plant in Michigan on a personal trip in Detroit.
+* I always love how their Motorola competition campaign also meant "Not one Intel product was modified for Crush. But Grove and his executive team altered the terms of engagement."
 * I might be lucky, but Doerr calls out how often OKRs are a "shock" to companies. I've never seen that to be true. What shocks companies is the support framework around OKRs - specifically accountability.
 * I hate the YouTube minutes watched story. I hate that they are guided by optimizing for a ten-minute entertainment video instead of a one-minute informational video, even if humans work that way. I get it, but I hate it so much and avoid YouTube like the plague because of it.
 * I still like "brutal transparency without judgment" and the accountability emphasis - I've never seen anywhere execute on it like ESW.
