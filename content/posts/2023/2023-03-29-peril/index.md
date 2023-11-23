@@ -1,5 +1,5 @@
 ---
-title: "📚🚨 *Peril* by Bob Woodward and Robert Costa"
+title: "📚🚨 _Peril_ by Bob Woodward and Robert Costa"
 date: "2023-03-29"
 template: "post"
 draft: false

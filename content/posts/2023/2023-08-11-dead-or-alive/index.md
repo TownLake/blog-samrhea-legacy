@@ -1,5 +1,5 @@
 ---
-title: "📚🛬 *Tom Clancy Dead or Alive* by Tom Clancy and Grant Blackwood"
+title: "📚🛬 _Tom Clancy Dead or Alive_ by Tom Clancy and Grant Blackwood"
 date: "2023-08-11"
 template: "post"
 draft: false

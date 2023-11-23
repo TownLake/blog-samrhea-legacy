@@ -1,5 +1,5 @@
 ---
-title: "📚🌷 *A Legacy of Spies* by John le Carré"
+title: "📚🌷 _A Legacy of Spies_ by John le Carré"
 date: "2023-06-23"
 template: "post"
 draft: false

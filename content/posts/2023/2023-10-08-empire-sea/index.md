@@ -1,5 +1,5 @@
 ---
-title: "🎧🚣‍♂️ *Empires of the Sea* by Roger Crowley"
+title: "🎧🚣‍♂️ _Empires of the Sea_ by Roger Crowley"
 date: "2023-10-08"
 template: "post"
 draft: false

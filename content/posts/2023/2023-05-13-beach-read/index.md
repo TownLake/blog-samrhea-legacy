@@ -1,5 +1,5 @@
 ---
-title: "📚🏖️ *Beach Read* by Emily Henry"
+title: "📚🏖️ _Beach Read_ by Emily Henry"
 date: "2023-05-13"
 template: "post"
 draft: false

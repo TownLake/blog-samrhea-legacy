@@ -20,8 +20,6 @@ I also only had my phone on me - translating this word-by-word would be tough. S
 
 This amazes me. I'm not just translating medical terms on my phone - I'm doing so by sharing a screenshot in a format that ChatGPT likely has never seen before. A piece of software is taking these images as inputs, reading them, thinking through what they mean, and printing out a near perfect translation while attempting to keep the formatting intact.
 
-![]()
-
 I wanted to know a little more while I had more time on this walk. I typically schedule a follow up with my general practitioner to review the results each year. The meeting tends to be boring - I'm fortunate to be relatively healthy. However, this time I started by asking ChatGPT some questions that I would otherwise ask my doctor.
 
 ## A quick primer on my health
@@ -48,7 +46,7 @@ The original report provides both normal reference ranges and values from my tes
 
 With that safe clearance, I felt comfortable asking ChatGPT to go ahead and summarize the results.
 
-![]()
+![Summary](./media/summary.png)
 
 So far, no surprises. ChatGPT has confirmed what I suspected when I scanned the reference values - I am healthy and within a normal range. Again, I'm shocked by this technology. I am now interrogating this service in a different language based on some grainy pictures of a medical report.
 
@@ -58,9 +56,13 @@ I am also interested in progress, or at least change. If all the values are norm
 
 Turns out, paying more attention to my diet and running more had minor impact. I'm not sure if this is because most of my values last year were already solid for someone my age and there isn't much I could do to improve them. None of these are purely directional - you don't want to pursue infinitely higher LDL values. You probably want to sit in the middle of a bell curve on most of these.
 
-![]()
+One that I could explore was a minor change in glucose levels; I asked ChatGPT about it here.
 
-I do think this is where the kind of ChatGPT interpretation can thrive - here are two data sets, nuanced in a particular subject area and written in a foreign language - go ahead and summarize the differences.
+![Glucose](./media/glucose.png)
+
+I do think this is where the kind of ChatGPT interpretation can thrive - here are two data sets, nuanced in a particular subject area and written in a foreign language - go ahead and summarize the differences. Which I had it attempt below.
+
+![Wrap Up](./media/wrap-up.png)
 
 ## What did ChatGPT miss?
 
@@ -76,7 +78,7 @@ He also hit me with a prompt that we give to junior Product Managers and I shoul
 
 Where should this, and really all AI experiences, live? Should hospital applications rely on LLM APIs to bake this kind of functionality into their application? Or should tools like ChatGPT exist as a kind of "super app" that sits on top of data sources. Their move to launch "Create a GPT" seems to suggest that is a more and more viable option. I could see a hospital system wanting to avoid investing in building their own front-end experience on top of an LLM API and instead just letting it live in ChatGPT (like businesses that use WhatsApp for customer support). Alternatively, the data privacy and ownership of the customer relationship suggests they won't and that some vendor will emerge who provides you with a generic "storefront" for your application built on top of those APIs - like what Shopify does for merchants.
 
-You can also imagine a world where companies like Apple become the gateway to our healthcare. The Apple Watch knows more about my health than anything I regularly use - if tools like continuous glucose monitoring are added. If the other rumors are true about Apple, that they're going to introduce their own LLM functionality into iOS and macOS next year, this gets even easier. Bonus points that they are a company with a privacy-first perception.
+You can also imagine a world where companies like Apple become the gateway to our healthcare. The Apple Watch knows more about my health than anything I regularly use - especially if tools like continuous glucose monitoring are added. If the other rumors are true about Apple, that they're going to introduce their own LLM functionality into iOS and macOS next year, this gets even easier. Bonus points that they are a company with a privacy-first perception.
 
 ## So, what does this mean?
 
