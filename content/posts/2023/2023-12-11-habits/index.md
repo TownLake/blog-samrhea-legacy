@@ -1,9 +1,9 @@
 ---
 title: "📱🪥 Habits in 2023 Q3"
-date: "2023-07-05"
+date: "2023-12-11"
 template: "post"
 draft: false
-slug: "/posts/2023/habits-q2"
+slug: "/posts/2023/habits-q3"
 category: "habits"
 tags:
   - "productivity"
