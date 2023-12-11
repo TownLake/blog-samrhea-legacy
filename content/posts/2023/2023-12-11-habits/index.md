@@ -36,6 +36,7 @@ I'm breaking up the scoreboard this quarter for a few reasons:
 The goal is to do these before 7AM.
 
 💪: Knock out 100 push ups each day.
+
 ☀️: Apply sunscreen to my face and neck each day.
 
 |Month|💪|☀️|
@@ -55,7 +56,9 @@ The goal is to do these before 7AM.
 Goals that contribute to general health and well being.
 
 🚰: Drink 2.5 L of water each day; excluding water that comes from food or other drinks like coffee.
+
 🦷: Floss my teeth.
+
 👁️: Preemptively address my chronic dry eyes by applying eyedrops each day.
 
 |Month|🚰|🦷|👁️|
@@ -75,9 +78,13 @@ Goals that contribute to general health and well being.
 Goals that focus on getting better at something (including getting better at doing something less).
 
 🇵🇹: Spend 30 minutes each day practicing Portuguese.
+
 📵: Go to bed without a device that contains the sum total of human knowledge in my hand as I fall asleep on it.
+
 ✍️: Write for 20 minutes each day excluding writing I do for work.
+
 🐦: Use Twitter for a maximum of 20 minutes each day.
+
 👾: Use Reddit for a maximum of 20 minutes each day.
 
 |Month|🇵🇹|📵|✍️|🐦|👾|
