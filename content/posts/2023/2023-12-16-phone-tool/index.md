@@ -11,60 +11,76 @@ description: "Or how I'm trying to not use this thing."
 socialImage: ""
 ---
 
-Smoking is [more common](https://worldpopulationreview.com/country-rankings/smoking-rates-by-country) in Portugal than the United States. If I attend a large dinner with friends in Lisbon I expect that about a third of the table will step outside before coffees arrive.
+Smoking is [more common](https://worldpopulationreview.com/country-rankings/smoking-rates-by-country) in Portugal than in the United States. If I attend a large dinner with friends in Lisbon I expect that about a third of the table will step outside between dessert and coffee.
 
 Part of me is jealous. When they go smoke, they can use their phones. It would seem terribly rude to say "Excuse me. I am going to step outside to scroll on my phone for five minutes," but I sometimes feel that way. My iPhone has become more like a cigarette than a tool. I bought this device (and a dozen iterations of it) to get things done. Instead I reach for it during any pause in my day to consume empty calories.
 
-I pull it out of my pocket when I'm still. I open it without thinking when I'm walking in Lisbon and stop at a red pedestrian light. I even find myself with my phone in my hand, scrolling Twitter, asking "wait, I unlocked my phone to do something - what was that?"
+I pull it out of my pocket when I'm still. I open it without thinking when I'm walking in Lisbon and wait at a pedestrian crossing. I even find myself with my phone in my hand, scrolling Twitter, asking "wait, I unlocked my phone to do something - what was that?"
 
-My phone ceased to be a tool around the same time that social media apps showed up in the app store. I have been carrying around a circus carnival wherever I go for more than a decade. I want to stop this.
+I spend a lot of money on this device to do anything but waste more of my time. I wanted it to be a tool. My phone ceased to be that around the same time that social media apps showed up in the app store. I have been carrying around a circus carnival wherever I go for more than a decade. I want off the ride.
 
 ## How do I use my phone today?
 
-I would rather you analyze my browser history than my Screen Time report. That feature is probably the most intimate data point available today. The void we stare into can stare back with receipts.
+I would rather you analyze my browser history than my `Screen Time` report. That feature is probably the most intimate digital data point available to the average user today. The void we stare into can stare back with receipts.
 
-I found it to be a valuable way of distinguishing whether or not my device is _mostly_ a tool. I use the word `tool` to represent use cases that wind up with me accomplishing something that I needed to do. Paying bills in credit card apps, responding to an email from our immigration lawyers, figuring out the best way to avoid traffic while driving to Sintra.
+I find it to be a valuable way of distinguishing whether or not my device is _mostly_ a tool. First, what is a tool? I use the word `tool` to represent use cases that end with me accomplishing something that I needed to do. Paying bills in credit card apps, responding to an email from our immigration lawyers, figuring out the best way to avoid traffic while driving to Sintra.
 
 And my iPhone is definitely a tool in that sense! This device can check off those items on my to do list and more. The problem begins when I leave it open. When I finish my commute I don't keep sitting in my car. However, I do routinely check the weather and then find myself on Instagram.
 
-I'm going to exclude the Map from any real evaluations of time. I don't have CarPlay in my car so I use a MagSafe mount to navigate which skews the data. I also am, oddly, going to ignore TV or video streaming - I only watch videos on my phone when I'm on the treadmill or bike at the gym.
+Here is a window into how I used my phone on an average week in November. By average, I mean there were no holidays and I was not traveling.
+
+I am creating a kind of category view from the Screen Time feature and adding up the time spent in minutes, ranked from most to least.
+
+|Activity|App|Time Spent|
+|---|---|---|
+|Internet Browsing|Safari|316|
+|Reddit|Reddit|215|
+|Instagram|Instagram|186|
+|Group Chats and DMs|iMessage, WhatsApp|243|
+|Twitter|Twitter|121|
+|NYTimes|NYTimes|100|
+|Email|Apple Mail|99|
+|Aimless Learning|Wikipedia|83|
+|News|Apple News, ESPN, The Ringer, Economist|71|
+|To Do List|Reminders, GitHub, Streaks|69|
+|Money Tasks|Bank/CC Apps|40|
+|Health|Withings, Apple Health, Fitness, Streaks|34|
+|Photos|Photos|22|
+|Music|Apple Music|16|
+|Camera|Camera|15|
+
+I am deliberately excluding a few applications. I am not counting my screen time when I use the Map. I don't have CarPlay in my car so I use a MagSafe mount to navigate which skews the data. I also am, oddly, going to ignore video streaming applications like Apple TV or Netflix - I only watch videos on my phone when I'm on the treadmill or bike at the gym. Also, NYTimes is broken out from News because I mostly use the NYTimes app for the daily crossword.
+
+Other obvious things seem missing. I tend to use my work calendar (and work phone) for most scheduling. And as I've talked about [in the past](https://blog.samrhea.com/posts/2023/kindle), I use my Kindle for reading. I'm also ignoring the kinds of "utility tool" apps that I need on my phone but only break out in very specific circumstances (things like United for air travel or Estacionar for parking).
 
 ## What makes my phone a tool?
 
 My iPhone is still the most important device in my life - distractions and all. I spend time that I find worthwhile doing the following things.
 
-|Activity|App|
-|---|---|
-|Calls|Facetime, Phone|
-|Group Chats and DMs|iMessage, WhatsApp|
-|To Do List|Reminders, GitHub|
-|Email|Mail|
-|Camera|Camera|
-|Internet Browsing|Safari|
-|Money Tasks|Bank/CC Apps|
-|Photos|Photos|
-|Camera|Camera|
-|Audio|Podcasts, Music, Audible|
-|Health|Withings, Apple Health, Fitness|
-|Aimless Learning|Wikipedia|
+| Activity | App | Time Spent | Use Case |
+|---|---|---|---|
+| Internet Browsing | Safari | 316 | |
+| Reddit | Reddit | 215 | |
+| Instagram | Instagram | 186 | |
+| Group Chats and DMs | iMessage, WhatsApp | 243 | 🛠️ |
+| Twitter | Twitter | 121 | |
+| NYTimes | NYTimes | 100 | |
+| Email | Apple Mail | 99 | 🛠️ |
+| Aimless Learning | Wikipedia | 83 | 🛠️ |
+| News | Apple News, ESPN, The Ringer, Economist | 71 | 🛠️ |
+| To Do List | Reminders, GitHub, Streaks | 69 | 🛠️ |
+| Money Tasks | Bank/CC Apps | 40 | 🛠️ |
+| Health | Withings, Apple Health, Fitness, Streaks | 34 | 🛠️ |
+| Photos | Photos | 22 | 🛠️ |
+| Music | Apple Music | 16 | 🛠️ |
+| Camera | Camera | 15 | 🛠️ |
 
-Some obvious things seem missing. I tend to use my work calendar (and work phone) for most scheduling. And as I've talked about [in the past](https://blog.samrhea.com/posts/2023/kindle), I use my Kindle for reading. I'm also ignoring the kinds of "utility tool" apps that I need on my phone but only break out in very specific circumstances (things like United for air travel or Estacionar for parking).
+Some immediate things jump out at me:
 
-If I plot this against my screen time from a few weeks ago, I can start by ruling out anything where I spent less than 10 minutes - which cleans this list out quite a bit. I can then add time spent.
+* Even when we're being generous and calling "Group Chats and DMs" a tool, the five of the first six activities have no tangible value.
+* 42% of the total time spent on the device that week could fall into the tool category.
 
-|Activity|App|Time Spent|
-|---|---|---|
-|Internet Browsing|Safari|316|
-|Group Chats and DMs|iMessage, WhatsApp|243|
-|Email|Mail|99|
-|Aimless Learning|Wikipedia|83|
-|To Do List|Reminders, GitHub|43|
-|Money Tasks|Bank/CC Apps|40|
-|Health|Withings, Apple Health, Fitness, Streaks|34|
-|Photos|Photos|22|
-|Camera|Camera|15|
-
-## Do some of these things need to happen on a phone?
+### Do some of these things need to happen on a phone?
 
 I almost always have my phone on me which means I tend to reach for it first for most of the use cases above. I am not sure that is useful, though. Some productive situations don't need the immediacy of a phone or they are better off with the larger screen and keyboard of a laptop. I don't want to open a laptop to check the map during a walk to a new restaurant but I should probably use a laptop to respond to my tax lawyers.
 
