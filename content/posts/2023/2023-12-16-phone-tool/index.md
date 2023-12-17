@@ -86,7 +86,62 @@ I almost always have my phone on me which means I tend to reach for it first for
 
 I'm going to add two new columns to represent that distinction: urgent and environment. Urgent means that I want to take the action pretty quickly wherever I am - ideal for phones. Environment captures where I think the action is best completed.
 
+Urgent represents a really specific scenario here. I am part of four or five group chats of dudes on both sides of the Atlantic. I almost never need to respond to their memes with any time pressure. However, I do want to be more real time with them than I am when I'm replying over email to the condo board in Lisbon.
+
+| Activity | App | Time Spent | Use Case | Urgent | Env. |
+|---|---|---|---|---|---|
+| Internet Browsing | Safari | 316 | | | |
+| Reddit | Reddit | 215 | | | 📱 |
+| Instagram | Instagram | 186 | | | 📱 |
+| Group Chats and DMs | iMessage, WhatsApp | 243 | 🛠️ | 🔥 | 📱 |
+| Twitter | Twitter | 121 | | | 📱 |
+| NYTimes | NYTimes | 100 | | | 📱 |
+| Email | Apple Mail | 99 | 🛠️ | | 💻 |
+| Aimless Learning | Wikipedia | 83 | 🛠️ | | 💻 |
+| News | Apple News, ESPN, The Ringer, Economist | 71 | 🛠️ | | 📱 |
+| To Do List | Reminders, GitHub, Streaks | 69 | 🛠️ | 🔥 | 📱➡️⌚ |
+| Money Tasks | Bank/CC Apps | 40 | 🛠️ | 🔥 | 📱 |
+| Health | Withings, Apple Health, Fitness, Streaks | 34 | 🛠️ | 🔥 | 📱➡️⌚ |
+| Photos | Photos | 22 | 🛠️ | | 📱 |
+| Music | Apple Music | 16 | 🛠️ | 🔥 | 📱 |
+| Camera | Camera | 15 | 🛠️ | 🔥 | 📱 |
+
+The Apple Watch enters the picture! I remember a conversation nearly a decade ago with a friend of mine from ESW Capital who purchased the first iteration of the Apple Watch. This was before it did anything - before it became a ubiquitous healthcare device. It mostly just told time and announced notifications.
+
+I'll never forget how he described the value of it - it made him pull out his phone less. Since he could tell with a glance that the notification was from a family member or something urgent at work compared to an activity that could week. This was also before the different Focus modes in iOS were available.
+
+I've long thought about my Apple Watch as one of the tools I have to use my phone less. Some activities really are better to do on the Watch; I like to plan my day and organize my Reminders on my Phone and then burn them down when I'm out and about on my watch. I prefer using the Streaks app on my Watch. And the damn thing doesn't have Instagram or Twitter.
+
+Alright, where are we now:
+
+* No surprise that by taking an inventory of what I do on my phone I'd find a lot of things that are best suited to a phone. I could probably move things like Mail to my laptop more, but that doesn't really contribute to the goal of this exercise.
+* It's hard to measure the impact of using my Watch more for things. Add up the tim eI spend on my phone with those activities (and not all of them could live on the Watch) and you only get 103 minutes off of the phone. Again, we're just transferring time here. The real impact would hopefully be that I don't go down an Instagram rabbit hole.
+
 ## What makes my phone a circus carnival and why is it hard to quit?
+
+Social media. Simple answer at the beginning and now a data-backed conclusion at the end here.
+
+| Activity | App | Time Spent | Use Case | Urgent | Env. |
+|---|---|---|---|---|---|
+| Internet Browsing | Safari | 316 | | | |
+| Reddit | Reddit | 215 | 🎪 | | 📱 |
+| Instagram | Instagram | 186 | 🎪 | | 📱 |
+| Group Chats and DMs | iMessage, WhatsApp | 243 | 🛠️ | 🔥 | 📱 |
+| Twitter | Twitter | 121 | 🎪 | | 📱 |
+| NYTimes | NYTimes | 100 | 🎪 | | 📱 |
+| Email | Apple Mail | 99 | 🛠️ | | 💻 |
+| Aimless Learning | Wikipedia | 83 | 🛠️ | | 💻 |
+| News | Apple News, ESPN, The Ringer, Economist | 71 | 🛠️ | | 📱 |
+| To Do List | Reminders, GitHub, Streaks | 69 | 🛠️ | 🔥 | 📱➡️⌚ |
+| Money Tasks | Bank/CC Apps | 40 | 🛠️ | 🔥 | 📱 |
+| Health | Withings, Apple Health, Fitness, Streaks | 34 | 🛠️ | 🔥 | 📱➡️⌚ |
+| Photos | Photos | 22 | 🛠️ | | 📱 |
+| Music | Apple Music | 16 | 🛠️ | 🔥 | 📱 |
+| Camera | Camera | 15 | 🛠️ | 🔥 | 📱 |
+
+I'm grouping NYTimes into the general "Circus" category not as a commentary on the newsorthiness of the publication. I just only use the app on my phone for the Crossword.
+
+If I deleted them off of my phone I would reclaim 622 minutes of my life which sounds even worse when you describe it as 10 hours.
 
 I like that people message me here and not over email or messages
 
