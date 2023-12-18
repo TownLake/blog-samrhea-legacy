@@ -49,13 +49,13 @@ I am creating a kind of category view from the Screen Time feature and adding up
 |Music|Apple Music|16|
 |Camera|Camera|15|
 
-I am deliberately excluding a few applications. I am not counting my screen time when I use the Map. I don't have CarPlay in my car so I use a MagSafe mount to navigate which skews the data. I also am, oddly, going to ignore video streaming applications like Apple TV or Netflix - I only watch videos on my phone when I'm on the treadmill or bike at the gym. Also, NYTimes is broken out from News because I mostly use the NYTimes app for the daily crossword.
+I am deliberately excluding a few applications. I am not counting my screen time when I use the Map. I don't have CarPlay in my car so I use a MagSafe mount to navigate which skews the data. I also am, oddly, going to ignore video streaming applications like Apple TV or Netflix - I only watch videos on my phone when I'm on the treadmill or the bike at the gym. Also, NYTimes is broken out from News because I mostly use the NYTimes app for the daily crossword. I get my actual news by reading the physical edition of _The Economist_ each week.
 
-Other obvious things seem missing. I tend to use my work calendar (and work phone) for most scheduling. And as I've talked about [in the past](https://blog.samrhea.com/posts/2023/kindle), I use my Kindle for reading. I'm also ignoring the kinds of "utility tool" apps that I need on my phone but only break out in very specific circumstances (things like United for air travel or Estacionar for parking).
+Other obvious things seem missing. I tend to use my work calendar (and work phone) for most scheduling so that isn't represented here. And as I've talked about [in the past](https://blog.samrhea.com/posts/2023/kindle), I use my Kindle for reading. I'm also ignoring the kinds of "utility tool" apps that I need on my phone but only break out in very specific circumstances (things like United for air travel or Estacionar for parking).
 
 ## What makes my phone a tool?
 
-My iPhone is still the most important device in my life - distractions and all. I spend time that I find worthwhile doing the following things.
+My iPhone is still the most important device in my life - distractions and all. I'm going to add a column to indicate whether or not I think a given activity is productive. I'll mark it with a hammer and wrench emoji.
 
 | Activity | App | Time Spent | Use Case |
 |---|---|---|---|
@@ -114,8 +114,8 @@ I've long thought about my Apple Watch as one of the tools I have to use my phon
 
 Alright, where are we now:
 
-* No surprise that by taking an inventory of what I do on my phone I'd find a lot of things that are best suited to a phone. I could probably move things like Mail to my laptop more, but that doesn't really contribute to the goal of this exercise.
-* It's hard to measure the impact of using my Watch more for things. Add up the tim eI spend on my phone with those activities (and not all of them could live on the Watch) and you only get 103 minutes off of the phone. Again, we're just transferring time here. The real impact would hopefully be that I don't go down an Instagram rabbit hole.
+* No surprise that by taking an inventory of what I do on my phone I'd find a lot of things that are best suited to a phone. I could probably move things like Mail to my laptop more, but that doesn't really contribute to the goal of this exercise. That said, if I try to avoid mail on my phone I have one less reason to open my phone.
+* It's hard to measure the impact of using my Watch more for things. Add up the time I spend on my phone with those activities (and not all of them could live on the Watch) and you only get 103 minutes off of the phone. Again, we're just transferring time here. The real impact would hopefully be that I don't go down an Instagram rabbit hole.
 
 ## What makes my phone a circus carnival and why is it hard to quit?
 
@@ -139,21 +139,24 @@ Social media. Simple answer at the beginning and now a data-backed conclusion at
 | Music | Apple Music | 16 | 🛠️ | 🔥 | 📱 |
 | Camera | Camera | 15 | 🛠️ | 🔥 | 📱 |
 
-I'm grouping NYTimes into the general "Circus" category not as a commentary on the newsorthiness of the publication. I just only use the app on my phone for the Crossword.
+I'm grouping NYTimes into the general "Circus" category not as a commentary on the newsorthiness of the publication. Again, I just only use the app on my phone for the Crossword.
 
-If I deleted them off of my phone I would reclaim 622 minutes of my life which sounds even worse when you describe it as 10 hours.
+If I deleted them off of my phone I would reclaim 622 minutes of my life which sounds even worse when you describe it as 10 hours. Do any of those hours offer value?
 
-I like that people message me here and not over email or messages
+Instagram is the most obvious culprit. If you live in a different country, and especially on a different continent, from where you spent most of your life then you'll be familiar with the value of Instagram. The application is the absolute easiest way to keep up with the "Circle 3+" of your social life.
+
+I think about my immediate family in Circle 1; I'll text and call them. My closest friends are in Circle 2 and I have long-running group chats or direct conversations with them on iMessage or WhatsApp. Circle 3 is where Instagram thrives. These are folks who I knew well in college, friends that attended my wedding but I don't chat with that often, cousins and family members I love but just don't see frequently. Instagram gives me a way to stay connected with them by sharing some photos on my Story or adding an emoji reaction to theirs.
+
+These are people I would almost never text out of the blue. They would think it was a scam. Instead, we can maintain this kind of passive friendship over Instagram. That way they know I'm not dead, they see a little bit of my life, I am up to speed on theirs, and if they are ever in Lisbon they can send me a note and we'll have a great dinner.
+
+This reminds me of the Christmas cards my family would receive each year growing up. Physical cards in the mail and most would come with a kind of "family update" that would list out the major live events in that family over the last year. Marriages, new hobbies, a trip or two. I loved receiving those. We'd get cards from people we hadn't seen in a decade, but still considered friends, and could read about how their dad celebrated his birthday with a golf trip with friends or that their daughter was now enrolled at Duke University. The kinds of things we'd only know if we called them, but of course were weren't "phone call to check up" close. Instagram seems to fill that void for my generation.
 
 ## What am I going to do about it?
 
 Isn't the easy answer to just delete Instagram, Reddit, and Twitter? Yes. Am I strong enough to do that? Probably not.
 
-1. I need a phone.
-2. I sometimes "need" to have resources available that are not tools.
+Today I [box myself in](https://blog.samrhea.com/category/habits/) from spending too much time on Twitter or Reddit (too much is a loose definition, but I have a Screen Time limit of 20 minutes for each). That means a maximum of about 2 hours, which feels like a lot but let's bucket that under entertainment.
 
-## Notes
+I want to interrogate the time I spend in Safari. That number surprised me and I think it is a mix of a really long tail of activities. If there was any real clustering, Screen Time would surface it like they do Wikipedia which I access in the browser but not the app. I went and looked through my browser history and mostly found things like looking up a restaurant, some holiday shopping, looking up other works by Dan Carlin. The kind of aimless searches that originally drew us to the Internet.
 
- this isn't about just being productive - some of the things I do on my phone that waste time are generally fun and fine (nytimes) it's when I'm scrolling without end thatI want to avoid
-
- news is a weird one
+I probably need to follow the same pattern with Instagram. If I'm really using it to catch up with folks back home in a casual way, then I don't need to do that for 3 hours each week. I'm trying to replace a habit (holiday card reading) that took up one evening each winter.
