@@ -1,6 +1,6 @@
 ---
 title: "📱🎪 My iPhone is more cicus than tool"
-date: "2023-12-22"
+date: "2023-12-21"
 template: "post"
 draft: false
 slug: "/posts/2023/phone-tool"
