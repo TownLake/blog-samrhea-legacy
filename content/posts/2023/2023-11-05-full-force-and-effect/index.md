@@ -1,5 +1,5 @@
 ---
-title: "📚⛏️ _Tom Clancy Full Force and Effect_ by Mark Greaney"
+title: "📚⛏️ <i>Tom Clancy Full Force and Effect</i> by Mark Greaney"
 date: "2023-11-05"
 template: "post"
 draft: false
