@@ -1,5 +1,5 @@
 ---
-title: "🎧🌴 *People We Meet on Vacation* by Emily Henry"
+title: "🎧🌴 People We Meet on Vacation by Emily Henry"
 date: "2023-07-10"
 template: "post"
 draft: false

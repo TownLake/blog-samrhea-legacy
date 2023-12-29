@@ -1,5 +1,5 @@
 ---
-title: "📚💻 _Treat Vector_ by Tom Clancy and Mark Greaney"
+title: "📚💻 Treat Vector by Tom Clancy and Mark Greaney"
 date: "2023-10-07"
 template: "post"
 draft: false

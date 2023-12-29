@@ -1,5 +1,5 @@
 ---
-title: "🎧👨‍🎤 _Thrawn_ by Timothy Zahn"
+title: "🎧👨‍🎤 Thrawn by Timothy Zahn"
 date: "2023-04-27"
 template: "post"
 draft: false

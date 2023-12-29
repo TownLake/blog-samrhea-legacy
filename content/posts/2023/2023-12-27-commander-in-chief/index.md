@@ -1,5 +1,5 @@
 ---
-title: "📚🛥️ _Commander in Chief_ by Mark Greaney"
+title: "📚🛥️ Commander in Chief by Mark Greaney"
 date: "2023-12-27"
 template: "post"
 draft: false

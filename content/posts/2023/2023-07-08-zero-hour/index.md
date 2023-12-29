@@ -1,5 +1,5 @@
 ---
-title: "📚🚁 _Tom Clancy Zero Hour_ by Don Bentley"
+title: "📚🚁 Tom Clancy Zero Hour by Don Bentley"
 date: "2023-07-08"
 template: "post"
 draft: false

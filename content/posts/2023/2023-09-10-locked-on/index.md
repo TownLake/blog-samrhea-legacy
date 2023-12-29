@@ -1,5 +1,5 @@
 ---
-title: "📚🛬 _Locked On_ by Tom Clancy and Mark Greaney"
+title: "📚🛬 Locked On by Tom Clancy and Mark Greaney"
 date: "2023-09-10"
 template: "post"
 draft: false
