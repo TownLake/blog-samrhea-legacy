@@ -97,9 +97,9 @@ Urgent represents a really specific scenario here. I am part of four or five gro
 | Email | Apple Mail | 99 | 🛠️ | | 💻 |
 | Aimless Learning | Wikipedia | 83 | 🛠️ | | 💻 |
 | News | Apple News, ESPN, The Ringer, Economist | 71 | 🛠️ | | 📱 |
-| To Do List | Reminders, GitHub, Streaks | 69 | 🛠️ | 🔥 | 📱➡️⌚ |
+| To Do List | Reminders, GitHub, Streaks | 69 | 🛠️ | 🔥 | ⌚ |
 | Money Tasks | Bank/CC Apps | 40 | 🛠️ | 🔥 | 📱 |
-| Health | Withings, Apple Health, Fitness, Streaks | 34 | 🛠️ | 🔥 | 📱➡️⌚ |
+| Health | Withings, Apple Health, Fitness, Streaks | 34 | 🛠️ | 🔥 | ⌚ |
 | Photos | Photos | 22 | 🛠️ | | 📱 |
 | Music | Apple Music | 16 | 🛠️ | 🔥 | 📱 |
 | Camera | Camera | 15 | 🛠️ | 🔥 | 📱 |
@@ -130,9 +130,9 @@ Social media. Simple answer at the beginning and now a data-backed conclusion at
 | Email | Apple Mail | 99 | 🛠️ | | 💻 |
 | Aimless Learning | Wikipedia | 83 | 🛠️ | | 💻 |
 | News | Apple News, ESPN, The Ringer, Economist | 71 | 🛠️ | | 📱 |
-| To Do List | Reminders, GitHub, Streaks | 69 | 🛠️ | 🔥 | 📱➡️⌚ |
+| To Do List | Reminders, GitHub, Streaks | 69 | 🛠️ | 🔥 | ⌚ |
 | Money Tasks | Bank/CC Apps | 40 | 🛠️ | 🔥 | 📱 |
-| Health | Withings, Apple Health, Fitness, Streaks | 34 | 🛠️ | 🔥 | 📱➡️⌚ |
+| Health | Withings, Apple Health, Fitness, Streaks | 34 | 🛠️ | 🔥 | ⌚ |
 | Photos | Photos | 22 | 🛠️ | | 📱 |
 | Music | Apple Music | 16 | 🛠️ | 🔥 | 📱 |
 | Camera | Camera | 15 | 🛠️ | 🔥 | 📱 |
