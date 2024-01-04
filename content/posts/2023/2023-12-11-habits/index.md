@@ -96,8 +96,8 @@ Goals that focus on getting better at something (including getting better at doi
 |May|🟧|🟥|🟥|⬜|⬜|
 |Jun|🟥|🟥|🟥|⬜|⬜|
 |Jul|🟥|🟥|🟥|⬜|⬜|
-|Aug|🟥|🟥|🟩|🟧|🟧|
-|Sep|🟥|🟥|🟨|🟨|🟩|
+|Aug|🟥|🟥|🟥|🟧|🟧|
+|Sep|🟥|🟥|🟥|🟨|🟩|
 
 ### Key
 
