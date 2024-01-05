@@ -8,7 +8,7 @@ category: "reading"
 tags:
   - "reading"
   - "books"
-description: "John Ryan Book 16 - back in the USA"
+description: "John Ryan Book 16 - back in the USA."
 socialImage:
 book: "Tom Clancy True Faith and Allegiance"
 Author: "Mark Greaney"
