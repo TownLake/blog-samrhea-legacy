@@ -8,7 +8,7 @@ category: "reading"
 tags:
   - "reading"
   - "books"
-description: "John Ryan Book 15 - mildly prophetic in a concerning way"
+description: "John Ryan Book 15 - mildly prophetic in a concerning way."
 socialImage:
 book: "Tom Clancy Commander in Chief"
 Author: "Mark Greaney"
