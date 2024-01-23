@@ -58,3 +58,5 @@ But there are hints that there's even more going on. A routine traffic stop in r
 * I wanted to stop. I thought about stopping. I pushed through and I regret it.
 * Beyond just the trash of this actual novel, picking up from another author does invite a very specific challenge - the voices of the characters. I found myself thinking "Dom or Ding would never say that" or "this version of Mary Pat is completely out of sync with her character." They felt like fan fiction editions of themselves in ways that Greaney's takes never really did compared to the originals from Tom Clancy.
 * Does it get better? Should I keep going and try to endure another in the hopes that Cameron got this out of his system? I don't think so. I'm going to take a break for a while.
+* I enjoyed some of the Texas place settings.
+* I found a really egregious typo on page 538: "...made the place seemed..."
