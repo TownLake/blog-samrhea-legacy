@@ -8,7 +8,7 @@ category: "reading"
 tags:
   - "reading"
   - "books"
-description: "John Ryan Book 17 - just garbage."
+description: "John Ryan Book 17 - garbage."
 socialImage:
 book: "Tom Clancy Power and Empire"
 Author: "Marc Cameron"
@@ -52,4 +52,9 @@ But there are hints that there's even more going on. A routine traffic stop in r
 |**Places Read**|Lisbon|
 
 ## Notes - No Spoilers
-* <>
+* This is the first novel in the series from Marc Cameron after Mark Greaney left for his own, *Grey Man* series.
+* What a loss.
+* This thing was garbage. The plot made no sense. The side plots existed for no reason. The twists were either way too obvious or far too contrived. John Clark's entire subplot lined up with a version of the character from about a dozen novels prior. John Clark's mission itself felt like a hamfisted addition that added nothing to the story other than to stir up readers.
+* I wanted to stop. I thought about stopping. I pushed through and I regret it.
+* Beyond just the trash of this actual novel, picking up from another author does invite a very specific challenge - the voices of the characters. I found myself thinking "Dom or Ding would never say that" or "this version of Mary Pat is completely out of sync with her character." They felt like fan fiction editions of themselves in ways that Greaney's takes never really did compared to the originals from Tom Clancy.
+* Does it get better? Should I keep going and try to endure another in the hopes that Cameron got this out of his system? I don't think so. I'm going to take a break for a while.
