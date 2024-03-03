@@ -75,23 +75,25 @@ Something new to Las Vegas since I last lived in the United States is the presen
 
 We should bring that to the EFA. Most sports leagues in Europe are national (for now) so we’d need to find a way for them to compete either in a nearby league or as a kind of floater, moving between leagues each year.
 
-This also creates sports infrastructure that can be reused for other exhibitions. The NFL could move one of their London games to a Euro Vegas. The NBA could play their European showcases at an arean in the city.
+This also creates sports infrastructure that can be reused for other exhibitions. The NFL could move one of their London games to a Euro Vegas. The NBA could play their European showcases at an arean in the city. If we build it, they will come.
 
 ### Euro Vegas needs a tax system that generates Bloc-distributed revenue.
 
-Euro Vegas will, presumably, have no citizens. There will be workers including some who could reside there, but it will probably look like Monaco in that a lot of workers commute into the EFA each day. The only real tax base is the money from tourists.
+We will need to fund aspects of the EFA, like police and roads (or trolleys, this is Europe). We could probably rely on total privatization if we wanted and have the casinos band together to cover those services, but that would challenge our desire to make it easy for new entrants to build and compete. We need to collect money another way.
 
-We will need to fund aspects of the EFA, like police and roads (or trolleys, this is Europe). We could probably rely on total privatization if we wanted and have the casinos band together to cover those services, but that would challenge our desire to make it easy for new entrants to build and compete.
+Euro Vegas will, presumably, have few or no citizens. We're building the Vatican City of sovereign party locations. There will be workers, including some who could reside there, but it will probably look like Monaco or Singapore in that a lot of workers commute into the EFA from a neighboring region each day. The only real tax base would be employee salaries and money from tourists.
+
+The employee salaries are tricky. In the Singapore comparison, workers who commute in from Malaysia pay a non-resident tax rate on their Singapore-derived income. They still owe taxes in Malaysia as residents, but in most cases they can credit their taxes paid in Singapore against their bill in Malaysia thanks to a double taxation agreement between the two countries. We should probably implement a similar model, but the complexity of it and the nature of most jobs in an entertainment economy mean that the tax base will be pretty small.
 
 Instead we should set a tax on winnings as well as a consumption tax. Together we can use that to fund basic services for the autonomous region and distribute what is left over to the EU coffers. Nevada [collects](https://thenevadaindependent.com/article/nevada-tax-revenues-exceed-general-fund-budget-by-more-than-1-billion) more than $1B per month in gaming revenues alone. Similar to the “Alexander Hamilton moment” of the EU’s COVID recovery funds, this also gives the Council another lever to keep noisier member states in line when they want to look the other way from things like democracy and the rule of law.
 
 ## Isn’t this Ibiza?
 
-Europe does feature party areas that have not conquered ancient, historic cities. Ibiza or Majorca or Faro or Mykonos cater to Northern Europeans fleeing the cold for warm beaches. They’ve paved over small fishing villages, but the impact is less dramatic than the historic cores of certain European capital cities.
+Europe does feature party areas that have not conquered ancient but still vibrant cities. Ibiza or Majorca or Faro or Mykonos cater to Northern Europeans fleeing the cold for warm beaches. They’ve paved over small fishing villages, but the impact is less dramatic than the historic cores of certain European capital cities.
 
-And this is fine! This should continue. However, the scale and activities just don’t match what Vegas can offer. As a result, the parties spill over into real cities elsewhere on the continent. Las Vegas has about 150,000 hotel rooms. All of Ibiza is about 38,000 and there is no room or permitting for more.
+However, the scale and activities just don’t match what Vegas can offer. As a result, the parties spill over into real cities elsewhere on the continent. Las Vegas has about 150,000 hotel rooms. All of Ibiza is about 38,000 and there is no room or permitting for more.
 
-The appeal is also different. Those destinations cater to a specific type of beach vacation where the party is a beach club. That’s the whole event. You can probably find a group that wants to do that. They'd be right to do so - a European beach club is a very good time. However, it’s a narrow slice of available activities and we want to deliver more of a party heatsink in the EFA by offering more options.
+The appeal is also different. Those destinations cater to a specific type of sun-and-sand vacation where the party is a beach club. That’s the whole event. You can probably find a group that wants to do that. They'd be right to do so - a European beach club is a very good time. However, it’s a narrow slice of available activities and we want to deliver a party heatsink in the EFA by offering options.
 
 ## What about tourism dollars?
 
@@ -101,12 +103,14 @@ That’s alright - Nashville, Tennessee continues to be a favorite spot for Bach
 
 The real impact, though, would be the ability to tap into a much larger market. Think bigger than the Stag Parties and Hen Dos. We can make these kinds of cities more attractive for another type of tourist who creates less noise and spends more money: the American Boomer.
 
-If you hop on United Airlines 64 from Newark to Lisbon, the entire Polaris cabin consists of married couples in their late 50s or early 60s. They are empty nesters who are retired or nearing retirement. They are lawyers, managing directors, and the heads of sales for manufacturing companies. They wear Columbia PFG gear and cargo pants on the plane and look great in it. I have to help them load their bags into the overhead bins. They literally flip through guide books or paper maps about Lisbon while the flight attendants pass out sparking wine.
+If you hop on United Airlines 64 from Newark to Lisbon, the entire Polaris cabin consists of married couples in their late 50s or early 60s. They are empty nesters who are retired or nearing retirement. They have a list of places to visit in the world that they postponed for a couple decades due to soccer tournaments and summer camps. They are lawyers, managing directors, and the heads of sales for manufacturing companies. They wear Columbia PFG gear and cargo pants on the plane and look great in it. I have to help them load their bags into the overhead bins. They literally flip through guide books or paper maps about Lisbon while the flight attendants pass out sparking wine.
 
-Lisbon has managed to create a reputation amongst a certain type of American tourist that it is both safe and exciting. The Americans who visit are wealthy enough that they have completed the European Canon (Paris, Rome, London) and want to visit something a little more exotic. They’re also old enough and wary enough that they aren’t looking for something outright dangerous or chaotic. Lisbon fits the bill. We could repeat this model as the reputation of certain cities evolves.
+Lisbon has managed to create a reputation amongst this type of American tourist that it is both safe and exciting. The Americans who visit are wealthy enough that they have completed the European Canon (Paris, Rome, London) and want to visit something a little more exotic. They’re also old enough and wary enough that they aren’t looking for something outright dangerous. Lisbon fits the bill.
+
+We could repeat this model as the reputation of formerly rowdy cities evolves. Europeans don't realize how rich the average American is. If they did, they would riot. We should help the Old World capture some of that star-spangled abundance by cultivating a new canon of European destinations for American Boomers. You had Paris, London, and Rome. Up next, Dublin, Lisbon, Prague, Barcelona.
 
 ## What’s next?
 
-The kinds of dynamism that Europe would need to create this only seems to exist inside of the Mistral office in France, where a single company is pushing the entire French government to lobby the EU to be more friendly to technology advances.
+The kind of dynamism that Europe would need to create this only seems to exist inside of the Mistral office in France, where a single company is pushing the entire French government to lobby the EU to be more friendly to technology.
 
 And to be fair the US didn’t just build Vegas overnight.
