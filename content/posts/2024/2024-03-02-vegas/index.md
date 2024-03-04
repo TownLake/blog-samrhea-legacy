@@ -111,8 +111,8 @@ We could repeat this model as the reputation of formerly rowdy cities evolves. E
 
 ## What’s next?
 
-The kind of dynamism that Europe would need to create this only seems to exist inside of the Mistral office in France, where a single company is pushing the entire French government to lobby the EU to change technology policies. Most of Europe seems to default to "no" when presented with change opportunities. They have a solid status quo around here.
+The kind of dynamism that Europe would need to create this only seems to exist inside of the Mistral office in France, where a single company is pushing the entire French government to lobby the EU to change technology policies. Most of Europe seems to default to "no" when presented with change. They have a solid status quo around here.
 
-The problem is that other trends, outside of their control, then decide to make the changes for them. In this case, a European tradition (a night out, a big dinner, some practical jokes) moved to the States and evolved (a full weekend, travel, partying). Movies like the `Hangover` brought these new extensions on the original back to Europe and the Europeans had no where to practice but the old neighborhoods in their ancient, cheaper cities.
+The problem is that external trends, outside of their control, then decide to make the changes for them. In this case, a European tradition (a night out, a big dinner, some practical jokes) moved to the States and evolved (a full weekend, travel destination, partying). And then became more accessible thanks to lower costs and more disposable income over the decades. Movies like the `Hangover` then brought these new extensions on the original back to Europe and the Europeans had nowhere to practice but the old neighborhoods in their ancient, cheaper cities.
 
-And to be fair the US didn’t just build Vegas overnight.
+And to be fair the US didn’t build Vegas overnight. Instead, the most American thing happened. We forgot about a place or industry and opportunistic people took advantage of that oversight. Some of that was shady and violent, but the end result is a money printing destination that attracts people from all around the world. That kind of "innovation filling a vacuum" is harder to replicate in Europe, so this would probably need to be a more deliberate gamble.
