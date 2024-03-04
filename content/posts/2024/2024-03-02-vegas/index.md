@@ -111,6 +111,8 @@ We could repeat this model as the reputation of formerly rowdy cities evolves. E
 
 ## What’s next?
 
-The kind of dynamism that Europe would need to create this only seems to exist inside of the Mistral office in France, where a single company is pushing the entire French government to lobby the EU to be more friendly to technology.
+The kind of dynamism that Europe would need to create this only seems to exist inside of the Mistral office in France, where a single company is pushing the entire French government to lobby the EU to change technology policies. Most of Europe seems to default to "no" when presented with change opportunities. They have a solid status quo around here.
+
+The problem is that other trends, outside of their control, then decide to make the changes for them. In this case, a European tradition (a night out, a big dinner, some practical jokes) moved to the States and evolved (a full weekend, travel, partying). Movies like the `Hangover` brought these new extensions on the original back to Europe and the Europeans had no where to practice but the old neighborhoods in their ancient, cheaper cities.
 
 And to be fair the US didn’t just build Vegas overnight.
