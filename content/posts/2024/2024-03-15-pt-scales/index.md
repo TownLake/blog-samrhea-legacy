@@ -13,7 +13,18 @@ socialImage: ""
 
 You will find 
 
+### Timing
+
+This can vary by culture and region in the United States, but folks generally arrive on time and leave on schedule - regardless of event.
+
+1-1 Lunch: + 10 minutes
+Group Lunch: + 20 minutes
+Group Dinner: + 30 minutes
+Afternoon Party: + 45 minutes
+
 ### Dress Codes
+
+While the Portuguese will arrive late, they will show up dressed better than you.
 
 |Level|The US|Portugal|
 |---|---|---|
@@ -24,3 +35,4 @@ You will find
 
 ### Meat Temperature
 
+Take your preferred temperature in the United States and bump it up by one in Portugal. For example, if you like a steak medium, tell your waiter in Portugal that you want medium well.
