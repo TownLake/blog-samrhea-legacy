@@ -4,7 +4,7 @@ template: "page"
 socialImage: "../../sam-task.jpeg"
 ---
 
-I am the VP of Product at Cloudflare for our [Zero Trust group](https://www.cloudflare.com/products/zero-trust/), which represents the security use cases of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/).
+I am the VP of Product at Cloudflare for our [Zero Trust group](https://www.cloudflare.com/products/zero-trust/), which represents the security use cases of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/) and the proprietary private networking components.
 
 I have spent the last 5+ years at Cloudflare helping solve the security problems that plague organizations [large](https://blog.cloudflare.com/helping-keep-governments-safe-and-secure/) and [small](https://www.cloudflare.com/plans/zero-trust-services/). I [launched](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) the first piece of this puzzle in 2018 with our access control product and I have shipped alongside some of the most wonderful people in the industry as the solution evolved into the [only new vendor named](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/) in the Gartner® Magic Quadrant™ for Security Service Edge in 2023. We're only going to build faster from here because there are still so many problems to solve.
 
@@ -12,7 +12,7 @@ The products in my group include:
 * [Cloudflare Access](https://www.cloudflare.com/products/zero-trust/access/), our Zero Trust access control solution.
 * [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/), our secure networking product.
 * [Cloudflare Gateway](https://www.cloudflare.com/products/zero-trust/gateway/), our DNS filter and Secure Web Gateway.
-* The [Cloudflare Browser](https://www.cloudflare.com/zero-trust/browser-isolation/), an isolated browser so seamless that you'll forget you're using it.
+* The [Cloudflare Browser](https://www.cloudflare.com/zero-trust/products/browser-isolation/), an isolated browser so seamless that you'll forget you're using it.
 * The [Cloudflare One Agent](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/), an agent-based on ramp built on Cloudflare [WARP](https://1.1.1.1/) to connect your device to anything through Cloudflare's network.
 * [Cloudflare Data Loss Prevention](https://www.cloudflare.com/products/zero-trust/dlp/), earth's only comprehensive DLP solution that improves user experience.
 * [Cloudflare CASB](https://blog.cloudflare.com/cloudflare-zero-trust-casb/), our Cloud Access Security Broker that keeps one eye open for SaaS security issues so you can focus on your real work.
