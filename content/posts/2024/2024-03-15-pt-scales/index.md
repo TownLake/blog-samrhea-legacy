@@ -23,10 +23,12 @@ To determine what time you should arrive at a given event, use the guide below t
 
 Shame still matters in this culture, but only individual shame. If you are meeting 1-1, your acquaintance will almost definitely be late but they will feel bad. In a group dinner, everyone assumes that they won't be the last to arrive and so they don't feel too bad. By the time the last person has arrived everyone else has opened wine and is ready to forgive them.
 
-1-1 Lunch: + 10 minutes
-Group Lunch: + 20 minutes
-Afternoon Party: + 45 minutes
-Group Dinner: + 45 minutes
+|Event|Time to Add|
+|---|---|
+|1-1 Lunch| + 10 minutes |
+|Group Lunch| + 20 minutes |
+|Afternoon Party| + 45 minutes |
+|Group Dinner| + 45 minutes |
 
 ### Dress Codes
 
