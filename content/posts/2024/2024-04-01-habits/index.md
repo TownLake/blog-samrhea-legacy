@@ -77,9 +77,9 @@ Goals that contribute to general health and well being.
 | Feb | 🟨 | 🥇 | 🥇 | 🥇 | 🥇 |
 | Mar | X | X | X | X | X |
 
-### Digital and Learning Habits
+### Digital Habits
 
-Goals that focus on getting better at something (including getting better at doing something less).
+Goals that focus on putting down technology.
 
 🐦: Use Twitter for a maximum of 20 minutes each day.
 
@@ -87,13 +87,11 @@ Goals that focus on getting better at something (including getting better at doi
 
 🌅: Don't open social media of any kind until after 10 AM.
 
-📴: Try not to use my phone on Saturdays.
-
-| Month | 👾 | 🐦 | 🌅 | 📴 |
-|---|---|---|---|---|---|
-| Jan | 🥇 | 🥇 | ⬜ | ⬜ |
-| Feb | 🥇 | 🥇 | 🥇 | ⬜ |
-| Mar | X | X | X | X |
+| Month | 👾 | 🐦 | 🌅 |
+|---|---|---|---|
+| Jan | 🥇 | 🥇 | ⬜ |
+| Feb | 🥇 | 🥇 | 🥇 |
+| Mar | X | X | X |
 
 ## Why do this?
 
