@@ -56,3 +56,7 @@ Once the temperature drops below 65° Farenheit the Portuguese will dress like t
 ### Meat Temperature
 
 Take your preferred temperature in the United States and bump it up by one in Portugal. For example, if you like a steak medium, tell your waiter in Portugal that you want medium well.
+
+### Construction or Repair Timelines
+
+Take the estimate provided to you, double it, and then add one of the time units in which you received the estimate. For example, if you are told "3 weeks" then you can expect to wait 7 weeks (3 x 2, + 1 week). If you are told 1 month, you can expect to wait 3 months. This also applies to commercial real estate construction and public infrastructure projects like new metro stations.
