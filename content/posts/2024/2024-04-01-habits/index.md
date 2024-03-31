@@ -103,4 +103,6 @@ One important note - these are habits that I want to develop, not ones that alre
 
 ## What did I learn this round?
 
-* <>
+* Whoa, having a kid changes things. Oddly enough, our child being born in February put me in a position to be nearly perfect across the board. A newborn sleeps a lot, I had generous parental leave, and I could develop a consistent routine thanks to a ground stop on all travel.
+* The wheels came off in March. Our (blessedly healthy) son protested nearly all naps. We spent over two weeks hosting family from the US. Hosting family is nearly as destructive to habits as traveling. Our night nurse took a well deserved week off. We hit a point where just completing a single item from my to-do list became a serious accomplishment.
+* I'm retiring a habit as this new phase of my life begins, `Don't Return to Bed`. This habit made sense when I was a childless *bon vivant* who could snooze an alarm and sleep until 11AM on a Saturday. Now, I relish 30 minutes of shut eye whenever I can get it.
