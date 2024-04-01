@@ -55,7 +55,7 @@ The goal is to do these before 7AM. This is especially true now that I am a pare
 |---|---|---|---|---|---|---|
 | Jan | 🥇 | 🥇 | ⬜ | 🟥 | 🟥 | 🥇 |
 | Feb | 🥇 | 🥇 | 🥇 | 🟧 | 🟥 | 🥇 |
-| Mar | X | X | X | X | X | X |
+| Mar | 🟨 | 🟧 | X | 🟥 | 🟥 | 🟧 |
 
 ### Health Habits
 
@@ -75,7 +75,7 @@ Goals that contribute to general health and well being.
 |---|---|---|---|---|---|
 | Jan | 🟩 | 🥇 | 🥇 | 🥇 | 🥇 |
 | Feb | 🟨 | 🥇 | 🥇 | 🥇 | 🥇 |
-| Mar | X | X | X | X | X |
+| Mar | 🟥 | 🟩 | 🟩 | 🟨 | 🟩 |
 
 ### Digital Habits
 
@@ -91,7 +91,7 @@ Goals that focus on putting down technology.
 |---|---|---|---|
 | Jan | 🥇 | 🥇 | ⬜ |
 | Feb | 🥇 | 🥇 | 🥇 |
-| Mar | X | X | X |
+| Mar | 🟨 | 🟩 | 🟩 |
 
 ## Why do this?
 
