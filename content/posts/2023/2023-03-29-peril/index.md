@@ -21,7 +21,7 @@ DateFinish: "March 27, 2023"
 ---
 
 > ## Not a Book Report
-> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
+> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/reading) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
 
 ## Why did I read it?
 I flew across the Atlantic Ocean 22 times last year. Only 4 of those 11 distinct trips involved direct flights from Lisbon to my final destination. I spent a lot of time bored in airports. On one of those trips I strolled through the Book People store in the Austin airport searching for something to read on my AUS-EWR-LIS route, at least until I could sleep on the EWR-LIS leg. I saw this and grabbed it having read clippings of it in the news and I figured I could chew through it.

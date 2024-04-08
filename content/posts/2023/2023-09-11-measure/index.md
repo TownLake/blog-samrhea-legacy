@@ -21,7 +21,7 @@ DateFinish: "September 11, 2023"
 ---
 
 > ## Not a Book Report
-> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
+> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/reading) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
 
 ## Why did I read it?
 Years ago, I spent about five years working for various groups within Joe Liemandt's ESW Capital and Trilogy Software organization - a kind of private equity firm [obsessed](https://www.forbes.com/sites/nathanvardi/2021/04/27/inside-a-remote-work-billionaires-new-plan-to-turn-his-white-collar-workers-into-algorithms/) with making software companies more efficient. We sought inspiration from manufacturing and assembly lines for managing traditionally "services" work - something Andy Grove at Intel thrived doing.

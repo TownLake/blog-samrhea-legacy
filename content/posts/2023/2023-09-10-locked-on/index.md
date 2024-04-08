@@ -10,7 +10,7 @@ tags:
   - "books"
 description: "John Ryan Book 11 - nukes, again."
 socialImage:
-book: "Tom Clancy Locked On"
+book: "Locked On"
 Author: "Tom Clancy and Mark Greaney"
 Year Published: "2011"
 Format: "Kindle"
@@ -21,7 +21,7 @@ DateFinish: "September 10, 2023"
 ---
 
 > ## Not a Book Report
-> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
+> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/reading) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
 
 ## Why did I read it?
 I picked up a Tom Clancy book in the Stockholm Central train station a couple months ago and it made me remember how fun these can be. So I rewound in the series by about a decade and picked up at Book 10 in the run. I have been spending a lot of time wading through some complex, but interesting, challenges at the office - all good problems, but the kinds of things that leave me beat at the end of the day and ready to jump into a novel about spies and special forces for 30 minutes before I fall asleep.
@@ -29,7 +29,7 @@ I picked up a Tom Clancy book in the Stockholm Central train station a couple mo
 ## What is it?
 |Category|Value|
 |---|---|
-|**Title**|*Tom Clancy Dead or Alive*|
+|**Title**|*Locked On*|
 |**Author**|Tom Clancy and Mark Greaney|
 |**Year Published**|2011|
 |**Format**|Kindle|
