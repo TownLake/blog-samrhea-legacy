@@ -145,19 +145,19 @@ table {
   border-spacing:0;
 
 tr {
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #d1d7dd;
   background-color: white;
   margin: 0;
   padding:0;
 
   &:nth-child(2n) {
-    background-color: #f8f8f8;
+    background-color: #f6f8fa;
   }
 
   th,
   td {
     pading: 6px 13px;
-    border: 1px solid #cccccc;
+    border: 1px solid #d1d7dd;
     text-align: left;
     margin: 0;
   }
