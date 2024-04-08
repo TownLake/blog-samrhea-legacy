@@ -140,27 +140,34 @@ figure {
 }
 
 table {
-  width: 100%;
-  max-width: 100%;
   margin-bottom: 20px;
   border-collapse: collapse;
   border-spacing:0;
 
+tr {
+  border-top: 1px solid #cccccc;
+  background-color: white;
+  margin: 0;
+  padding:0;
+
+  &:nth-child(2n) {
+    background-color: #f8f8f8;
+  }
+
   th,
   td {
-    pading: 8px 13px;
-    border: 1px solid #d0d7de;
+    pading: 6px 13px;
+    border: 1px solid #cccccc;
     text-align: left;
-    line-height: 1.4;
+    margin: 0;
   }
 
-  th {
-    background-color: #f6f8fa;
-    font-weight: 600;
+  &:first-child {
+    margin-top: 0;
   }
 
-  tbody tr:nth-of-type(odd) {
-    background-color: f6f8fa;
+  &;last-child {
+    margin-bottom: 0;
   }
 }
 
