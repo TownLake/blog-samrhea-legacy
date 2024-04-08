@@ -144,11 +144,11 @@ table {
   border-collapse: collapse;
   border-spacing:0;
 
-tr {
-  border-top: 1px solid #d1d7dd;
-  background-color: white;
-  margin: 0;
-  padding:0;
+  tr {
+    border-top: 1px solid #d1d7dd;
+    background-color: white;
+    margin: 0;
+    padding:0;
 
   &:nth-child(2n) {
     background-color: #f6f8fa;
@@ -160,7 +160,6 @@ tr {
     border: 1px solid #d1d7dd;
     text-align: left;
     margin: 0;
-  }
 
   &:first-child {
     margin-top: 0;
@@ -168,6 +167,12 @@ tr {
 
   &:last-child {
     margin-bottom: 0;
+  }
+}
+    
+th {
+  font-weight: bold;
+    }
   }
 }
 
