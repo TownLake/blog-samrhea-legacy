@@ -21,7 +21,7 @@ DateFinish: "April 23, 2023"
 ---
 
 > ## Not a Book Report
-> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
+> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/reading) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
 
 ## Why did I read it?
 My wife's family draws names for Christmas presents each year; my name was selected and I asked for physical books. I put together a list of a couple books that I had wanted to read and had seen this on the NY Times list and found it interesting. I work in a corporation, I have for most of my adult life, and I spend the vast majority of my waking time operating within one. However, I know very little about the history of the concept.

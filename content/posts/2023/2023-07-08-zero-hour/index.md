@@ -1,5 +1,5 @@
 ---
-title: "📚🚁 Tom Clancy Zero Hour by Don Bentley"
+title: "📚🚁 Zero Hour by Don Bentley"
 date: "2023-07-08"
 template: "post"
 draft: false
@@ -10,7 +10,7 @@ tags:
   - "books"
 description: "The Tom Clancy Literary Universe."
 socialImage: "./media/zero-hour.png"
-book: "Tom Clancy Zero Hour"
+book: "Zero Hour"
 Author: "Don Bentley"
 Year Published: "2022"
 Format: "Paperback"
@@ -21,7 +21,7 @@ DateFinish: "July 8, 2023"
 ---
 
 > ## Not a Book Report
-> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
+> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/reading) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
 
 ## Why did I read it?
 One of the longest flights that you can take inside of Europe is the direct between Lisbon and Stockholm. The flight clocks in at a little over four hours. While this would be mundane for most Americans, within Europe this is long haul.
@@ -37,7 +37,7 @@ They also aren't really "Tom Clancy" books - he passed away and the series of Ja
 ## What is it?
 |Category|Value|
 |---|---|
-|**Title**|*Tom Clancy Zero Hour*|
+|**Title**|*Zero Hour*|
 |**Author**|Don Bentley|
 |**Year Published**|2022|
 |**Format**|Paperback|

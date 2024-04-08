@@ -21,12 +21,15 @@ DateFinish: "April 6, 2024"
 ---
 
 > ## Not a Book Report
-> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
+
+> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/reading) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
 
 ## Why did I read it?
+
 I purchased this book on Kindle nearly a decade ago. I vaguely remember reading the glowing reviews at the time and thinking that the subject would be fascinating. I was right just late. I finally picked this back up out of the back of my Kindle library after spending the last few months burning through Tom Clancy novels until I [found a new author](https://blog.samrhea.com/posts/2024/power-empire) in the series that I could not enjoy. I figured I might as well read about some real geopolitical intrigue.
 
 ## What is it?
+
 |Category|Value|
 |---|---|
 |**Title**|*Lawrence in Arabia*|
@@ -43,6 +46,7 @@ The Arab Revolt against the Turks in World War I was, in the words of T. E. Lawr
 At the center of it all was Lawrence himself. In early 1914 he was an archaeologist excavating ruins in Syria; by 1917 he was riding into legend at the head of an Arab army as he fought a rearguard action against his own government and its imperial ambitions. Based on four years of intensive primary document research, Lawrence in Arabia definitively overturns received wisdom on how the modern Middle East was formed.
 
 ## How did I read it?
+
 |Category|Value|
 |---|---|
 |**Date Started**|January 22, 2024|
@@ -50,6 +54,7 @@ At the center of it all was Lawrence himself. In early 1914 he was an archaeolog
 |**Places Read**|Hospital da Luz, Lisbon|
 
 ## Notes - No Spoilers
+
 * I really appreciated the positioning of Lawrence, Yale, Aaronsohn, and Prüfer in the book and how much their real lives overlapped or influenced one another. The wars and regions were large but the players confined to a pretty small circle.
 * The anecdotes about Lawrence add up to a pretty straightforward reason he was able to accomplish what he did: he tried to blend. Anderson breaks down how the entire generation of British minor aristocracy administered the Empire by just showing up and being British. Lawrence balked at the idea that "Europeans don't walk in Syria" and learned the language and showed up in remote villages. He understood the place.
 * Both sides desperately wanted to use the Arabs through their Hashemite leaders. And they did so in such a cartoonishly manipulative way - trying to coax anti-colonial fervor out against the Ottomans just to open up a new front in a war that the Europeans hoped would result in their position as the new colonial rules of the region.

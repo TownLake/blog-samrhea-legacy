@@ -22,7 +22,7 @@ DateFinish: "October 8, 2023"
 ---
 
 > ## Not a Book Report
-> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
+> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/reading) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
 
 ## Why did I read it?
 I live in Portugal, a country obsessed with its own naval heritage. I recently ran the city's half marathon. While training for it, I passed the monument to the explorers and the maritime defense tower. The race started on the Vasco de Gama bridge. When I walked to the doctor a few weeks ago, I passed a mural that connects the country's sailing age to its modern navy as a recruitment tool. This place loves boats.

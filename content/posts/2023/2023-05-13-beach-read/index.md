@@ -21,7 +21,7 @@ DateFinish: "May 13, 2023"
 ---
 
 > ## Not a Book Report
-> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
+> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/reading) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
 
 ## Why did I read it?
 At my wife's suggestion, I read the Emily Henry novel *Book Lovers* [last month](https://blog.samrhea.com/posts/2023/book-lovers). I loved it. I sincerely enjoy rom com films and, like [my recent audiobook tour](https://blog.samrhea.com/posts/2023/thrawn) back through *Thrawn*, I forgot how much I enjoy reading fiction after spending the last few years consuming exclusively business books or historical non-fiction because I thought that was what I was supposed to be doing at this stage in my life. Glad I was wrong.

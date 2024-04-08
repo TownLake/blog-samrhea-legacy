@@ -22,7 +22,7 @@ DateFinish: "April 25, 2023"
 ---
 
 > ## Not a Book Report
-> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/walkthrough) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
+> I enjoy [reflecting](https://blog.samrhea.com/posts/2019/analyze-media-habits) on the movies, TV, books and other media that I consume. I'm notoriously sentimental. This [series](https://blog.samrhea.com/category/reading) documents the books that I read. These aren't reviews or recommendations. Just a list. For me. Mostly so that I can page through what I read, where I was, and when.
 
 ## Why did I read it?
 I adored the Star Wars Extended Universe (EU) growing up. I loved how much depth a book could explore about the universe that a two-hour film focused on a couple protagonists could not. Thrawn became one of my favorite characters after Timothy Zahn's *Heir to the Empire*. The Vulcan of Star Wars. The scary idea of "what if the Empire was way more competent and efficient?" I loved how he teed up the Yuuzhan Vong.
