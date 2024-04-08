@@ -146,7 +146,6 @@ table {
 
   tr {
     border-top: 1px solid #d1d7dd;
-    background-color: white;
     margin: 0;
     padding:0;
 
@@ -156,7 +155,7 @@ table {
 
   th,
   td {
-    pading: 6px 13px;
+    padding: 6px 13px;
     border: 1px solid #d1d7dd;
     text-align: left;
     margin: 0;
@@ -172,6 +171,7 @@ table {
     
 th {
   font-weight: bold;
+  text-align: center;
     }
   }
 }
