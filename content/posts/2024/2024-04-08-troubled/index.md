@@ -27,9 +27,9 @@ DateFinish: "April 7, 2024"
 
 _The Economist_ has a Culture section each week that often features book reviews. They recommend books across a range of subjects, most frequently history. The books vary across polital spectrum and idealogy (within a somewhat narrow band).
 
-They highlighted this book as it appears to be gaining traction in a few different circles. The idea of class in the United States (and Europe) interests me and I was curious about exploring this based on the description.
+They highlighted this book as it gains traction in a few different hot-take-industry circles. The idea of class in the United States (and Europe) interests me and I was curious about exploring this story.
 
-I did not realize how much traction this book has generated within the conservative movement. That said, I'm glad I read it. We are probably all guilty of spending too much time inside of our own idealogical bubbles. The non-fiction books I read last year included a scathing indictment of the final days of the Trump administration and a liberal take on the history of capitalism.
+I did not realize how much traction this book has within the conservative movement. I later found out that this has become something of an "anti-woke" anecdote. That said, I'm glad I read it. I am generally liberal and the media I consume reflects that. We are probably all guilty of spending too much time inside of our own idealogical bubbles. The non-fiction books I read last year included a scathing indictment of the final days of the Trump administration and a liberal take on the history of capitalism. Time to expand those horizons a bit before my echo chamber gets smaller.
 
 ## What is it?
 
@@ -60,10 +60,10 @@ An unflinching portrait of shattered families, desperation, and determination, T
 
 ## Notes - No Spoilers
 
-* The first 60% of this book is harrowing. This man's childhood has to rank at the absolute bottom of what is possible inside of the United States. I cannot fathom ever making it out of those environments.
+* The first 65% of this book is harrowing. This man's childhood has to rank at the absolute bottom of what is possible inside of the United States. I cannot fathom ever making it out of those environments.
 * I was also reminded of how little contact with the foster care system or poverty that I've ever had. You can assume, from books or television, that foster care is tough. This elevates that idea in painful detail.
 * Not only foster care, but the social ills that plague these communities. Drugs, booze, gambling. And then the outrageous string of just bad luck with Shelly's accidents.
-* His "escape" seems to really hinge around getting lucky (many of the activities described in the book could have landed him in jail), the encouragement of a couple people who noticed that he had potential, his passion for reading, and his work ethic.
+* His "escape" seems to really hinge around getting lucky (many of the activities described in the book could have landed him in jail like the other members of his community who remained stuck), the encouragement of a couple people who noticed that he had potential, his passion for reading, and his work ethic.
 * I enjoyed his description of joining the military and serving in uniform. His call outs that it wasn't just, contrary to his assumptions, "for poor or working-class" kids. The confinement to a strict schedule to just keep him out of trouble. I also appreciated the more thematic ideas about how teenage boys are absolutely stupid and dangerous. A system like the military, that is painfully aware of that, can provide structure and bumpers.
 * The military "didn't fundamentally 'transform' me. It just provided conditions that prevented me from acting out..."
 * The community college statistics shocked me. 70% do not complete their programs? In the rich communities that I orbit people talk about community college and trade schools as a kind of panacea.
