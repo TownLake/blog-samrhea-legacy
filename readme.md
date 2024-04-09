@@ -28,4 +28,4 @@ These are the edits I have made from the theme default above.
 * Default behavior of this theme floats mobile views down to the posts. I removed the `useEffect` for `scrollIntoView` lines in `src/components/Feed/Feed.tsx`.
 * Removed `.circleci` and `.husky` directories.
 * Removed `Code of Conduct` and `Contributing` guidelines; these document rules for the project above.
-* Added table styling in [this commit](https://github.com/TownLake/blog-samrhea/commit/f0f08fdbc200f22b9d83c83f1dfaa771867fc78a) to better match GitHub styling.
+* Added table styling in [this commit](https://github.com/TownLake/blog-samrhea/commit/f0f08fdbc200f22b9d83c83f1dfaa771867fc78a) to better match GitHub styling. Introduced and merged [this pull request](https://github.com/TownLake/blog-samrhea/pull/119) to adjust the tables to handle night mode.
