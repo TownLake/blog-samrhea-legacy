@@ -150,7 +150,7 @@ table {
     padding:0;
 
   &:nth-child(2n) {
-    background-color: #f6f8fa;
+    background-color: var(--table-n-row-background);
   }
 
   th,
