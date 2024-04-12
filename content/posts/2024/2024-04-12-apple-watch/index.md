@@ -7,9 +7,11 @@ slug: "/posts/2024/apple-mechanical-watch"
 category: "technology"
 tags:
   - "technology"
-description: "Losing the battle to justify a "nice" watch."
+description: "Losing the battle to justify a _nice_ watch."
 socialImage: ""
 ---
+
+![Watch Banner](./media/watch-victor.webp)
 
 I celebrated the birth of my son by purchasing a Swiss mechanical watch. No, not a Rolex or something flashy that crypto bros buy when `coins-go-up`. Instead, I brought home a steel, white dial IWC Portugeiser with a leather band. Nice but not rowdy.
 
