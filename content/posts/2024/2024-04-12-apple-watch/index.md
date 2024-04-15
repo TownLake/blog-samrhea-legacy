@@ -45,7 +45,7 @@ One thing that does make this practice easier is knowing that I have my Apple Wa
 
 Wearing my mechanical watch makes using my phone an all-or-nothing activity. If my phone buzzes while my wife is out, I probably need to run over and check it. If I forgot what time we need to leave for the doctor then I need to open up that shiny time attention thief.
 
-## Engineering Marvel
+## Engineering
 
 The engineers that I know who have nice watches sometimes justify it through an appreciation of the prowess that goes into their craftsmanship. They aren’t wrong. Creating one of these pieces requires the full range of engineering virtues: design, precision, efficiency, mastery of craft.
 

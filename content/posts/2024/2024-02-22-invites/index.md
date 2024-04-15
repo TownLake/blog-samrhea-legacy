@@ -8,6 +8,7 @@ category: "texas"
 tags:
   - "texas"
   - "portugal"
+  - "the hits"
 description: "Who makes the cut?"
 socialImage: "./media/invite-chart-no-additions.png"
 ---
