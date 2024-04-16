@@ -20,6 +20,9 @@
       "label": "Reading",
       "path": "https://blog.samrhea.com/category/reading"
     },
+      "label": "the hits",
+      "path": "https://blog.samrhea.com/category/the-hits"
+    },
     {
       "label": "at Cloudflare",
       "path": "/pages/at-cloudflare"
