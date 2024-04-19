@@ -7,7 +7,7 @@ slug: "/posts/2020/dimestore-cowboy"
 category: "Texas"
 tags:
   - "Texas"
-  - "the hits"
+  - hits
 description: "How I answer questions about Texas in Portugal."
 socialImage: "./media/on-horse.jpg.jpeg"
 ---

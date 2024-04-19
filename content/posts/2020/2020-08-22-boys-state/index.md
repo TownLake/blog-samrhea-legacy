@@ -7,7 +7,7 @@ slug: "/posts/2020/a-trip-back-to-boys-state"
 category: "Texas"
 tags:
   - "Texas"
-  - "the hits"
+  - hits
 description: "A week spent in an alternate universe run by teenage boys."
 socialImage: "../../../sam-task.jpeg"
 ---

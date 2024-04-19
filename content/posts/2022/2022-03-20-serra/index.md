@@ -7,7 +7,7 @@ slug: "/posts/2022/a-serra-and-new-friends"
 category: "Portugal"
 tags:
   - "Portugal"
-  - "the hits"
+  - hits
 description: "Welcoming a Serra da Estrela and new friends."
 socialImage: "./media/mopac-and-nadja.jpg"
 ---

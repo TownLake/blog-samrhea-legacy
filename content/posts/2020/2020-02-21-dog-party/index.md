@@ -7,7 +7,7 @@ slug: "/posts/2020/dog-parties-in-portugal"
 category: "Portugal"
 tags:
   - "Portugal"
-  - "the hits"
+  - hits
 description: "Homesick for not Austin."
 socialImage: "./media/dog-party.png"
 ---

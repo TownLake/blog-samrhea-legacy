@@ -7,7 +7,7 @@ slug: "/posts/2022/fixing-the-french-internet"
 category: "Texas"
 tags:
   - "Texas"
-  - "the hits"
+  - hits
 description: "Solving minor Internet problems in a foreign land with a new friend."
 socialImage: "./media/server-closet.jpg"
 ---
