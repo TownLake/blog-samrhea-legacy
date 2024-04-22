@@ -128,6 +128,14 @@ We ship quickly at Cloudflare. When we do, Product Managers write [painfully det
 
 <main class="grid">
    <article>
+     <p align="center"><img src="./media/cio.png" height="100"></p>
+       <h3>Gartner SSE 2024 MQ</h3>
+       <p><b><center>2023</center></b></p>
+       <p>Consecutive placement.</p>
+       <p><a href="https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2024">Learn more</a> ></p>
+     </div>
+   </article>
+   <article>
      <p align="center"><img src="./media/ai-security.png" height="100"></p>
        <h3>Zero Trust security for AI tools</h3>
        <p><b><center>2023</center></b></p>
