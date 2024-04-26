@@ -9,21 +9,24 @@
   "pathPrefix": "/",
   "menu": [
     {
-      "label": "Posts",
+      "label": "posts",
       "path": "/"
     },
     {
-      "label": "About",
+      "label": "about",
       "path": "/pages/about"
     },
     {
-      "label": "Reading",
+      "label": "reading",
       "path": "https://blog.samrhea.com/category/reading"
     },
     {
       "label": "the hits",
       "path": "https://blog.samrhea.com/tag/hits"
     },
+    {
+      "label": "stack",
+      "path": "/pages/stack"
     {
       "label": "at Cloudflare",
       "path": "/pages/at-cloudflare"
