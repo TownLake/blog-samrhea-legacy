@@ -43,6 +43,8 @@ I use Apple's Podcast app and organize playlists that make it easy to [listen on
 
 This just covers my personal life. The list of what I use at work would be much longer, and more complex, given what I do.
 
+iOS makes this simpler than you'd think. Just swipe to the view that lists all of your installed apps. Scroll down and, at each row, ask yourself "do I use this and why?"
+
 ### The Basics
 
 |Category|Product|Post or Notes|
@@ -67,6 +69,12 @@ This excludes all of the "daily life" apps that I use (banking, the alarm compan
 |Fitness|Apple Fitness for Runs, Strong for Weights|The Strong app on the Watch is amazing|
 |Locations|Apple Air Tags|I think I own 20|
 |Health|Apple Health <br> Withings <br> My Fitness Pal|Just to measure [these metrics](https://blog.samrhea.com/posts/2024/nebuchadnezzar), though most of what I care about is captured in annual physicals|
+
+## Where I work or my workspace
+
+Give me a laptop and a desk. That's it. As much as I have experimented over the years with really sophisticated setups (webcams, monitors, keyboards, _mise en place_), none of it matters. All that matters to me is that I am interested in what I am doing. If that is true, you could drop me into Newark Terminal C next to a group of college students one one side and families with young kids on another, during an afternoon storm that delays everything, and I'll do the best work of my life as long as I have an idea that excites me and a MacBook.
+
+My gracious wife knows this. I do not know what this says about the way my brain operates (or doesn't operate) but once I get my hands on a keyboard and get locked into what I am doing it becomes nearly impossible to rip me away. She has had to come find me in our old attic to literally take my keyboard and threaten to go without me away to get me to leave on time for a lunch while I worked on an interesting project.
 
 ## Things I don't have
 
