@@ -28,7 +28,7 @@ DateFinish: "April 28, 2024"
 
 I live surrounded by Catholic churches on the Iberian Peninsula about a ten minute walk from a neighborhood with an Arabic name. Lisbon was part of an Islamic empire and then kingdom for centuries. The narrative here tends to treat that like a brief setback - a time when the Portuguese lost what was theirs and then took it back.
 
-If you read anything about the time period you'll appreciate that this story is not accurate. The communities here mingled, exchanged, and converted (first one direction, then another, and sometimes back again). I saw a tweet by Paul Graham that he was reading this book and I picked it up given my intereset in the history of where I live.
+If you read anything about the time period you'll appreciate that this story is not accurate. The communities here mingled, exchanged, and converted (first one direction, then another, and sometimes back again). I saw a tweet by Paul Graham that he was reading this book and I picked it up given my interest in the history of where I live.
 
 ## What is it?
 

@@ -4,17 +4,15 @@ template: "page"
 socialImage: "../../sam-task.jpeg"
 ---
 
-I have long written down all of the tools that I use and media I consume. Sometimes on pieces of paper, sometimes in spreadsheets, and other times in a series of wordy blog posts. I decided to summarize it in this page going forward.
+I have a history of writing down all of the tools that I use and the media that I consume. The frequency of this activity probably correlates to when I am feeling more stressed. I find taking an inventory cathartic for some weird reason. Sometimes I do this on pieces of paper, sometimes in spreadsheets, and other times in a series of wordy blog posts. I decided to summarize it on this page going forward.
 
-I find this cathartic. I also look forward to relying on the change log in the GitHub repository behind this page to see the evolution of what I read and what I use over time.
+I also look forward to relying on the change log in the GitHub repository behind this page to see the evolution of what I read and what I use over time.
 
 ## Reading
 
-I find it valuable to document where I am getting my news in different phases. This diet influences so much of how I see the world.
-
 I am the most religious about _The Economist_. I read that weekly, in print, without fail. I like the depth of their articles and I think the slight delay is useful. Nothing that CNN thinks of as "Breaking News" has any real or immediate impact on my life. Short of war breaking out on the Iberian Peninsula or a financial collapse, very few news stories simply cannot wait. What am I supposed to do with something like "Takeaways from Day 8 of the Trump Trial" - the current CNN headline - on a Saturday morning? I'd rather the journalists at _The Economist_ lean into the constraint of a weekly print publication to gather and analyze the news that matters.
 
-I break this rule in two ways every day. First, I skim the headlines on _The New York Times_ most mornings. Second, I listen to some news podcasts when I am walking my dogs or going from place to place on foot in Lisbon. I mostly listen to these just to have some background noise as I roam about.
+I break this rule in two ways every day. First, I skim the headlines on _The New York Times_ most mornings. Second, I listen to some news podcasts when I am walking my dogs or going from place to place on foot in Lisbon. I mostly listen to these just to have some background noise while I roam about.
 
 I do need to do a better job of consuming local Portuguese news. That news can be both urgent and impactful in my life. Right now my primary source of Portuguese news consumption is my wife relaying the stories to me, in English, that she reads in Portuguese while we wind down at night. Like some kind of old timey radio broadcast called _Here's what happened today in Portugal today that Sam might care about, English edition_.
 
@@ -28,7 +26,7 @@ I use Apple's Podcast app and organize playlists that make it easy to [listen on
 
 |Daily News|Long Form|Technology|Culture|
 |---|---|---|---|
-|NPR's Up First <br> WSJ's The Journal <br> The Washington Post's Post Reports <br> The Economist's World in Brief|Plain English with Derek Thompson <br> The Daily <br> Pod Save America <br> Six Trophies|Sharp Tech|The Ringer-Verse <br> The Ringer's Prestige TV Podcast|
+|* NPR's Up First <br> * WSJ's The Journal <br> * The Washington Post's Post Reports <br> * The Economist's World in Brief | * Plain English with Derek Thompson <br> * The Daily <br> * Pod Save America <br> * Six Trophies | * Sharp Tech | * The Ringer-Verse <br> * The Ringer's Prestige TV Podcast|
 
 ## Hardware
 
@@ -37,7 +35,7 @@ I use Apple's Podcast app and organize playlists that make it easy to [listen on
 |Phone|Apple iPhone 15 Pro|[Trying](https://blog.samrhea.com/posts/2024/phone-hour) not to use it|
 |Watch|Apple Watch Ultra 2|[Sometimes](https://blog.samrhea.com/posts/2024/apple-mechanical-watch) I wear a mechanical watch|
 |Headphones|Apple AirPods|These are perfect and make me excited about the future of agent AI|
-|Computers|M Series MacBook||
+|Computer|M Series MacBook|This is where real work happens|
 |Tablets|None|I just cannot find a good use for an iPad|
 |Ereader|Kindle Paperwhite|I love it - also a [begrudging necessity](https://blog.samrhea.com/posts/2023/kindle) in Portugal for an English reader|
 
@@ -72,11 +70,11 @@ This excludes all of the "daily life" apps that I use (banking, the alarm compan
 |Locations|Apple Air Tags|I think I own 20|
 |Health|Apple Health <br> Withings <br> My Fitness Pal|Just to measure [these metrics](https://blog.samrhea.com/posts/2024/nebuchadnezzar), though most of what I care about is captured in annual physicals|
 
-## Where I work or my workspace
+## Workspace
 
-Give me a laptop and a desk. That's it. As much as I have experimented over the years with really sophisticated setups (webcams, monitors, keyboards, _mise en place_), none of it matters. All that matters to me is that I am interested in what I am doing. If that is true, you could drop me into Newark Terminal C next to a group of college students one one side and families with young kids on another, during an afternoon storm that delays everything, and I'll do the best work of my life as long as I have an idea that excites me and a MacBook.
+Give me a laptop and a desk. That's it. As much as I have experimented over the years with sophisticated setups (webcams, monitors, keyboards, _mise en place_), none of it matters. All that matters to me is that I am interested in what I am doing. If that is true, you could drop me into Newark Terminal C next to a group of college students on one side and families with young kids on another, during an afternoon storm that delays everything, and I'll do the best work of my life as long as I have a MacBook and an idea that excites me.
 
-My gracious wife knows this. I do not know what this says about the way my brain operates (or doesn't operate) but once I get my hands on a keyboard and get locked into what I am doing it becomes nearly impossible to rip me away. She has had to come find me in our old attic to literally take my keyboard and threaten to go without me away to get me to leave on time for a lunch while I worked on an interesting project.
+My gracious wife knows this. I do not know what this says about the way my brain operates (or doesn't operate), but once I get my hands on a keyboard and get locked into what I am doing it becomes nearly impossible to rip me away.
 
 ## Things I don't have
 
