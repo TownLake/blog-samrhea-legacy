@@ -4,17 +4,19 @@ template: "page"
 socialImage: "../../sam-task.jpeg"
 ---
 
+I have long written down all of the tools that I use and media I consume. Sometimes on pieces of paper, sometimes in spreadsheets, and other times in a series of wordy blog posts. I decided to summarize it in this page going forward.
+
 I find this cathartic. I also look forward to relying on the change log in the GitHub repository behind this page to see the evolution of what I read and what I use over time.
 
 ## Reading
 
 I find it valuable to document where I am getting my news in different phases. This diet influences so much of how I see the world.
 
-I am the most religious about _The Economist_. I read that weekly, in print, without fail. I like the depth of their articles and I think the slight delay is useful. Nothing that CNN thinks of as "Breaking News" has any real or immediate impact on my life. Short of war breaking out on the Iberian Peninsula or a financial collapse, very few news stories simply cannot wait. What am I supposed to do with something like the "Takeaways from Day 8 of the Trump Trial" - the current CNN headline - on a Saturday morning? I'd rather the journalists at _The Economist_ lean into the constraint of a weekly print publication and gather and analyze the news.
+I am the most religious about _The Economist_. I read that weekly, in print, without fail. I like the depth of their articles and I think the slight delay is useful. Nothing that CNN thinks of as "Breaking News" has any real or immediate impact on my life. Short of war breaking out on the Iberian Peninsula or a financial collapse, very few news stories simply cannot wait. What am I supposed to do with something like "Takeaways from Day 8 of the Trump Trial" - the current CNN headline - on a Saturday morning? I'd rather the journalists at _The Economist_ lean into the constraint of a weekly print publication to gather and analyze the news that matters.
 
-I break this rule in two ways each day. First, I skim the headlines on _The New York Times_ each day. Second, I listen to some news podcasts when I am walking my dogs or going from place to place on foot in Lisbon. I mostly listen to these just to have some background noise as I roam about.
+I break this rule in two ways every day. First, I skim the headlines on _The New York Times_ most mornings. Second, I listen to some news podcasts when I am walking my dogs or going from place to place on foot in Lisbon. I mostly listen to these just to have some background noise as I roam about.
 
-I do need to do a better job of consuming Portuguese local news. That kind of thing has both an impact and urgency in my life. Right now my primary source of Portuguese news consumption is my wife relaying the news to me, in English, that she reads in Portuguese while we wind down at night. Like some kind of old timey radio broadcast called _Here's what happened today in Portugal today that Sam might care about_.
+I do need to do a better job of consuming local Portuguese news. That news can be both urgent and impactful in my life. Right now my primary source of Portuguese news consumption is my wife relaying the stories to me, in English, that she reads in Portuguese while we wind down at night. Like some kind of old timey radio broadcast called _Here's what happened today in Portugal today that Sam might care about, English edition_.
 
 |Daily|Weekly|Monthly|Books|
 |---|---|---|---|
@@ -25,7 +27,7 @@ I do need to do a better job of consuming Portuguese local news. That kind of th
 I use Apple's Podcast app and organize playlists that make it easy to [listen on my Watch](https://blog.samrhea.com/posts/2024/phone-hour). I don't listen to everything on the Daily playlist every day, but this is how the playlist is configured.
 
 |Daily News|Long Form|Technology|Culture|
-|---|---|---|
+|---|---|---|---|
 |NPR's Up First <br> WSJ's The Journal <br> The Washington Post's Post Reports <br> The Economist's World in Brief|Plain English with Derek Thompson <br> The Daily <br> Pod Save America <br> Six Trophies|Sharp Tech|The Ringer-Verse <br> The Ringer's Prestige TV Podcast|
 
 ## Hardware
@@ -35,9 +37,9 @@ I use Apple's Podcast app and organize playlists that make it easy to [listen on
 |Phone|Apple iPhone 15 Pro|[Trying](https://blog.samrhea.com/posts/2024/phone-hour) not to use it|
 |Watch|Apple Watch Ultra 2|[Sometimes](https://blog.samrhea.com/posts/2024/apple-mechanical-watch) I wear a mechanical watch|
 |Headphones|Apple AirPods|These are perfect and make me excited about the future of agent AI|
-|Computers|M Series MacBooks for home and work||
+|Computers|M Series MacBook||
 |Tablets|None|I just cannot find a good use for an iPad|
-|Ereader|Kindle Paperwhite|[I love it](https://blog.samrhea.com/posts/2023/kindle); a begrudging necessity in Portugal for an English reader|
+|Ereader|Kindle Paperwhite|I love it - also a [begrudging necessity](https://blog.samrhea.com/posts/2023/kindle) in Portugal for an English reader|
 
 ## Software
 
@@ -58,7 +60,7 @@ iOS makes this simpler than you'd think. Just swipe to the view that lists all o
 |Audiobooks|Audible||
 |Digital Books|Kindle||
 |Photos|Apple Photos|I want a better back up plan|
-|Files|Apple Files|I probably should clean this up|
+|Files|Apple Files|I should probably clean this up|
 
 ### The Add Ons
 
@@ -66,7 +68,7 @@ This excludes all of the "daily life" apps that I use (banking, the alarm compan
 
 |Category|Product|Post or Notes|
 |---|---|---|
-|Fitness|Apple Fitness for Runs, Strong for Weights|The Strong app on the Watch is amazing|
+|Fitness|Apple Fitness for Runs <br> Strong for Weights|The Strong app on the Watch is amazing|
 |Locations|Apple Air Tags|I think I own 20|
 |Health|Apple Health <br> Withings <br> My Fitness Pal|Just to measure [these metrics](https://blog.samrhea.com/posts/2024/nebuchadnezzar), though most of what I care about is captured in annual physicals|
 
