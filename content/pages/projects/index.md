@@ -2,6 +2,7 @@
 title: "projects"
 template: "page"
 socialImage: "../../sam-task.jpeg"
+hidden: true
 ---
 
 This blog is home to the output of four different projects:
