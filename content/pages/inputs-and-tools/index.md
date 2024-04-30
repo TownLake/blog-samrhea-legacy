@@ -10,7 +10,7 @@ I also look forward to relying on the change log in the GitHub repository behind
 
 ## Reading
 
-I am the most religious about _The Economist_. I read that weekly, in print, without fail. I like the depth of their articles and I think the slight delay is useful. Nothing that CNN thinks of as "Breaking News" has any real or immediate impact on my life. Short of war breaking out on the Iberian Peninsula or a financial collapse, very few news stories simply cannot wait. What am I supposed to do with something like "Takeaways from Day 8 of the Trump Trial" - the current CNN headline - on a Saturday morning? I'd rather the journalists at _The Economist_ lean into the constraint of a weekly print publication to gather and analyze the news that matters.
+I am the most religious about _The Economist_. I read it weekly, in print, without fail. I like the depth of their articles and I think the slight delay is useful. Nothing that CNN thinks of as "Breaking News" has any real or immediate impact on my life. Short of war breaking out on the Iberian Peninsula or a financial collapse, very few news stories simply cannot wait. What am I supposed to do with something like "Takeaways from Day 8 of the Trump Trial" - the current CNN headline - on a Saturday morning? I'd rather the journalists at _The Economist_ lean into the constraint of a weekly print publication to gather and analyze the news that matters.
 
 I break this rule in two ways every day. First, I skim the headlines on _The New York Times_ most mornings. Second, I listen to some news podcasts when I am walking my dogs or going from place to place on foot in Lisbon. I mostly listen to these just to have some background noise while I roam about.
 
@@ -49,7 +49,7 @@ iOS makes this simpler than you'd think. Just swipe to the view that lists all o
 
 |Category|Product|Post or Notes|
 |---|---|---|
-|Mail|Apple iCloud Custom Email Domain, Cloudflare DNS|Thinking about switching|
+|Mail|Proton, Cloudflare DNS|It is exactly what I want from a mail service|
 |Messaging|iMessage for the Americans, WhatsApp in Europe|
 |Notes|Apple Notes|I don't use it that much; if I'm going to write something I'll sit down at a laptop and crack open a Google Doc|
 |Tasks|Apple Reminders|It's good enough and it works with the Watch|

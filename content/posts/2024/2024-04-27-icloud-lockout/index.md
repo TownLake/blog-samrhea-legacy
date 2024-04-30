@@ -72,7 +72,7 @@ I rely on a unique email address as my iMessage contact, rather than my phone nu
 
 This is an email address on a domain that I control, which I think makes a difference in a recovery event. I just don't know if Apple would let me recover the account if I have control over the email domain. Even if I control the email, could I sign up again for an iCloud account with that email despite another account "squatting" on it in a lock out? I'm not sure.
 
-Most of my friends have my phone numbers so I could at least begin again, but I've painstakingly begged them over five years to switch to the email address.
+Most of my friends have my phone numbers so I could at least begin again, but I've begged them over five years to switch to the email address. They would probably just give up on talking to me.
 
 ### Find My and AirTags
 
@@ -84,11 +84,7 @@ I use the new iOS passkey feature as a login method for some services. I also re
 
 ### Sign in with Apple
 
-I use the `Sign in with Apple` feature to avoid making new accounts for services that I really do not care about or intend to use one time. For example, applications that I was just testing like old experiments with Adobe Creative Cloud and Nomad. I also use it when I want to buy something quickly from a new ecommerce app like StopckXor Drizly. I would not lose much sleep if I lost access to every one of these essentially one-off accounts.
-
-### Mail
-
-This is easy. I use iCloud mail today but with my own custom email domain. I'd just change the DNS records and move forward.
+I use the `Sign in with Apple` feature to avoid making new accounts for services that I really do not care about or intend to use one time. For example, applications that I was just testing like old experiments with Adobe Creative Cloud and Nomad. I also use it when I want to buy something quickly from a new ecommerce app like StopckX or Drizly. I would not lose much sleep if I lost access to every one of these essentially one-off accounts.
 
 ### Apple Card - Account Lockout
 
@@ -122,4 +118,4 @@ Again, I have pretty good 2FA backup options. In the event that I am only locked
 
 **3. Account Username Control**
 
-This is the most vexing. If someone hijacks my account or if Apple inadvertently  killed it, would I be able to create a new account with the same username - if that username is a custom email and not an `@me` address? I don't know. I doubt it. I'd have to almost start a new life on this front...
+This is the most vexing. If someone hijacks my account or if Apple inadvertently  killed it, would I be able to create a new account with the same username - if that username is a custom email and not an `@me` address? I don't know. I doubt it. I'd have to almost start a new life...
