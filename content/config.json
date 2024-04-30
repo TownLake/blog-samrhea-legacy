@@ -27,6 +27,7 @@
     {
       "label": "inputs & tools",
       "path": "/pages/stack"
+    },
     {
       "label": "at Cloudflare",
       "path": "/pages/at-cloudflare"
