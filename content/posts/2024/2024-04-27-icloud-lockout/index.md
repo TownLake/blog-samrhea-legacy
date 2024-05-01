@@ -7,7 +7,7 @@ slug: "/posts/2024/icloud-lock"
 category: "technology"
 tags:
   - "technology"
-description: "What is the playbook?"
+description: "A backup plan is worth it."
 socialImage: "./media/icloud-vault.webp"
 ---
 
