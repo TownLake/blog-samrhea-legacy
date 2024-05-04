@@ -7,7 +7,7 @@ slug: "/posts/2024/icloud-lock"
 category: "technology"
 tags:
   - "technology"
-description: "A backup plan is worth it."
+description: "The impact of losing your iCloud account."
 socialImage: "./media/icloud-vault.webp"
 ---
 
