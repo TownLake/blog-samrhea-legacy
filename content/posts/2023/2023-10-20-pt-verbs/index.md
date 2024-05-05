@@ -7,6 +7,7 @@ slug: "/posts/2023/pt-verbs"
 category: "Portugal"
 tags:
   - "Portugal"
+  - "hits"
 description: "More people speak PT than you think."
 socialImage: "./media/dinner-table.jpg"
 ---
