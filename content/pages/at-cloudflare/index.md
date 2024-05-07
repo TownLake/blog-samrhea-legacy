@@ -4,7 +4,11 @@ template: "page"
 socialImage: "../../sam-task.jpeg"
 ---
 
-I am the VP of Product at Cloudflare for our [Zero Trust group](https://www.cloudflare.com/products/zero-trust/), which represents the security use cases of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/) and the proprietary private networking components.
+I work on the Emerging Technology and Incubation team at Cloudflare. We spend every day building capabilities on Cloudflare's network that we think our customers will need one to five years from now - and beyond.
+
+I previously spent six years launching, building, and leading the [Zero Trust](https://www.cloudflare.com/products/zero-trust/) business at Cloudflare as the VP of Product. I was responsible for the enterprise security use cases of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/) and the proprietary private networking components.
+
+I launched the first prototype in this group into GA as a Product Manager in 2018. A few years later we became the only new vendor in the Gartner Magic Quadrant and then made the biggest leap the year after that.
 
 I have spent the last 5+ years at Cloudflare helping solve the security problems that plague organizations [large](https://blog.cloudflare.com/helping-keep-governments-safe-and-secure/) and [small](https://www.cloudflare.com/plans/zero-trust-services/). I [launched](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) the first piece of this puzzle in 2018 with our access control product and I have shipped alongside some of the most wonderful people in the industry as the solution evolved into the [only new vendor named](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/) in the Gartner® Magic Quadrant™ for Security Service Edge in 2023. We're only going to build faster from here because there are still so many problems to solve.
 
