@@ -16,16 +16,18 @@ I'm an Austinite, but I left my hometown in 2019 to help open Cloudflare's offic
 
 ## Work
 
-I [work](https://blog.samrhea.com/pages/at-cloudflare) on the Emerging Technology and Incubation team at Cloudflare. We spend every day building capabilities on Cloudflare's network that we think our customers will need one to five years from now - and beyond.
+I [work](https://blog.samrhea.com/pages/at-cloudflare) on the Emerging Technology and Incubation team at Cloudflare. We spend every day building the capabilities on Cloudflare's network that we think customers will need next.
 
 I previously spent six years launching, building, and leading the [Zero Trust](https://www.cloudflare.com/products/zero-trust/) business at Cloudflare as the VP of Product. I was responsible for the enterprise security use cases of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/) and the proprietary private networking components.
 
-Before Cloudflare I spent half a decade as a Product Manager in the Austin office of ESW Capital. I helped acquire and improve software companies of all sizes through our DevFactory arm. Prior to my time with the ESW Capital group I worked for a medical technology investment firm doing a little bit of everything as we built, bought, and invested in healthcare businesses.
+Before Cloudflare I spent several years as a Product Manager in the Austin office of ESW Capital. I helped acquire and improve software companies of all sizes through our DevFactory arm. Prior to my time with the ESW Capital group I worked for a medical technology investment firm doing a little bit of everything as we built, bought, and invested in healthcare technology businesses.
 
 ## School
 
-I studied in the Plan II Program at The University of Texas at Austin. That doesn't matter at all, though, to what you should think of me - where we went to school impacts our first job (maybe). Instead, I am adding that here because you should know how cool it is. I believe that major could and should be a model for higher education.
+I studied in the [Plan II Program](https://liberalarts.utexas.edu/plan2/) at The University of Texas at Austin. Yes, it is a major in and of itself.
 
-I had a perfect GPA in all coursework, something my wife mocks me for relentlessly because I will wake up in the middle of the night thinking I bombed a test and lost my record. Your grades only matter if they can be something your spouse enjoys teasing you about.
+My diploma doesn't matter at all, though. Where we went to school _maybe_ impacts our first job. I bring it up here because I loved Plan II and think you would, too. The admittedly weird curriculum seems well-equipped to prepare students for whatever oddball form the future will take. I was able to serve on the Board of Visitors before I moved to Portugal and I continue to believe that Plan II is a model worth replicating.
+
+You know what else doesn't really matter? Your grades. I had a perfect GPA in all coursework across every subject and department they sent Plan II students to attend - and the only time that achievement impacts my life is when I wake up in a cold sweat thinking I bombed a test and lost my precious `4.0`, something that amuses my wife endlessly. Your grades only matter if they can become something your spouse enjoys teasing you about.
 
 *The profile image on this site was created by the spectacular [Kari Linder](https://twitter.com/kkblinder?s=20).*
