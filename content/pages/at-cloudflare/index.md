@@ -4,11 +4,39 @@ template: "page"
 socialImage: "../../sam-task.jpeg"
 ---
 
-I work on the Emerging Technology and Incubation team at Cloudflare. We spend every day building the capabilities on Cloudflare's network that we think customers will need next.
+I work on the Emerging Technology and Incubation team at Cloudflare. We help invent the future that we think our customers will need months and years from now.
 
-I previously spent six years launching, building, and leading the [Zero Trust](https://www.cloudflare.com/products/zero-trust/) business at Cloudflare as the VP of Product. I was responsible for the enterprise security use cases of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/) and the proprietary private networking components.
+I previously spent six years launching, building, and leading the [Zero Trust](https://www.cloudflare.com/products/zero-trust/) business at Cloudflare as the VP of Product. I ran the enterprise security use cases of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/) and the proprietary private networking components.
 
-I [launched](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) the first prototype in this group into GA as a Product Manager in 2018. A few years later we became the [only new vendor in the Gartner Magic Quadrant](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/) and then made the biggest leap the [year after that](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2024). The business is now led by a brilliant team that joined me on that journey. They are building something bigger and better than I could have ever imagined.
+I [launched](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) the first prototype in this group into GA as a Product Manager in 2018. A few years later we became the [only new vendor in the Gartner Magic Quadrant](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/) and then made the biggest leap the [year after that](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2024). From the [US Federal Government](https://blog.cloudflare.com/helping-keep-governments-safe-and-secure/) to [Fortune 500 companies](https://cloudflare.tv/shows/connect/keynote-how-roche-is-adopting-zero-trust-principles/0ZbDrlvM) to start-ups on our [free plan](https://www.cloudflare.com/plans/zero-trust-services/), tens of thousands of teams trust us to keep their operations safe without compromising on performance.
+
+The SASE business is now led by a brilliant team that joined me on that journey. They are building something bigger and better than I could have ever imagined. Meanwhile, I've jumped back to the lab to help figure out what's next.
+
+I also [launched our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/) years ago and miss the bizarre dance of domain registration. I'm sorry -- I do not know when we will support the `.horse` TLD.
+
+## 2018 - Access and Registrar
+
+Joined Cloudflare as a Product Manager in our Research & Development wing, what we now call Emerging Technology and Incubation. [Launched](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) Cloudflare Access to help teams turn off their legacy VPN. [Launched](https://blog.cloudflare.com/using-cloudflare-registrar/) Cloudflare Registrar to provide customers with at-cost domain registration.
+
+## 2019 - Tunnel
+
+Customers liked Access, but they wanted more. We added workflows that sat outside of a traditional browser so we introduced support for [SSH](https://blog.cloudflare.com/releasing-the-cloudflare-access-feature-that-let-us-smash-a-vpn-on-stage[), [service tokens](https://blog.cloudflare.com/give-your-automated-services-credentials-with-access-service-tokens), [command line flows](https://blog.cloudflare.com/leave-your-vpn-and-curl-secure-apis-with-cloudflare-access), and [RDP](https://blog.cloudflare.com/cloudflare-access-now-supports-rdp).
+
+I became the Product Manager of Cloudflare Tunnel, our private networking toolkit, and [we made it free](https://blog.cloudflare.com/a-free-argo-tunnel-for-your-next-project) to give more organizations secure ways to connect.
+
+We also realized that DNSSEC is hard but we could make it seamless. We shipped [one-click DNSSEC](https://blog.cloudflare.com/one-click-dnssec-with-cloudflare-registrar) to all Registrar customers at no cost. I handed off Registrar to an expert PM that we added to the team so that I could focus on what was becoming the Zero Trust portfolio.
+
+## 2020 - Zero Trust
+
+
+
+## 2021
+
+## 2022
+
+## 2023
+
+## 2024
 
 The products in my group include:
 * [Cloudflare Access](https://www.cloudflare.com/products/zero-trust/access/), our Zero Trust access control solution.
