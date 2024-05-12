@@ -32,7 +32,9 @@ I gave up about five days into it. The results are below if you are curious. Tur
 
 ![Sleep Data](./media/sleep-data.png)
 
-Other than curiosity, I am not sure that this data is useful at all. I feel that way about all sleep data in the age of wearables. I cannot tell you my resting heart rate if I had not measured it over the last few weeks, but I could definitely tell you if I slept poorly last night. I don't need an app to tell me that. What do the metrics provide if you are not trying to diagnose something like sleep apnea?
+That data is helpful. You can see patterns and begin to plan routines.
+
+Other than curiosity, I am not sure that the data about **me** is useful at all. I feel that way about all sleep data in the age of wearables. I cannot tell you my resting heart rate if I had not measured it over the last few weeks, but I could definitely tell you if I slept poorly last night. I don't need an app to tell me that. What do the metrics provide if you are not trying to diagnose something like sleep apnea?
 
 I also find the Apple Watch uncomfortable to wear in bed. Even though I [otherwise love it](https://blog.samrhea.com/posts/2024/apple-mechanical-watch). I probably slept worse than normal because of this, at least initially. Post update: where I did find interesting data is in the baby app that we have started using. You can see some real patterns forming that I am sure our son will modify significantly every week for the next few years.
 
