@@ -6,11 +6,11 @@ socialImage: "../../sam-task.jpeg"
 
 I work on the Emerging Technology and Incubation team at Cloudflare. We ship the future that we think our customers will need months and years from now.
 
-I previously spent six years launching, building, and leading the [Zero Trust](https://www.cloudflare.com/products/zero-trust/) business at Cloudflare as the VP of Product. I ran the enterprise security use cases of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/) and the proprietary private networking components.
+I previously spent six years launching, building, and leading the [Zero Trust](https://www.cloudflare.com/products/zero-trust/) [product line](https://blog.cloudflare.com/cloudflare-one-one-year-later/) at Cloudflare as the VP of Product.
 
-I [launched](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) the first prototype in this group into GA as a Product Manager in 2018. A few years later we became the [only new vendor in the Gartner Magic Quadrant](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/) and then made the biggest leap the [year after that](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2024). From the [US Federal Government](https://blog.cloudflare.com/helping-keep-governments-safe-and-secure/) to [Fortune 500 companies](https://cloudflare.tv/shows/connect/keynote-how-roche-is-adopting-zero-trust-principles/0ZbDrlvM) to start-ups on our [free plan](https://www.cloudflare.com/plans/zero-trust-services/), tens of thousands of teams trust us to keep their operations safe without compromising performance.
+I [shipped](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) the first prototype in this group into GA as a Product Manager in 2018. We only moved faster after that. A few years later we became the [only new vendor in the Gartner Magic Quadrant](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/) and then made the biggest leap the [year following](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2024). From the [US Federal Government](https://blog.cloudflare.com/helping-keep-governments-safe-and-secure/) to [Fortune 500 companies](https://cloudflare.tv/shows/connect/keynote-how-roche-is-adopting-zero-trust-principles/0ZbDrlvM) to start-ups on our [free plan](https://www.cloudflare.com/plans/zero-trust-services/), tens of thousands of teams trust us to keep their operations safe.
 
-The SASE business is now led by a brilliant team that joined me on that journey. They are building something bigger and better than I could have ever imagined. Meanwhile, I've been sent back to the lab to help figure out what's next.
+The SASE business is now led by the brilliant team that joined me on that journey. They are building something bigger and better than I could have ever imagined. Meanwhile, I've been sent back to the lab to help figure out what's next.
 
 I also [launched our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/) years ago and miss the bizarre dance of domain registration. I'm sorry -- I do not know when we will support the `.horse` TLD.
 
@@ -18,7 +18,7 @@ I also [launched our Registrar](https://blog.cloudflare.com/using-cloudflare-reg
 
 I joined Cloudflare as a Product Manager in our Research & Development wing, what we now call Emerging Technology and Incubation. [Launched](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) Cloudflare Access to help teams turn off their legacy VPN. [Launched](https://blog.cloudflare.com/using-cloudflare-registrar/) Cloudflare Registrar to provide customers with at-cost domain registration.
 
-## 2019 - PM of Access, Registrar, and Tunnel
+## 2019 - Product Manager of Access, Registrar, and Tunnel
 
 Customers liked Access, but they wanted more. We added workflows that sat outside of a traditional browser so we introduced support for [SSH](https://blog.cloudflare.com/releasing-the-cloudflare-access-feature-that-let-us-smash-a-vpn-on-stage[), [service tokens](https://blog.cloudflare.com/give-your-automated-services-credentials-with-access-service-tokens), [command line flows](https://blog.cloudflare.com/leave-your-vpn-and-curl-secure-apis-with-cloudflare-access), and [RDP](https://blog.cloudflare.com/cloudflare-access-now-supports-rdp).
 
@@ -47,16 +47,17 @@ Customers responded. CISA, the US Government's national cybersecurity risk advis
 
 ## 2022 - VP of Product for Cloudflare Zero Trust
 
-As much as we love to build at Cloudflare, sometimes we need to bring in experts from outside. One challenge that our customers kept running into was the security of data-at-rest and posture controls in their SaaS applications. We leaped ahead by [acquiring Vectrix](https://blog.cloudflare.com/cloudflare-zero-trust-casb
-) to join Cloudflare Zero Trust.
+As much as we love to build at Cloudflare, sometimes we need to bring in experts from outside. One challenge that our customers kept running into was the security of data-at-rest and posture controls in their SaaS applications. We jumped ahead to solve this problem by [acquiring Vectrix](https://blog.cloudflare.com/cloudflare-zero-trust-casb).
 
 ## 2023 - VP of Product for Cloudflare Zero Trust
 
-The team grew and we only shipped faster. We became the [only new vendor in the Gartner Magic Quadrant](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/).
+The team only shipped faster. We became the [only new vendor in the Gartner Magic Quadrant](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/).
 
 ## 2024 - Emerging Technology and Incubation
 
-I 
+More enterprises adopted Cloudflare Zero Trust - and they loved it - Gartner named us a [Customers' Choice](https://www.gartner.com/reviews/market/zero-trust-network-access/vendor/cloudflare/product/cloudflare-access?cf_history_state=%7B%22guid%22%3A%22C255D9FF78CD46CDA4F76812EA68C350%22%2C%22historyId%22%3A14%2C%22targetId%22%3A%221920B3794DDB55FA38FAE7AB3D0515D5%22%7D) vendor based on that feedback and we kept moving up the [Magic Quadrant](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2024).
+
+I also had a moment to survey the group and realized "hey, I think they can do this - and do this really well - without me." The team I had assembled could thrive on their own and it probably made more sense to tackle new problems at Cloudflare. I volunteered to transition leadership of Cloudflare Zero Trust to my direct reports and I jumped back into our Emerging Technology and Incubation group in June.
 
 When I handed off the keys to the Zero Trust team, the products in my group included:
 

@@ -16,13 +16,13 @@ I'm an Austinite, but I left my hometown in 2019 to help open Cloudflare's offic
 
 ## Work
 
-I [work](https://blog.samrhea.com/pages/at-cloudflare) on the Emerging Technology and Incubation team at Cloudflare. We help invent the future that we think our customers will need months and years from now.
+I work on the Emerging Technology and Incubation team at Cloudflare. We ship the future that we think our customers will need months and years from now.
 
-I previously spent six years launching, building, and leading the [Zero Trust](https://www.cloudflare.com/products/zero-trust/) business at Cloudflare as the VP of Product. I ran the enterprise security use cases of [Cloudflare One](https://blog.cloudflare.com/cloudflare-one-one-year-later/) and the proprietary private networking components.
+I previously spent six years launching, building, and leading the [Zero Trust](https://www.cloudflare.com/products/zero-trust/) [product line](https://blog.cloudflare.com/cloudflare-one-one-year-later/) at Cloudflare as the VP of Product.
 
-I [launched](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) the first prototype in this group into GA as a Product Manager in 2018. A few years later we became the [only new vendor in the Gartner Magic Quadrant](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/) and then made the biggest leap the [year after that](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2024). From the [US Federal Government](https://blog.cloudflare.com/helping-keep-governments-safe-and-secure/) to [Fortune 500 companies](https://cloudflare.tv/shows/connect/keynote-how-roche-is-adopting-zero-trust-principles/0ZbDrlvM) to start-ups on our [free plan](https://www.cloudflare.com/plans/zero-trust-services/), tens of thousands of teams trust us to keep their operations safe without compromising on performance.
+I [shipped](https://blog.cloudflare.com/cloudflare-access-now-teams-of-any-size-can-turn-off-their-vpn/) the first prototype in this group into GA as a Product Manager in 2018. We only moved faster after that. A few years later we became the [only new vendor in the Gartner Magic Quadrant](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/) and then made the biggest leap the [year following](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2024). From the [US Federal Government](https://blog.cloudflare.com/helping-keep-governments-safe-and-secure/) to [Fortune 500 companies](https://cloudflare.tv/shows/connect/keynote-how-roche-is-adopting-zero-trust-principles/0ZbDrlvM) to start-ups on our [free plan](https://www.cloudflare.com/plans/zero-trust-services/), tens of thousands of teams trust us to keep their operations safe.
 
-The SASE business is now led by a brilliant team that joined me on that journey. They are building something bigger and better than I could have ever imagined. Meanwhile, I've jumped back to the lab to help figure out what's next.
+The SASE business is now led by the brilliant team that joined me on that journey. They are building something bigger and better than I could have ever imagined. Meanwhile, I've been sent back to the lab to help figure out what's next.
 
 I also [launched our Registrar](https://blog.cloudflare.com/using-cloudflare-registrar/) years ago and miss the bizarre dance of domain registration. I'm sorry -- I do not know when we will support the `.horse` TLD.
 
