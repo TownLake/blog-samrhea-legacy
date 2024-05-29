@@ -4,7 +4,7 @@ template: "page"
 socialImage: "../../sam-task.jpeg"
 ---
 
-I have a history of writing down all of the tools that I use and the media that I consume. The frequency of this activity probably correlates to when I am feeling more stressed. I find taking an inventory cathartic for some weird reason. Sometimes I do this on pieces of paper, sometimes in spreadsheets, and other times in a series of wordy blog posts. I decided to summarize it on this page going forward.
+I have a tendency to write down all of the tools that I use and the media that I consume. The frequency of this activity probably correlates to when I am feeling more stressed. I find it cathartic to take an inventory. Sometimes I do this on pieces of paper, sometimes in spreadsheets, and other times in a series of wordy blog posts. I decided to summarize it on this page going forward.
 
 I also look forward to relying on the change log in the GitHub repository behind this page to see the evolution of what I read and what I use over time.
 
@@ -18,11 +18,11 @@ I do need to do a better job of consuming local Portuguese news. That news can b
 
 |Daily|Weekly|Monthly|Books|
 |---|---|---|---|
-|NYT Headlines <br> Hacker News Front Page|The Economist (Print) <br> The Ringer <br> [Spyglass](https://spyglass.org)||[Running List](https://blog.samrhea.com/category/reading)|
+|NYT Headlines <br> Hacker News Front Page|The Economist (Print) <br> The Ringer <br> [Spyglass](https://spyglass.org)|||[Running List](https://blog.samrhea.com/category/reading)|
 
 ## Listening
 
-I use Apple's Podcast app and organize playlists that make it easy to [listen on my Watch](https://blog.samrhea.com/posts/2024/phone-hour). I don't listen to everything on the Daily playlist every day, but this is how the playlist is configured.
+I use Apple's Podcast app and organize playlists that make it easy to [listen on my Watch](https://blog.samrhea.com/posts/2024/phone-hour). I don't listen to everything on the `Daily News` playlist every day, but this is how the playlist is configured.
 
 |Daily News|Long Form|Technology|Culture|
 |---|---|---|---|

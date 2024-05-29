@@ -7,6 +7,7 @@ slug: "/posts/2023/benfica"
 category: "Portugal"
 tags:
   - "Portugal"
+  - "hits"
 description: "Nearly getting thrown out of Benfica."
 socialImage: "./media/benfica-jacket.jpg"
 ---
