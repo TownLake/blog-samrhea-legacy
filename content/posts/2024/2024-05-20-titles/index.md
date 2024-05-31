@@ -54,4 +54,6 @@ That's not to say that titles have no value or you should shy away from them. Th
 
 All to say, I have a new title at Cloudflare. I recently decided that the team I assembled in the `Cloudflare One` unit could thrive without me. So I raised my hand and asked what else the company needs most. And the answer came back that, right now, I could best help out as the Chief of Staff in our Emerging Technology and Incubation group - my old team.
 
-Six years after I joined Cloudflare I am once again showing up on a Monday to open a Cloudflare laptop as an individual contributor with little authority and a mountain of problems to try and tackle. Feels good to be king of that hill again.
+I'm thrilled - especially because the leadership that made me want to join back in 2019 is still there. Not to say my old role is done, by any means, it's just in a state that I'm proud to call it ready for a new generation to lead it to places beyond what I could.
+
+I have always been happier over the long run by just finding ways to do hard things with people that I like. Being Chief of Staff in ETI gives me a new inning to do that. Six years after I joined Cloudflare I am once again showing up on a Monday to open a Cloudflare laptop as an individual contributor with little authority and a mountain of problems to try and tackle. Feels good to be king of that hill again.
