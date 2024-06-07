@@ -22,8 +22,9 @@ const Author = () => {
         </a>
         <a
           href="https://mailchi.mp/c32cdbf0cefa/sam-rhea-blog"
+          rel="noopener noreferrer"
         >
-          <strong>Sign up for emails</strong>
+          <strong>Sign up</strong> for emails
         </a>
       </p>
     </div>
