@@ -25,18 +25,18 @@
       "path": "https://blog.samrhea.com/tag/hits"
     },
     {
-      "label": "inputs & tools",
-      "path": "/pages/inputs-and-tools"
-    },
-    {
       "label": "at work",
       "path": "/pages/at-cloudflare"
+    },
+    {
+      "label": "sign up",
+      "path": "https://mailchi.mp/c32cdbf0cefa/sam-rhea-blog"
     }
   ],
   "author": {
     "name": "Sam Rhea",
     "photo": "/sam-task.jpeg",
-    "bio": "Austinite in Lisbon. VP of Product at Cloudflare.",
+    "bio": "Austinite in Lisbon. Emerging Tech at Cloudflare.",
     "contacts": {
       "rss": "",
       "email": "",

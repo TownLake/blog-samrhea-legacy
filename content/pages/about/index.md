@@ -36,4 +36,8 @@ My diploma doesn't matter at all, though. Where we went to school _maybe_ impact
 
 You know what else doesn't really matter? Your grades. I had a perfect GPA in all coursework across every subject and department they sent Plan II students to attend - and the only time that achievement impacts my life is when I wake up in a cold sweat thinking I bombed a test and lost my precious `4.0`, something that amuses my wife endlessly. Your grades only matter if they can become something your spouse enjoys teasing you about.
 
+## Inputs and Tools
+
+I also keep a current inventory of what I rely on as I go about my day; current roster [here](https://blog.samrhea.com/pages/inputs-and-tools).
+
 *The profile image on this site was created by the spectacular [Kari Linder](https://twitter.com/kkblinder?s=20).*
