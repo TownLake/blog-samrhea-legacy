@@ -38,24 +38,14 @@ When I wrote the EOT post I cataloged my “preferences” for how I wanted to s
 
 |Requirement|What is it?|
 |---|---|
-|Dad Time|Our son is, as I’m writing this, nearly five months old. This age is a blast. Everyday he does something new. I want to be there for as much of it as I can. I get to spend all weekend exploring the world with him but during the week I have to prioritize that time.
-
-His still-developing Circadian rhythm means he is (generally) available from 7A to 7P (of course, I will “see” him between 7P and 7A when he wakes up fo a late night snack, but indulging his desire to play at 2:30A is not good for either of us).
-
-I need to find some way to also be with him in that 12 hour block. If I am going to work a typical workday, that leaves the mornings or the evenings open. Mornings are easier for me because much of my work is done with colleagues in the US which shifts my day to the right a bit - a legacy of EOT.|
+|Dad Time|Our son is, as I’m writing this, nearly five months old. This age is a blast. Everyday he does something new. I want to be there for as much of it as I can. I get to spend all weekend exploring the world with him but during the week I have to prioritize that time.<br><br>His still-developing Circadian rhythm means he is (generally) available from 7A to 7P (of course, I will “see” him between 7P and 7A when he wakes up fo a late night snack, but indulging his desire to play at 2:30A is not good for either of us).<br><br>I need to find some way to also be with him in that 12 hour block. If I am going to work a typical workday, that leaves the mornings or the evenings open. Mornings are easier for me because much of my work is done with colleagues in the US which shifts my day to the right a bit - a legacy of EOT.|
 |Marriage|Like my time with our son, I have abundant opportunities during the weekend to spend time with my best friend but I have to be deliberate during the week otherwise I’ll run into her on a Saturday and ask her how she’s been over the last week.|
-|Work|I still try and get about 10 hours each day. The last time I wrote this the reactions to that were hilarious. American tech folks read that and thought “only 10?” My European counterparts were shocked and terrified. I typically wind up working 60-70, but mostly because I’ll grab a laptop and chew through something if my wife and I put the television on.
-
-Or I’ll wake up before the rest of my family on a Sunday morning and try to make progress on something while I wait for the house to start stirring.|
+|Work|I still try and get about 10 hours each day. The last time I wrote this the reactions to that were hilarious. American tech folks read that and thought “only 10?” My European counterparts were shocked and terrified. I typically wind up working 60-70, but mostly because I’ll grab a laptop and chew through something if my wife and I put the television on.<br><br>Or I’ll wake up before the rest of my family on a Sunday morning and try to make progress on something while I wait for the house to start stirring.|
 |Exercise|Some things never change - in this case that’s a good sign! I still plan to spend 1 hour each day working out.|
 |Dogs|In addition to a human child my wife and I are also responsible for two very large dogs. We are lucky enough to have a dog daycare that we adore in Lisbon but I still need to get them there each morning.|
-|Writing|I’d like to block out 20-30 minutes to write. I think of writing like I think of physical fitness - you have to exercise that muscle or it will atrophy.
-
-I saw a (maybe apocryphal) quote from Toni Morrison that amounted to wanting to get some writing done before anyone called her “Mom” which meant the early mornings. I am nowhere close to a Morrison level writer but I do like the idea. Once the day gets going, it is really hard to set aside time to write.|
+|Writing|I’d like to block out 20-30 minutes to write. I think of writing like I think of physical fitness - you have to exercise that muscle or it will atrophy.<br><br>I saw a (maybe apocryphal) quote from Toni Morrison that amounted to wanting to get some writing done before anyone called her “Mom” which meant the early mornings. I am nowhere close to a Morrison level writer but I do like the idea. Once the day gets going, it is really hard to set aside time to write.|
 |Commute|I need about 20 minutes to walk to the office each day (the office and I both moved since my last post).|
-|Lunch|I also still eat lunch at my desk when possible. It’s not that I am antisocial, it’s just that Portuguese lunches (even coworker ones) never last less than 90 minutes and any time I spend at one of these events is time I cannot spend doing actual work which pushes my day later.
-
-I do say Yes to these from time to time, especially when we have visitors from other offices in town.|
+|Lunch|I also still eat lunch at my desk when possible. It’s not that I am antisocial, it’s just that Portuguese lunches (even coworker ones) never last less than 90 minutes and any time I spend at one of these events is time I cannot spend doing actual work which pushes my day later.<br><br>I do say Yes to these from time to time, especially when we have visitors from other offices in town.|
 
 You’ll notice something odd - “Dinner” is not listed. I tend to snack a little bit around dinner time but prefer to eat a large lunch.
 
