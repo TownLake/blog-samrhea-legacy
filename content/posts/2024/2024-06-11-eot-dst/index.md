@@ -15,7 +15,7 @@ socialImage: ""
 
 Five years ago I wrote a [post that cataloged](https://blog.samrhea.com/posts/2019/euro-office-time) my working hours in the European office of an American software company. I had moved from Austin to Lisbon to help open up the new Cloudflare office here but I kept most of my day job from back home. And in that capacity I found timezone nirvana. The blog post celebrated what I believe is the ideal working environment - the “Quiet Morning, Filtered Afternoon” setup.
 
-![EOT](content/posts/2019/2019-11-24-euro-time/media/eot.png)
+![EOT](../../2019/2019-11-24-euro-time/media/eot.png)
 
 I called it `European Office Time` (EOT). The entry became the second most popular post on this blog after the one tutorial I published for mutual TLS authentication. Turns out people like how-to guides.
 
