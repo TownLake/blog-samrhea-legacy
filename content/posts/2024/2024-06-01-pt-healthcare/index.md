@@ -1,5 +1,5 @@
 ---
-title: "🇵🇹🧪 Portuguese Masturbation Exams"
+title: "🇵🇹🧪 Portuguese Potency Exams"
 date: "2024-06-01"
 template: "post"
 draft: false
