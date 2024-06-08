@@ -54,9 +54,9 @@ As sensationalized stories spin out of control and the stolen missiles remain ou
 |**Places Read**|Lisbon, Sintra, Praia Grande|
 
 ## Notes - No Spoilers
-* Thsi is the second novel from Marc Cameron after Mark Greaney left for his own, *Grey Man* series. I really, really hated the first Cameron novel and swore I was done with the series.
+* This is the second novel from Marc Cameron after Mark Greaney left for his own, *Grey Man* series. I really, really hated the first Cameron novel and swore I was done with the series.
 * Instead, I turned my attention to a list of biographies that _The Economist_ recommended.
 * And lord have mercy, they were boring. So I came crawling back to the easy read, dad-lit, books that I know I will breeze through and enjoy in the 20 minutes before I fall asleep each evening.
 * This one was better than his first outing. He seems to have course corrected and returned to more of a classic Jack Ryan novel and less of a kind of _Punisher_ knock off.
-* Always fun to see characters from old books, especially my perenial favorite Adam Yao (who gets a mention more than an appearance). And of course Ysabel.
+* Always fun to see characters from old books, especially my perennial favorite Adam Yao (who gets a mention more than an appearance). And of course Ysabel.
 * Like the _Fast and Furious_ series, the characters continue to operate less like humans and more like Marvel superheros and Jack Ryan Jr. remains the most guilty of this.
