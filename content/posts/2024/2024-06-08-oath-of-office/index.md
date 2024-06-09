@@ -31,7 +31,7 @@ I picked up a Tom Clancy book in the Stockholm Central train station a couple mo
 |---|---|
 |**Title**|*Oath of Office*|
 |**Author**|Marc Cameron|
-|**Year Published**|208|
+|**Year Published**|2018|
 |**Format**|Kindle|
 |**Pages**|528|
 |**ASIN**|B07BJM9FW4|
