@@ -79,7 +79,7 @@ Being a doctor is probably the most highly paid and prestigious form of shift wo
 
 ## So, what is the plan?
 
-IMAGE
+![EOT-DST](content/posts/2024/2024-06-11-eot-dst/media/eot-dst.png)
 
 | Time | Symbol | What is it? |
 |---|---|---|
@@ -97,6 +97,8 @@ IMAGE
 | 11:00p | 😴 | Bed! |
 
 This changes, of course. Late night meetings will pop up. Dentist appointments and errands tend to happen. I travel for work fairly often. However, this represents how I am approaching the default.
+
+This also doesn't cover weekends. I sometimes enjoy those quiet moments on a Saturday or Sunday morning when no one in my house is awake and no one on chat is busy. Prime spreadsheet time.
 
 ## Why work?
 
