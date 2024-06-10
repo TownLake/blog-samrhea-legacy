@@ -79,7 +79,7 @@ Being a doctor is probably the most highly paid and prestigious form of shift wo
 
 ## So, what is the plan?
 
-![EOT-DST](content/posts/2024/2024-06-11-eot-dst/media/eot-dst.png)
+![EOT-DST](./media/eot-dst.png)
 
 | Time | Symbol | What is it? |
 |---|---|---|
