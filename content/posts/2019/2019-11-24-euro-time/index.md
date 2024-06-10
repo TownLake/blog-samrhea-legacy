@@ -8,7 +8,7 @@ category: "productivity"
 tags:
   - "productivity"
   - "Portugal"
-  - hits
+  - "hits"
 description: "Balancing work across time zones."
 socialImage: "./media/eot-overlap.png"
 ---
