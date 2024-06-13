@@ -37,6 +37,24 @@ Non-Fiction: 4
 * I introduced RomCom literature into my reading diet for the first time thanks to my wife and the author Emily Henry.
 * The history books covered monetary history, Mediterranean history, and recent American polital history.
 
+| Book Title                 | Month Read | Author                             | Format |
+|----------------------------|------------|------------------------------------|--------|
+| Book Lovers                | March      | Emily Henry                        | 📖     |
+| Peril                      | March      | Bob Woodward and Robert Costa      | 📖     |
+| For Profit                 | April      | William Magnuson                   | 📖     |
+| Thrawn                     | April      | Timothy Zahn                       | 🎧     |
+| Beach Ready                | May        | Emily Henry                        | 📖     |
+| A Legacy of Spies          | June       | John le Carré                      | 📖     |
+| Zero Hour                  | July       | Don Bentley                        | 📖     |
+| People We Meet on Vacation | July       | Emily Henry                        | 🎧     |
+| Dead or Alive              | August     | Tom Clancy and Grant Blackwood     | 📖     |
+| Locked On                  | September  | Tom Clancy and Mark Greaney        | 📖     |
+| Measure What Matters       | September  | John Doerr                         | 📖     |
+| Threat Vector              | October    | Tom Clancy and Mark Greaney        | 📖     |
+| Empires of the Sea         | October    | Roger Crowley                      | 🎧     |
+| Full Force and Effect      | November   | Mark Greaney                       | 📖     |
+| Commander in Chief         | December   | Mark Greaney                       | 📖     |
+
 ## 2023 Titles
 
 ### March
