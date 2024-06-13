@@ -1,9 +1,9 @@
 ---
-title: "🇵🇹🧪 European Office Time - Dad-light Savings Time"
+title: "🇪🇺👨‍🍼 European Office Time - Dad-light Savings Time"
 date: "2024-06-11"
 template: "post"
 draft: false
-slug: "/posts/2024/eot-dost"
+slug: "/posts/2024/eot-dst"
 category: "productivity"
 tags:
   - "productivity"
