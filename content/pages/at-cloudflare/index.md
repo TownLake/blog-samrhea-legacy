@@ -4,7 +4,7 @@ template: "page"
 socialImage: "../../sam-task.jpeg"
 ---
 
-I work on the Emerging Technology and Incubation team at Cloudflare. We ship the future that we think our customers will need months and years from now.
+I work on the Emerging Technology and Incubation team at Cloudflare. We ship the future that we think our customers will need months and years from now. I get to help solve a fun range of problems as the VP, Strategic Advisor & Chief of Staff.
 
 I previously spent six years launching, building, and leading the [Zero Trust](https://www.cloudflare.com/products/zero-trust/) [product line](https://blog.cloudflare.com/cloudflare-one-one-year-later/) at Cloudflare as the VP of Product.
 
@@ -52,11 +52,11 @@ As much as we love to build at Cloudflare, sometimes we need to bring in experts
 
 The team only shipped faster. We became the [only new vendor in the Gartner Magic Quadrant](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant/).
 
-## 2024 - Return to Emerging Technology and Incubation
+## 2024 - VP, Strategic Advisor & Chief of Staff - Emerging Technology and Incubation
 
 More enterprises adopted Cloudflare Zero Trust - and they loved it - Gartner named us a [Customers' Choice](https://www.gartner.com/reviews/market/zero-trust-network-access/vendor/cloudflare/product/cloudflare-access?cf_history_state=%7B%22guid%22%3A%22C255D9FF78CD46CDA4F76812EA68C350%22%2C%22historyId%22%3A14%2C%22targetId%22%3A%221920B3794DDB55FA38FAE7AB3D0515D5%22%7D) vendor based on that feedback and we kept moving up the [Magic Quadrant](https://blog.cloudflare.com/cloudflare-sse-gartner-magic-quadrant-2024).
 
-I also had a moment to survey the business and realize "hey, I think my team can do this - and do this really well - without me." The team I had assembled could thrive on their own and it probably made more sense to tackle new problems at Cloudflare. I volunteered to handover leadership of Cloudflare Zero Trust to my direct reports and I jumped back into our Emerging Technology and Incubation division in June.
+I also [had a moment](https://blog.samrhea.com/posts/2024/american-titles) to survey the business and realize "hey, I think my team can do this - and do this really well - without me." The team I had assembled could thrive on their own and it probably made more sense to tackle new problems at Cloudflare. I volunteered to handover leadership of Cloudflare Zero Trust to my direct reports and I jumped back into our Emerging Technology and Incubation division in June.
 
 When I handed off the keys to the Zero Trust team, the products in my group included:
 
