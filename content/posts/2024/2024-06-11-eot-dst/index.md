@@ -55,7 +55,7 @@ My schedule is pretty stoic if you boil it down: family, work, exercise. That sh
 
 The most “positive” missing opportunity here for spending your time is some form of community. Social gatherings, religious meetings, civic groups. I check most of those boxes, it's just that I am opportunistic about it during the week. When I do eat a real lunch, I’ll meet a friend somewhere in Lisbon near our office to catch up. I spend time in our church on Sundays. My wife and I will go out to dinner with friends on our date nights. We frequently have visitors over to our home on weekends. I’m very social - I just don’t prioritize it during the work week. I try to first spend what free time I do have with my family.
 
-Then there’s the other bucket - hobbies and recreation. Like the “being social” category, I just don’t know how I’d create this time. I also don’t really want to. I don’t feel compelled to become a home brewer or F1 enthusiast. When people ask me what I do in my free time I tend to tell them I am a _bon vivant_ - I like to eat well and live well and laugh with friends in the Portuguese sunshine.
+Then there’s the other bucket - hobbies and recreation. Like the “being social” category, I just don’t know how I’d create this time during the week. I also don’t really want to. I don’t feel compelled to become a home brewer or F1 enthusiast. When people ask me what I do in my free time I tend to tell them I am a _bon vivant_ - I like to eat well and live well and laugh with friends in the Portuguese sunshine.
 
 I also avoid a lot of “screen” hobbies. I have played one video game in the last decade - _Fortnite_, something that my friends and I picked up during the pandemic. We would all log into the game on Sunday nights mostly just to sit around and chat while we played. You did not need to invest a bunch of time in the lore or the game itself to enjoy it with your friends.
 
@@ -68,14 +68,8 @@ All of this isn’t to say that I don’t waste time. Like many of you, scrollin
 The ability to craft this schedule while also being a father is entirely dependent on the luck and privilege of:
 
 * Having a job that allows me to slightly alter my calendar.
-* Being married to someone who can also manage their work schedule slightly to balance parenting with me.
+* Being married to someone who can also slightly alter their work schedule to balance parenting with me.
 * Being able to afford a nanny during the day to watch our son and, someday, being able to afford daycare as he gets older.
-
-All of these are blessings, though sometimes I wonder if the first point is a trap. Would this be easier if I had a more set schedule? Working for an American technology company can be a kind of open ended pursuit, especially in the kinds of roles I have held. Would this be easier with shift work?
-
-I have a close friend who is a physician in New York. He knows the exact hours he will be working months in advance. That rigidity means he doesn’t have to set aside bonus time for surprise late night meetings (though he does have to be on call at times, but the hospitalist system in the US has made that much easier for most physicians). He also can commit to plans outside of work with religious adherence.
-
-Being a doctor is probably the most highly paid and prestigious form of shift work so it’s a terrible example compared to more manual labor kinds of roles or ones where you are only given 39 hours a week to avoid benefits. I just wonder if I would be less anxious about this if I had a role that expected a finite number of hours from you. I don’t actually want that, but it is interesting to consider.
 
 ## So, what is the plan?
 
