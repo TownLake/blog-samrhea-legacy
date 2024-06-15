@@ -49,13 +49,13 @@ When I wrote the EOT post I cataloged my “preferences” for how I wanted to s
 
 You’ll notice something odd - “Dinner” is not listed. I tend to snack a little bit around dinner time but prefer to eat a large lunch.
 
-## Sam, you’re missing this thing
+## Sam, you’re missing `this thing`
 
-This schedule is pretty stoic if you boil it down: family, work, exercise. That short list excludes some popular alternatives to spending your time, but I just don’t know how I would fit anything else.
+My schedule is pretty stoic if you boil it down: family, work, exercise. That short list excludes some popular alternatives to spending your time, but I just don’t know how I would fit anything else.
 
-The most “positive” missing opportunity here for spending your time is some form of community. Social gatherings, religious meetings, civic groups. I check most of those boxes, they are opportunistic or live on weekends. When I do eat a real lunch, I’ll meet a friend somewhere in Lisbon to catch up. I spend time in our church on Sundays. My wife and I will go out to dinner with friends on our date nights. We frequently have visitors over to our home on weekends. I’m very social - I just don’t prioritize it during the work week. I try to first spend what free time I do have with my family.
+The most “positive” missing opportunity here for spending your time is some form of community. Social gatherings, religious meetings, civic groups. I check most of those boxes, it's just that I am opportunistic about it during the week. When I do eat a real lunch, I’ll meet a friend somewhere in Lisbon near our office to catch up. I spend time in our church on Sundays. My wife and I will go out to dinner with friends on our date nights. We frequently have visitors over to our home on weekends. I’m very social - I just don’t prioritize it during the work week. I try to first spend what free time I do have with my family.
 
-Then there’s the other bucket - hobbies and recreation. Like the “being social” category, I just don’t know how I’d create this time. I also don’t really want to. I don’t feel compelled to become a home brewer or F1 enthusiast. When people ask me what I do in my free time I tend to tell them I am a _bon vivant_ - I just like to live well with friends in the Portuguese sunshine.
+Then there’s the other bucket - hobbies and recreation. Like the “being social” category, I just don’t know how I’d create this time. I also don’t really want to. I don’t feel compelled to become a home brewer or F1 enthusiast. When people ask me what I do in my free time I tend to tell them I am a _bon vivant_ - I like to eat well and live well and laugh with friends in the Portuguese sunshine.
 
 I also avoid a lot of “screen” hobbies. I have played one video game in the last decade - _Fortnite_, something that my friends and I picked up during the pandemic. We would all log into the game on Sunday nights mostly just to sit around and chat while we played. You did not need to invest a bunch of time in the lore or the game itself to enjoy it with your friends.
 
@@ -78,6 +78,30 @@ I have a close friend who is a physician in New York. He knows the exact hours h
 Being a doctor is probably the most highly paid and prestigious form of shift work so it’s a terrible example compared to more manual labor kinds of roles or ones where you are only given 39 hours a week to avoid benefits. I just wonder if I would be less anxious about this if I had a role that expected a finite number of hours from you. I don’t actually want that, but it is interesting to consider.
 
 ## So, what is the plan?
+
+I sketched out a few options on paper and realized that the rate limiting factor here is when my gym opens. I alternate weights and running during the week. I need about an hour when I lift. My gym opens at 6:30AM and my son wakes up shortly before 7:00AM. If I am going to lift, I cannot get it done before he wakes up which really shifts my schedule.
+
+I can, of course, run at nearly any time - weather permitting. That gives me the opportunity to run before my son wakes up. This is early to say/do in the summer, when it is warm and gets light early. Check back with me in February.
+
+### Run Days
+
+![EOT-DST Run](./media/eot-dst-run.png)
+
+| Time | Symbol | What is it? |
+|---|---|---|
+| 11:00p-5:30a | 😴 | Sleep |
+| 5:30a-6:30a | 🏃 | Run |
+| 6:30a-8:30a | 👶 | Fatherhood! Mornings with an infant are delightful. He is thrilled to see me when he wakes up, we eat breakfast together, and we play games and read books. |
+| 8:45a-9:15a | 🐕🚿 | Hand off child to wife who will hand him off to the nanny later in the morning. Shower and get dressed for the day. Get dogs to our dog daycare. |
+| 9:15a-9:30a | 🚶‍♂️ | Walk to the office, available for calls but rarely any takers due to the time zone. |
+| 9:30a-2:00p | ✉️ ✍️ | Get some real deep work done before America wakes up. Take European sales calls if I am lucky enough to get added. |
+| 2:00p-7:30p | ✉️🤝 | Meet! As in, Google Meet. I’m trying to be in less meetings these days but some telepresence is still required. |
+| 7:30p-8:00p | 🚶‍♂️ | Commute home and take calls; this one is more popular. |
+| 8:00p-9:30p | ✉️ | Emails and chats as needed. Async work. |
+| 9:30p-11:00p | 🏠📖 | Spend time with my wife, read. |
+| 11:00p | 😴 | Bed! |
+
+### Weight Days
 
 ![EOT-DST](./media/eot-dst.png)
 
@@ -104,11 +128,11 @@ This also doesn't cover weekends. I sometimes enjoy those quiet moments on a Sat
 
 The other, nuclear, option to creating a calendar as a parent is to just eliminate the biggest time block - work.
 
-I am very lucky - I don’t need to work anymore. Sure, I am not going to turn down more money but being in the right place at the right time over the last 12 years has put me in a position where I could comfortably live off of my savings and support my family.
+I am very lucky - I don’t need to work anymore in order to survive or take care of my family. I am not wealthy in the sense that I could live a luxurious life with abandon. I just have enough money to pay the mortgage and buy groceries. I am not going to turn down more money but being in the right place at the right time over the last 12 years has put me in a position where I could consider a kind of lean retirement.
 
-Doing so would require reasonable lifestyle changes, mostly around my personal travel habits. My propensity to book business class airfare for long haul flights would come under new scrutiny. As would my guilty pleasure of staying in the nicest hotels in town. Though I’d gladly sit in Premium Economy and sleep at a Westin in exchange for more time with my family.
+Doing so would require reasonable lifestyle changes, mostly around my personal travel habits. My propensity to book business class airfare for long haul flights would come under new scrutiny. As would my guilty pleasure of staying in the nicest hotels in town. Though I’d gladly dial that back in exchange for more time with my family.
 
-That isn’t the tradeoff, though. At least it isn’t for me. I want to work. I find it important for my own sense of purpose and community to have a healthy balance between my family, my community, and work that I find rewarding. I am fortunate enough to find what I do at the office to be something interesting and mission-oriented.
+That isn’t the tradeoff, though. At least it isn’t for me. I want to work. I find it important for my own sense of purpose and community to have a healthy balance between my family, my community, and work that I find rewarding. I am fortunate enough to find what I do at the office to be something interesting and mission-oriented. I also do like the idea of earning more money to maintain a lifestyle and be able to give back to others.
 
 I also know that at some point my son is going to go to school. We are absolutely not homeschool people. Creches and daycares are popular in Lisbon and we would like him to start attending and being around other kids sooner than later. He’ll still need me in the mornings, but his days will be spent learning and playing with his neighborhood peers.
 
