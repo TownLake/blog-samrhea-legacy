@@ -12,6 +12,8 @@ description: "A cultural primer for the traveling European."
 socialImage: ""
 ---
 
+![Texas Visit](./media/44F8C040-93FA-4DE2-BFB0-63E2F37B24D4.webp)
+
 This is not a travel guide for Texas. You will not find BBQ recommendations here. This is a cultural primer on what to expect from the people who inhabit a place that John Steinbeck called “a nation in every sense of the word.”
 
 I wrote this to prepare Europeans, but if you are from New York or California then it will probably be helpful to you as well (at the very least, Texans will consider you about as foreign as a European).
