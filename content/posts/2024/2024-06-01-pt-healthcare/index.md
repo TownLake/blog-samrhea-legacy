@@ -7,6 +7,7 @@ slug: "/posts/2024/portuguese-healthcare"
 category: "portugal"
 tags:
   - "portugal"
+  - "hits"
 description: "Or how I became a dad."
 socialImage: ""
 ---
