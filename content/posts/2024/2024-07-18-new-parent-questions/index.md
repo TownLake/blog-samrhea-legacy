@@ -1,5 +1,5 @@
 ---
-title: "🇪🇺🤠 Questions to Ask a New Parent"
+title: "❔👶 Questions to Ask a New Parent"
 date: "2024-07-18"
 template: "post"
 draft: false
