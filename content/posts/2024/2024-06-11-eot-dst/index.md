@@ -11,6 +11,7 @@ tags:
   - "hits"
 description: "Adjusting a time zone to a life phase."
 socialImage: ""
+hidden: true
 ---
 
 Five years ago I wrote a [post that cataloged](https://blog.samrhea.com/posts/2019/euro-office-time) my working hours in the European office of an American software company. I had moved from Austin to Lisbon to help open up the new Cloudflare office here but I kept most of my day job from back home. And in that capacity I found timezone nirvana. The blog post celebrated what I believe is the ideal working environment - the “Quiet Morning, Filtered Afternoon” setup.
