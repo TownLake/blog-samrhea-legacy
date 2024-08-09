@@ -1,5 +1,5 @@
 ---
-title: "🇵🇹👶 AI Tone Rewriter"
+title: "🤖🖋️ AI Tone Rewriter"
 date: "2024-08-08"
 template: "post"
 draft: false
