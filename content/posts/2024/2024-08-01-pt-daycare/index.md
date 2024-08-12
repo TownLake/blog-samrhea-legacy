@@ -4,7 +4,7 @@ date: "2024-08-01"
 template: "post"
 draft: false
 slug: "/posts/2024/texas-visit"
-category: "texas"
+category: "portugal"
 tags:
   - "portugal"
 description: "Hail Mary."
