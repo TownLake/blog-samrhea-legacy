@@ -38,13 +38,19 @@ I loved _The Expanse_ television series but still have not picked up the books. 
 
 ### Publisher Summary
 
-The United States has stared down many threats with President Jack Ryan at the helm, but what if he’s not there when we need him? That’s the question facing a nation in the most shocking entry in Tom Clancy's #1 New York Times bestselling series.
+How humanity came to the planet called Anjiin is lost in the fog of history, but that history is about to end.
 
-A shadowy billionaire uses his fortune to further his corrupt ambitions. Along the way, he’s toppled democratically elected governments and exacerbated divisions within stable nations. The competitors he’s destroyed, the people he’s hurt, they’re all just marks on a ledger. Now, he’s ready to implement his most ambitious plan of all. There’s only one force standing in his way—President Jack Ryan.
+The Carryx – part empire, part hive – have waged wars of conquest for centuries, destroying or enslaving species across the galaxy.  Now, they are facing a great and deathless enemy. The key to their survival may rest with the humans of Anjiin.  
 
-How do you compel a man like Jack Ryan to bend? He’s personally faced down everything from the Russian navy to cartel killers. It will take more than political headwinds or media disfavor to cause him to turn from his duty to the American people, but every man has an Achilles heel. Jack Ryan’s is his family.
+Caught up in academic intrigue and affairs of the heart, Dafyd Alkhor is pleased just to be an assistant to a brilliant scientist and his celebrated research team.  Then the Carryx ships descend, decimating the human population and taking the best and brightest of Anjiin society away to serve on the Carryx homeworld, and Dafyd is swept along with them.
 
-The answer is as simple as it is shocking. The billionaire has assembled an international team of the most ruthless mercenaries alive. Their mission—kidnap the First Lady.
+They are dropped in the middle of a struggle they barely understand, set in a competition against the other captive species with extinction as the price of failure.  Only Dafyd and a handful of his companions see past the Darwinian contest to the deeper game that they must play to survive: learning to understand – and manipulate – the Carryx themselves.
+
+With a noble but suicidal human rebellion on one hand and strange and murderous enemies on the other, the team pays a terrible price to become the trusted servants of their new rulers.
+
+Dafyd Alkhor is a simple man swept up in events that are beyond his control and more vast than his imagination.  He will become the champion of humanity and its betrayer, the most hated man in history and the guardian of his people.
+
+This is where his story begins.
 
 ## How did I read it?
 |Category|Value|
@@ -54,7 +60,7 @@ The answer is as simple as it is shocking. The billionaire has assembled an inte
 |**Places Read**|Lisbon, Sintra, Honest Greens|
 
 ## Notes - No Spoilers
-* Alright, here's the deal - I liked it. I'm absolutely going to read the next books in the series. I am bought in and intrigued. That said, whew, this thing was bleak. You have some promise of hope in the forshadowing but this novel was dark, tragic, and not exactly hopeful.
+* Alright, here's the deal - I liked it. I'm absolutely going to read the next books in the series. I am bought in and intrigued. That said, whew, this thing was bleak. You have some promise of hope in the foreshadowing but this novel was dark, tragic, and not exactly hopeful.
 * Still, fun premise.
 * We spent way, way too much time talking about laboratories and academic funding. Just way too much.
 * Also, like _The Ringer_ [pointed out](https://www.theringer.com/2024/8/12/24218143/the-mercy-of-gods-review-the-captives-war-james-s-a-corey-sci-fi), this thing has much larger scope (galaxies, lightspeed travel, more sentient aliens) than The Expanse series but the aperture is much more tightly centered around this abducted crew than the planet-spanning Expanse novels.
