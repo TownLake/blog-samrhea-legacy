@@ -20,12 +20,6 @@ const Author = () => {
         >
           <strong>{author.name}</strong> on Twitter
         </a>
-        <a
-          href="https://mailchi.mp/c32cdbf0cefa/sam-rhea-blog"
-          rel="noopener noreferrer"
-        >
-          <strong>Sign up</strong> for emails
-        </a>
       </p>
     </div>
   );
