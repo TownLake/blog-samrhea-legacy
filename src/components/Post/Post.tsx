@@ -29,7 +29,9 @@ const Post: React.FC<Props> = ({ post }: Props) => {
       </div>
 
       <div className={styles.content}>
-        <Content body={html} title={title} />
+        <Content title={title} />
+        <Meta date={date} />
+        <Content body={html} />
       </div>
 
       <div className={styles.footer}>
