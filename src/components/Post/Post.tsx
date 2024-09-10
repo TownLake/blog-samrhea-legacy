@@ -30,7 +30,9 @@ const Post: React.FC<Props> = ({ post }: Props) => {
 
       <div className={styles.content}>
         <Content title={title} />
-        <Meta date={date} />
+        <div style={{ display: 'flex', justifyContent: 'center', width: '100%' }}>
+          <Meta date={date} />
+        </div>
         <Content body={html} />
       </div>
 
