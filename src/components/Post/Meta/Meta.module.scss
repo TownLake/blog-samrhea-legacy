@@ -2,6 +2,9 @@
 @import "../../../assets/scss/mixins";
 
 .meta {
+  text-align: center;
+  margin: 1rem 0;
+  
   .date {
     font-style: italic;
   }
