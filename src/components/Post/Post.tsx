@@ -30,7 +30,9 @@ const Post: React.FC<Props> = ({ post }: Props) => {
 
       <div className={styles.content}>
         <Content title={title} />
-        <Meta date={date} />
+        <div className={styles.metaWrapper}></div>
+          <Meta date={date} />
+        </div>
         <Content body={html} />
       </div>
 
