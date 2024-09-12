@@ -8,6 +8,6 @@
   .date {
     font-style: italic;
     color: var(--color-tyopgraphic-base-font);
-    @include margin(0);
+    @include margin(0, 0);
   }
 }
