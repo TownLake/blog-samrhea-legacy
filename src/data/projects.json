@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "title": "E-commerce Platform",
+      "description": "A fully responsive online store built with React and Node.js",
+      "imageUrl": "/images/ecommerce-project.jpg",
+      "projectUrl": "https://ecommerce-project.com"
+    },
+    {
+      "id": "2",
+      "title": "Weather App",
+      "description": "Real-time weather forecasts using OpenWeatherMap API",
+      "imageUrl": "/images/weather-app.jpg",
+      "projectUrl": "https://weather-app-project.com"
+    },
+    {
+      "id": "3",
+      "title": "Task Manager",
+      "description": "A Kanban-style project management tool",
+      "imageUrl": "/images/task-manager.jpg",
+      "projectUrl": "https://task-manager-project.com"
+    },
+    {
+      "id": "4",
+      "title": "Recipe Finder",
+      "description": "Search and save your favorite recipes",
+      "imageUrl": "/images/recipe-finder.jpg",
+      "projectUrl": "https://recipe-finder-project.com"
+    }
+  ]

@@ -1,0 +1,26 @@
+.project-showcase {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  
+    h1 {
+      text-align: center;
+      margin-bottom: 2rem;
+      font-size: 2rem;
+      font-weight: bold;
+    }
+  
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 2rem;
+    }
+  }
+  
+  // Dark mode styles
+  @media (prefers-color-scheme: dark) {
+    .project-showcase {
+      background-color: #1a202c;
+      color: #f7fafc;
+    }
+  }
