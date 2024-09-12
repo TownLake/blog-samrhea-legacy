@@ -15,7 +15,7 @@
     text-align: center;
     @include line-height(1.65);
     @include margin-top(1);
-    @include margin-bottom(0);
+    @include margin-bottom(0.5);
   }
 
   .body {
@@ -25,7 +25,7 @@
       blockquote {
         font-style: italic;
         text-align: center;
-        @include margin-top(0);
+        @include margin-top(0.5);
         @include padding(1, 0);
 
         p {
