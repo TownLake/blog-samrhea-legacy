@@ -13,37 +13,52 @@ type Props = {
   contacts: Dictionary<string>;
 };
 
-const Contacts: React.FC<Props> = ({ contacts }: Props) => (
-  <div className={styles.contacts}>
-    <ul className={styles.list}>
-      {(Object.keys(contacts) as Array<keyof typeof ICONS>).map((name) =>
-        contacts[name] ? (
-          <li className={styles.item} key={name}>
-            {name === "email" ? (
-              <span
-                className={styles.link}
-                onClick={() => {
-                  window.location.href =
-                    "mailto:" + atob(getContactHref(name, contacts[name]));
-                }}
-              >
-                <Icon name={name} icon={getIcon(name)} />
-              </span>
-            ) : (
-              <a
-                className={styles.link}
-                href={getContactHref(name, contacts[name])}
-                target="_blank"
-                rel={`noopener noreferrer${name === "mastodon" ? " me" : ""}`}
-              >
-                <Icon name={name} icon={getIcon(name)} />
-              </a>
-            )}
-          </li>
-        ) : null,
-      )}
-    </ul>
-  </div>
-);
+const Contacts: React.FC<Props> = ({ contacts }: Props) => {
+  const contactsEntered: Dictionary<string> = Object.keys(contacts).reduce(
+    (acc, key) =>
+      contacts[key] && contacts[key] !== "" && contacts[key] !== "#"
+        ? { ...acc, [key]: contacts[key] }
+        : acc,
+    {},
+  );
+
+  return (
+    Object.keys(contactsEntered).length > 0 && (
+      <div className={styles.contacts}>
+        <ul className={styles.list}>
+          {(Object.keys(contactsEntered) as Array<keyof typeof ICONS>).map(
+            (name) => (
+              <li className={styles.item} key={name}>
+                {name === "email" ? (
+                  <span
+                    className={styles.link}
+                    onClick={() => {
+                      window.location.href =
+                        "mailto:" +
+                        atob(getContactHref(name, contactsEntered[name]));
+                    }}
+                  >
+                    <Icon name={name} icon={getIcon(name)} />
+                  </span>
+                ) : (
+                  <a
+                    className={styles.link}
+                    href={getContactHref(name, contactsEntered[name])}
+                    target="_blank"
+                    rel={`noopener noreferrer${
+                      name === "mastodon" ? " me" : ""
+                    }`}
+                  >
+                    <Icon name={name} icon={getIcon(name)} />
+                  </a>
+                )}
+              </li>
+            ),
+          )}
+        </ul>
+      </div>
+    )
+  );
+};
 
 export default Contacts;

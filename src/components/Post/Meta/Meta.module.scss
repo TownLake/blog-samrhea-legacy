@@ -2,12 +2,7 @@
 @import "../../../assets/scss/mixins";
 
 .meta {
-  text-align: center;
-  margin: 0.5rem 0;
-  
   .date {
     font-style: italic;
-    color: var(--color-tyopgraphic-base-font);
-    @include margin(0, 0);
   }
 }

@@ -157,7 +157,7 @@ export default {
         short_name: config.title,
         theme_color: "hsl(31, 92%, 62%)",
         background_color: "hsl(0, 0%, 100%)",
-        icon: "content/sam-task.jpeg",
+        icon: "content/photo.jpg",
         display: "standalone",
         start_url: "/",
       },

@@ -1,4 +1,4 @@
-import getContactHref from "./get-contact-href";
+import { getContactHref } from "@/utils";
 
 describe("getContactHref", () => {
   test("successful return contact href", () => {

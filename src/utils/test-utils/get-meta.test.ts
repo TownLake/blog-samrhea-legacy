@@ -1,4 +1,4 @@
-import { testUtils } from "@/utils";
+import { getMeta } from "@/utils/test-utils";
 
 describe("testUtils.getMeta", () => {
   test("successful getting value by key", () => {
@@ -28,8 +28,8 @@ describe("testUtils.getMeta", () => {
       },
     ] as unknown as HTMLCollectionOf<HTMLElement>);
 
-    expect(testUtils.getMeta("title")).toBe("any title");
-    expect(testUtils.getMeta("description")).toBe("any description");
-    expect(testUtils.getMeta("og:image")).toBe("");
+    expect(getMeta("title")).toBe("any title");
+    expect(getMeta("description")).toBe("any description");
+    expect(getMeta("og:image")).toBe("");
   });
 });

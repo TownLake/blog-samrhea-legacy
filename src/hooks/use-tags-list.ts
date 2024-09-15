@@ -10,22 +10,20 @@ interface TagsQueryResult {
 }
 
 const useTagsList = () => {
-  const { allMarkdownRemark } = useStaticQuery<TagsQueryResult>(
-    graphql`
-      query TagsListQuery {
-        allMarkdownRemark(
-          filter: {
-            frontmatter: { template: { eq: "post" }, draft: { ne: true } }
-          }
-        ) {
-          group(field: frontmatter___tags) {
-            fieldValue
-            totalCount
-          }
+  const { allMarkdownRemark } = useStaticQuery<TagsQueryResult>(graphql`
+    query TagsListQuery {
+      allMarkdownRemark(
+        filter: {
+          frontmatter: { template: { eq: "post" }, draft: { ne: true } }
+        }
+      ) {
+        group(field: frontmatter___tags) {
+          fieldValue
+          totalCount
         }
       }
-    `,
-  );
+    }
+  `);
 
   return allMarkdownRemark.group || [];
 };

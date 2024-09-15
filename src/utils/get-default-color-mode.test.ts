@@ -1,4 +1,4 @@
-import getDefaultColorMode from "./get-default-color-mode";
+import { getDefaultColorMode } from "@/utils";
 
 describe("getDefaultColorMode", () => {
   test("successful return color mode", () => {
