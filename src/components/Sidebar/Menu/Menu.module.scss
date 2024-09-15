@@ -1,0 +1,35 @@
+@import "../../../assets/scss/variables";
+@import "../../../assets/scss/mixins";
+
+.menu {
+  @include margin-bottom(1);
+
+  .list {
+    list-style: none;
+    @include margin-equal(0);
+    @include padding-equal(0);
+
+    .item {
+      @include margin(0.5, 0);
+      @include padding-equal(0);
+
+      .link {
+        border: 0;
+        color: var(--color-typographic-base-font);
+        font-size: $typographic-base-font-size;
+        font-weight: normal;
+
+        &:hover,
+        &:focus {
+          border-bottom: 1px solid $color-blue;
+          color: $color-blue;
+        }
+
+        &.active {
+          border-bottom: 1px solid var(--color-typographic-base-font);
+          color: var(--color-typographic-base-font);
+        }
+      }
+    }
+  }
+}

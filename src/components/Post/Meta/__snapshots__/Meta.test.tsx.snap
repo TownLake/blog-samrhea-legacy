@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Meta renders correctly 1`] = `
+<div>
+  <p>
+    Published
+     
+    Sep 1, 2016
+  </p>
+</div>
+`;

@@ -1,0 +1,73 @@
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixins";
+
+.feed {
+  .item {
+    @include margin-bottom(1.25);
+
+    &:last-child {
+      @include margin-bottom(0.5);
+    }
+
+    .title {
+      font-size: $typographic-base-font-size * 1.6875;
+      @include line-height(1.5);
+      @include margin-top(0);
+      @include margin-bottom(0.5);
+
+      .link {
+        color: var(--color-typographic-base-font);
+
+        &:hover,
+        &:focus {
+          border-bottom: 1px solid $color-dark;
+          color: var(--color-typographic-base-font);
+        }
+      }
+    }
+
+    .description {
+      font-size: $typographic-base-font-size;
+      @include line-height(1);
+      @include margin-bottom(0.75);
+    }
+
+    .meta {
+      .time {
+        color: var(--color-typographic-base-font);
+        font-size: $typographic-small-font-size;
+        font-weight: 600;
+        text-transform: uppercase;
+      }
+
+      .divider {
+        @include margin(0, 0.5);
+      }
+
+      .category {
+        .link {
+          color: var(--color-secondary);
+          font-size: $typographic-small-font-size;
+          font-weight: 600;
+          text-transform: uppercase;
+
+          &:hover,
+          &:focus {
+            color: $color-blue;
+          }
+        }
+      }
+    }
+
+    .more {
+      color: var(--color-primary);
+      font-size: $typographic-base-font-size;
+
+      &:hover,
+      &:focus {
+        border-bottom: 1px solid $color-blue;
+        color: var(--color-primary);
+      }
+    }
+  }
+}

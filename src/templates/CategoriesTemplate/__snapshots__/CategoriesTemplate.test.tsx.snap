@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoriesTemplate renders correctly 1`] = `
+<div>
+  <div>
+    <div>
+      <div>
+        <a
+          href="/"
+        />
+        <div>
+          <h2>
+            <a
+              href="/"
+            >
+              John Doe
+            </a>
+          </h2>
+        </div>
+        <p>
+          Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
+        </p>
+      </div>
+      <nav>
+        <ul>
+          <li>
+            <a
+              href="/"
+            >
+              Articles
+            </a>
+          </li>
+          <li>
+            <a
+              href="/pages/about"
+            >
+              About Me
+            </a>
+          </li>
+          <li>
+            <a
+              href="/pages/contacts"
+            >
+              Contact Me
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <div>
+        All rights reserved.
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h1>
+        Categories
+      </h1>
+      <div>
+        <ul>
+          <li>
+            <a
+              href="/category/typography/"
+            >
+              typography
+               (
+              1
+              )
+            </a>
+          </li>
+          <li>
+            <a
+              href="/category/design-inspiration/"
+            >
+              design inspiration
+               (
+              1
+              )
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;

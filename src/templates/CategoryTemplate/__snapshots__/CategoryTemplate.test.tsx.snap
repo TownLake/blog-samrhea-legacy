@@ -1,0 +1,180 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoryTemplate renders correctly 1`] = `
+<div>
+  <div>
+    <div>
+      <div>
+        <a
+          href="/"
+        />
+        <div>
+          <h2>
+            <a
+              href="/"
+            >
+              John Doe
+            </a>
+          </h2>
+        </div>
+        <p>
+          Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
+        </p>
+      </div>
+      <nav>
+        <ul>
+          <li>
+            <a
+              href="/"
+            >
+              Articles
+            </a>
+          </li>
+          <li>
+            <a
+              href="/pages/about"
+            >
+              About Me
+            </a>
+          </li>
+          <li>
+            <a
+              href="/pages/contacts"
+            >
+              Contact Me
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <div>
+        All rights reserved.
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h1>
+        Typography
+      </h1>
+      <div>
+        <div>
+          <div>
+            <div>
+              <time
+                dateTime="September 1, 2016"
+              >
+                September 2016
+              </time>
+              <span />
+              <span>
+                <a
+                  href="/typography"
+                >
+                  Typography
+                </a>
+              </span>
+            </div>
+            <h2>
+              <a
+                href="/posts/perfecting-the-art-of-perfection"
+              >
+                Perfecting the Art of Perfection
+              </a>
+            </h2>
+            <p>
+              An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
+            </p>
+            <a
+              href="/posts/perfecting-the-art-of-perfection"
+            >
+              Read
+            </a>
+          </div>
+          <div>
+            <div>
+              <time
+                dateTime="September 1, 2016"
+              >
+                September 2016
+              </time>
+              <span />
+              <span>
+                <a
+                  href="/design-inspiration"
+                >
+                  Design Inspiration
+                </a>
+              </span>
+            </div>
+            <h2>
+              <a
+                href="/posts/johannes-gutenberg"
+              >
+                Johannes Gutenberg: The Birth of Movable Type
+              </a>
+            </h2>
+            <p>
+              German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.
+            </p>
+            <a
+              href="/posts/johannes-gutenberg"
+            >
+              Read
+            </a>
+          </div>
+          <div>
+            <div>
+              <time
+                dateTime="September 1, 2017"
+              >
+                September 2017
+              </time>
+              <span />
+              <span>
+                <a
+                  href="/typography"
+                >
+                  Typography
+                </a>
+              </span>
+            </div>
+            <h2>
+              <a
+                href="/posts/humane-typography-in-the-digital-age"
+              >
+                Humane Typography in the Digital Age
+              </a>
+            </h2>
+            <p />
+            <a
+              href="/posts/humane-typography-in-the-digital-age"
+            >
+              Read
+            </a>
+          </div>
+        </div>
+        <div>
+          <div>
+            <a
+              className=""
+              href="/typography/page/1"
+              rel="prev"
+            >
+              ← PREV
+            </a>
+          </div>
+          <div>
+            <a
+              className=""
+              href="/typography/page/3"
+              rel="next"
+            >
+              → NEXT
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

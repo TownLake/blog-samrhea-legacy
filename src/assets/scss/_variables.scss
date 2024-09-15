@@ -1,0 +1,29 @@
+@use "sass:math";
+@use "sass:color";
+
+$color-dark: hsl(220, 17%, 17%);
+$color-dark-cloud: hsl(220, 17%, 30%);
+$color-dark-paper: hsl(220, 17%, 12%);
+$color-white: hsl(0, 0%, 100%);
+$color-white-cloud: hsl(240, 1%, 92%);
+$color-gray: hsl(220, 17%, 57%);
+$color-blue: hsl(220, 100%, 68%);
+$color-orange: hsl(31, 92%, 62%);
+
+$typographic-root-font-size: 100;
+$typographic-base-font-size: 16px;
+$typographic-small-font-size: 14px;
+$typographic-base-line-height: 1.625;
+$typographic-leading: math.round(16 * math.div($typographic-root-font-size, 100) * $typographic-base-line-height);
+$typographic-font-family: -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+
+$button-height: 40px;
+$button-border-radius: 20px;
+
+$layout-post-single-width: 945px;
+$layout-post-width: $layout-post-single-width - 305px;
+
+$layout-width: 1070px;
+$layout-breakpoint-sm: 685px;
+$layout-breakpoint-md: 960px;
+$layout-breakpoint-lg: 1100px;

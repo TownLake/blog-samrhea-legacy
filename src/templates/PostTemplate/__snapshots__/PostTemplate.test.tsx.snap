@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostTemplate renders correctly 1`] = `
+<div>
+  <div>
+    <div>
+      <a
+        className=""
+        href="/"
+      >
+        All Articles
+      </a>
+    </div>
+    <div>
+      <div>
+        <h1>
+          Perfecting the Art of Perfection
+        </h1>
+        <div
+          dangerouslySetInnerHTML={
+            {
+              "__html": "<p>An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.</p>",
+            }
+          }
+        />
+      </div>
+    </div>
+    <div>
+      <div>
+        <p>
+          Published
+           
+          Sep 1, 2016
+        </p>
+      </div>
+      <div>
+        <p>
+          Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
+          <a
+            href="https://www.twitter.com/#"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <strong>
+              John Doe
+            </strong>
+             on Twitter
+          </a>
+        </p>
+      </div>
+    </div>
+    <div />
+  </div>
+</div>
+`;

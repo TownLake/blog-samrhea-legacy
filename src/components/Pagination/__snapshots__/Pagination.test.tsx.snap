@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination renders correctly 1`] = `
+<div>
+  <div>
+    <a
+      className=""
+      href="/typography/page/1"
+      rel="prev"
+    >
+      ← PREV
+    </a>
+  </div>
+  <div>
+    <a
+      className=""
+      href="/typography/page/3"
+      rel="next"
+    >
+      → NEXT
+    </a>
+  </div>
+</div>
+`;

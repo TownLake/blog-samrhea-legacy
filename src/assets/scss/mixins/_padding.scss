@@ -1,0 +1,40 @@
+@import "../variables";
+
+@mixin padding-left($number) {
+  padding-left: #{$number * $typographic-leading + "px"};
+}
+
+@mixin padding-right($number) {
+  padding-right: #{$number * $typographic-leading + "px"};
+}
+
+@mixin padding-top($number) {
+  padding-top: #{$number * $typographic-leading + "px"};
+}
+
+@mixin padding-bottom($number) {
+  padding-bottom: #{$number * $typographic-leading + "px"};
+}
+
+@mixin padding-equal($number) {
+  padding: #{$number * $typographic-leading + "px"};
+}
+
+@mixin padding($top, $right, $bottom: null, $left: null) {
+  @if not $left and not $bottom {
+    padding:
+      #{$top * $typographic-leading + "px"}
+      #{$right * $typographic-leading + "px"};
+  } @else if not $left or $left == $right {
+    padding:
+      #{$top * $typographic-leading + "px"}
+      #{$right * $typographic-leading + "px"}
+      #{$bottom * $typographic-leading + "px"};
+  } @else {
+    padding:
+      #{$top * $typographic-leading + "px"}
+      #{$right * $typographic-leading + "px"}
+      #{$bottom * $typographic-leading + "px"}
+      #{$left * $typographic-leading + "px"};
+  }
+}

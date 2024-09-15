@@ -1,0 +1,23 @@
+@use "sass:color";
+@import "../variables";
+
+:root,
+:after,
+:before {
+  --color-white: #{$color-white};
+  --color-primary: #{$color-blue};
+  --color-secondary: #{$color-orange};
+  --color-prism-background: #{$color-white-cloud};
+  --color-typographic-base-font: #{$color-dark};
+  --color-typographic-link-p-font: #{$color-blue};
+  --color-typographic-link-s-font: #{$color-orange};
+  --color-page-border: #{$color-white-cloud};
+  --color-page-background: #{$color-white};
+  --color-sidebar-border: #{$color-white-cloud};
+  --color-sidebar-border-fade: #{$color-white};
+  --color-contacts-border: #{$color-white-cloud};
+  --color-button-border: #{$color-white-cloud};
+  --color-button-color: #{$color-dark};
+  --color-theme-switcher: #{$color-dark-cloud};
+  --color-theme-switcher-hover: #{$color-blue};
+}

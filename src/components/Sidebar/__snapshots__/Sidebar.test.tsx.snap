@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sidebar renders correctly 1`] = `
+<div>
+  <div>
+    <div>
+      <a
+        href="/"
+      />
+      <div>
+        <h1>
+          <a
+            href="/"
+          >
+            John Doe
+          </a>
+        </h1>
+      </div>
+      <p>
+        Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
+      </p>
+    </div>
+    <nav>
+      <ul>
+        <li>
+          <a
+            href="/"
+          >
+            Articles
+          </a>
+        </li>
+        <li>
+          <a
+            href="/pages/about"
+          >
+            About Me
+          </a>
+        </li>
+        <li>
+          <a
+            href="/pages/contacts"
+          >
+            Contact Me
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <div>
+      All rights reserved.
+    </div>
+  </div>
+</div>
+`;
